@@ -1,0 +1,30 @@
+
+---E-Commerce Sales Analytics Uncovering Revenue and Operational Efficiencies Through Data-Driven Insights----
+
+Conducted Tasks:
+
+1. Initial Setup: Importing necessary libraries (pandas, numpy, seaborn, matplotlib) and configuring pandas to display all columns.
+Data Loading: Reading data from Amazon.csv and displaying the first few rows to understand the dataset structure.
+Preliminary Data Exploration: Checking the dataset's info, identifying null values, and understanding the dataset's shape.
+
+2. Data Cleaning:
+Removed Unwanted Columns: Columns like index, Style, Unnamed: 22, currency, ship-country, and ASIN were removed for streamlined analysis.
+Renamed Columns: Standardized column names for consistency.
+Standardized Text Data: Converted values in Ship_city and Ship_state to uppercase and removed trailing periods.
+Handled Missing Values: Filled null values appropriately based on the column context.
+Date Conversion: Converted the Date column to a proper date data type and created additional columns for Year, Month, and Week_day.
+Currency Conversion: Converted Amount values from INR to USD.
+Revenue Calculation: Added a new column for revenue.
+
+3. Exploratory Data Analysis (EDA) Key Insights:
+Total Revenue Generated: Between 2022-03-31 and 2022-06-29, the total revenue was $867,306.35.
+Top Products: By sales and quantity, the top products were Set, Kurta, and Western Dress, with specific percentages for each.
+Monthly Product Revenue: Identified top products by revenue for each month, noting increases and decreases.
+Average Order Value (AOV): Calculated AOV as $7.76, excluding zero-quantity orders, with specific values for different items.
+Peak Sales Periods: Highlighted peak sales by date, year, month, and week, with specifics like peak sales on 2022-05-04.
+Geographic Sales Distribution: Identified top cities and states for sales, highlighting Bengaluru, Hyderabad, Mumbai, Maharashtra, Karnataka, and Telangana.
+Order Cancellations Trends: Analyzed trends in order cancellations by fulfillment method, state, day, product, size, promotion use, and B2B vs. B2C.
+Fulfillment Analysis: Found that 69.5% of orders were fulfilled by Amazon compared to 30.5% by merchants.
+Promotion Effectiveness: Noted an increase in orders and cancellations related to promotion usage.
+Common Promotions: Identified the most commonly used promotion as "IN CORE FREE shipping."
+Revenue Contribution: Amazon generated 70.5% of revenue compared to 29.5% by merchants.
