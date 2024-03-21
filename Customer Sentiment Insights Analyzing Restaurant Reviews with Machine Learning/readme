@@ -1,0 +1,31 @@
+------Customer Sentiment Insights Analyzing Restaurant Reviews with Machine Learning-----
+
+-----Tasks Performed---
+
+1, Data Preprocessing:
+Cleaned and prepared text data from restaurant reviews for analysis, employing techniques like lowercasing, removing punctuation, and stripping whitespace.
+
+2. Text Vectorization:
+Transformed textual data into numerical format using the CountVectorizer tool, enabling machine learning algorithms to process and analyze the text.
+
+3. Model Training and Evaluation:
+Trained a Naive Bayes classifier to differentiate between positive and negative reviews, assessing the model's performance on unseen data to ensure reliability and accuracy.
+
+4. Performance Analysis:
+Quantified the model's effectiveness by calculating key metrics such as accuracy, precision, and recall, and interpreted these results to derive actionable insights.
+
+5. Libraries Used:
+Python: The primary programming language for the project, used for its robust ecosystem and extensive support for data science and machine learning tasks.
+Pandas: Utilized for data manipulation and analysis, particularly for handling and exploring the dataset of restaurant reviews.
+NumPy: Employed for numerical computing, especially for operations on arrays and matrices which are crucial for data preprocessing and model evaluation.
+scikit-learn: A key library for machine learning in Python, used for text vectorization (CountVectorizer), model training (Naive Bayes classifier), data splitting (train_test_split), and performance evaluation (accuracy, precision, recall metrics).
+re (Regular Expressions): Applied for text cleaning and preprocessing, allowing for sophisticated pattern matching and manipulation of textual data.
+
+----KeyInsights----
+
+1. Conducted sentiment analysis on a dataset of 1,000 restaurant reviews using Python and machine learning techniques, achieving an 81% accuracy in classifying reviews as positive or negative.
+2. Employed Natural Language Processing (NLP) tools and techniques, including text vectorization with CountVectorizer and regular expressions for data preprocessing, enhancing the model's ability to understand and analyze textual data.
+3. Trained and evaluated a Naive Bayes classifier, resulting in precision and recall rates of 82.18% and 80.58%, respectively, demonstrating the model's effectiveness in identifying positive sentiments.
+4. Utilized the scikit-learn library for machine learning tasks, including model training, data splitting, and performance evaluation, showcasing proficiency in using key Python libraries for data science.
+5. Analyzed and interpreted the model's performance using a confusion matrix, accurately identifying 83 true positives and 79 true negatives out of a test set of 200 reviews, evidencing strong analytical and problem-solving skills.
+6. Improved decision-making processes by providing actionable insights through the quantitative analysis of customer feedback, assisting in the enhancement of customer satisfaction and service quality.
