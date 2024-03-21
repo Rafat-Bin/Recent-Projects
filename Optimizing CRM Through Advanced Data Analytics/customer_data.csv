@@ -1,0 +1,1001 @@
+CustomerID,FullName,Email,Phone,BirthDate,Address,City,State,ZipCode,LastPurchaseDate,AccountCreated,MembershipStatus,TotalSpend,NumOfPurchases,LastLoginDate
+1,David Herrera,brittany41@example.net,001-265-232-0536,2006-01-09,889 Gonzalez Plaza,Connerview,OH,75221,2024-01-27,2021-01-15,Active,2473.43,79,2024-02-13
+2,Jessica Rivera,aaronmendoza@example.org,919-922-9424x460,1968-09-16,81776 Kimberly Road Apt. 046,North Phyllis,LA,58318,2024-02-11,2023-11-25,Lapsed,700.69,33,2024-01-17
+3,Adrian Smith,craig96@example.org,270-969-2262,1974-01-20,8616 Samuel Fort,Port Meganborough,MI,08990,2024-02-12,2022-06-06,Lapsed,325.46,75,2024-01-16
+4,Lauren Hopkins,harriskenneth@example.net,601.796.0436x9079,1998-11-30,5790 Anderson Divide Suite 457,South Melody,NH,86173,2024-02-14,2021-09-11,Lapsed,3411.51,47,2024-01-22
+5,Aaron Mann,dzamora@example.net,782-543-9715,1958-02-15,609 Estrada Road Suite 101,Luiston,KY,04574,2024-02-23,2020-02-03,Lapsed,839.95,48,2024-03-14
+6,David Christensen,stevenwilliams@example.com,+1-493-750-6034x577,1964-01-27,49747 Moore Forks,New Candiceport,WV,38050,2024-02-27,2022-01-21,Active,3188.92,89,2024-02-09
+7,Meghan Moreno,brianna14@example.net,424-988-3991x82493,2002-11-01,315 Blackwell Trace,Lawrencechester,NV,43033,2024-03-15,2023-03-27,Active,2369.48,36,2024-02-13
+8,Mr. Adam Smith,jasoncook@example.net,716.290.0958,1998-09-12,587 Crystal Forest,Jessicachester,GA,34501,2024-01-31,2020-10-30,Lapsed,3200.14,58,2024-02-21
+9,George Alexander,lambertjuan@example.net,+1-336-789-9456x4925,1950-06-23,6316 Parker Islands,Bennettview,VA,90224,2024-01-06,2021-05-24,Lapsed,1294.13,56,2024-03-01
+10,Jessica Mason,jessicabrewer[at]example.com,2885367294,1966-02-14,370 Michael Mountains,Janetstad,IN,45433,2024-02-22,2023-06-21,Lapsed,3328.52,22,2024-03-07
+11,Christina Hamilton,clopez@example.com,(559)482-3538x666,1974-05-18,9481 Baxter Ports,Michaelton,MN,10404,2024-03-11,2020-07-04,Active,1858.98,49,2024-02-06
+12,Shelly Wells,markwu@example.org,001-978-928-1786x9391,1945-05-20,17894 Ashley Ports,South Dianaport,NM,39901,2024-01-29,2022-07-30,Expired,4912.43,20,2024-03-02
+13,Melvin Lozano,nicholas32@example.net,001-898-481-8485,1937-04-13,279 Heather Cove Suite 946,West Julialand,ME,04416,2024-02-08,2023-02-05,Lapsed,4963.62,60,2024-02-05
+14,Lauren Wood,pwhite@example.com,227.830.7522x5298,1958-02-16,72440 Christine Ramp,Lake Stevenville,NV,96847,2024-01-14,2019-09-25,Active,1768.05,80,2024-02-14
+15,Deborah Lambert,anthonymay@example.com,555-450-6493,1962-12-28,82248 Justin Inlet,South Michaelchester,ID,04038,2024-02-08,2021-03-30,Active,2981.13,6,2024-01-29
+16,William Collins,wlucero@example.net,001-579-607-2892,1952-09-19,387 Walter Expressway Suite 369,New Donna,IA,46425,2024-03-03,2021-06-26,Expired,1974.47,89,2024-03-11
+17,Christy Wise,dcohen@example.com,001-424-337-7692,1972-03-24,781 Kristin Mission Apt. 709,Lake Amandastad,PA,82580,2024-03-08,2023-11-20,Expired,534.79,61,2024-01-21
+18,Thomas Scott,carlos39@example.com,(279)613-2114x532,1940-03-10,916 Thompson Glens Suite 019,Perryborough,FL,69757,2024-02-23,2020-04-22,Active,306.16,45,2024-03-06
+19,Justin Meyer,janet82@example.org,(983)499-3486,1975-03-08,092 Young Circles Suite 421,New Christopher,DC,05595,2024-02-16,2023-09-09,Expired,626.97,57,2024-03-13
+20,Tara Schmidt,jessicabates[at]example.net,394.628.6329,1976-04-16,765 Roy Forge Suite 180,North Brittanyville,MH,17ABC,2024-03-04,2022-09-21,Lapsed,3211.09,51,2024-01-07
+21,Kerry Garcia,joshua99@example.net,(218)762-5388,1948-06-14,09000 Wang Plains Apt. 395,Lesliefort,RI,76208,2024-01-04,2024-01-19,Active,3673.77,45,2024-02-15
+22,Jonathan Cochran,gbecker@example.org,695-546-7755x2453,1983-09-12,89503 Katherine Plaza,Saunderschester,WY,19098,2024-01-23,2019-11-26,Lapsed,1993.18,54,2024-02-09
+23,James Nguyen,valeriebell@example.org,(748)314-7235,1989-02-27,338 Henry Plaza,East Carmen,KS,35525,2024-01-26,2020-10-13,Active,4800.65,43,2024-03-04
+24,Sherry Lewis,gary59@example.com,698-839-4730x48887,1991-10-01,72501 Curtis Land Apt. 287,Lake Caroline,HI,19607,2024-03-11,2019-11-21,Expired,1511.44,15,2024-01-06
+25,Emily Cohen,mckeenancy@example.com,851-267-5002x7667,1995-12-23,5319 Lang Brooks,Hernandezmouth,LA,31470,2024-01-01,2020-06-21,Active,2332.59,76,2024-02-16
+26,Jennifer Soto,kristin63@example.org,424.534.2438x5787,1967-11-29,701 Andrews Views,Coletown,VI,36653,2024-01-30,2022-11-25,Active,1269.76,41,2024-02-25
+27,Danny Lopez,owilliams@example.net,267.756.3437x24569,1946-05-07,13337 Mason Stravenue,South Nicolebury,CO,19305,2024-01-24,2023-02-20,Expired,3921.74,21,2024-01-26
+28,Dennis King,rebecca38@example.org,+1-226-750-1626x14364,1955-10-13,9325 Valerie Forks Suite 735,Nancyside,OK,26237,2024-03-05,2024-02-03,Active,1223.82,80,2024-01-19
+29,Jenna Gonzalez,riversethan@example.com,890.706.7655x18610,1996-02-28,84895 Michelle Pass,South Billyburgh,CA,68445,2024-02-12,2023-12-24,Expired,2616.0,28,2024-01-25
+30,Elizabeth Morgan,wpena[at]example.com,555-252-9697,1999-11-25,62622 Nathan Pine Suite 014,Christopherside,MH,29232,2024-02-12,2021-04-13,Lapsed,891.45,44,2024-02-10
+31,Dr. Ashley Stuart DDS,jessica59@example.com,850-246-4026x505,1988-01-29,351 Colin Run Suite 728,Sanfordtown,AR,82245,2024-01-08,2020-11-16,Lapsed,2319.85,36,2024-01-18
+32,Jimmy Hart,valerie83@example.org,(344)500-4167x03451,1962-10-29,3148 Ray Locks Suite 550,New Susan,GU,05802,2024-02-28,2021-04-09,Active,1425.2,54,2024-01-21
+33,Robin Carpenter,thomasmartinez@example.com,+1-826-880-6076,1975-02-02,683 William Inlet Apt. 726,Ryanview,WV,43948,2024-02-26,2020-06-02,Expired,3455.07,21,2024-02-04
+34,Jessica Hill,hallerika@example.org,001-777-477-4603x2606,1977-02-27,68110 Franco Spurs Suite 968,North Tracey,OK,61315,2024-01-29,2021-04-26,Expired,4454.17,44,2024-03-15
+35,Sandra Parker,brittanycantrell@example.com,+1-981-518-6356x8110,1943-08-17,177 Bruce Mountain Suite 263,East Carolyn,CT,13834,2024-02-04,2023-07-18,Lapsed,4385.76,83,2024-02-20
+36,Dawn Hart,lreese@example.org,(598)203-8067x89064,1983-05-28,405 Nancy Drive Apt. 301,Michaelmouth,DC,38514,2024-02-11,2020-02-22,Lapsed,3650.87,22,2024-02-05
+37,Eric Munoz,rebekah89@example.com,+1-419-399-2152x95091,1982-01-30,66006 Robles Valleys,Robinsonberg,NY,53529,2024-01-28,2022-12-05,Expired,3062.15,41,2024-01-14
+38,Susan Elliott,jonathan16@example.net,874-560-5822,1951-04-29,81492 Jones Pines,South Robert,TX,81292,2024-01-28,2021-09-18,Lapsed,2481.37,62,2024-01-11
+39,Joseph Johnson,jonesjoseph@example.net,+1-630-201-6197,1988-08-18,66580 George Square Apt. 327,Laraburgh,ID,53402,2024-02-15,2023-01-02,Active,3708.85,79,2024-01-30
+40,Jennifer Morgan,dcoleman[at]example.com,2774511268,1938-05-31,8618 Brandon Lodge,Christinebury,DE,50ABC,2024-01-14,2020-07-16,Expired,3330.74,6,2024-01-28
+41,Jason Savage,matthewhughes@example.com,001-366-395-1192x9304,1936-06-16,8129 Evelyn Garden Suite 549,Walterton,OR,78853,2024-01-28,2023-03-27,Expired,3695.48,2,2024-02-11
+42,Victoria Rogers,reevesnorma@example.net,(721)403-7441x5241,1967-11-21,78439 Brianna Flat,Cherylland,NH,28280,2024-01-22,2022-05-11,Lapsed,141.6,94,2024-02-07
+43,Brenda Flores,ibriggs@example.net,+1-871-220-5461x27098,1960-11-02,71170 Martin Loaf Apt. 822,Deborahfurt,HI,03646,2024-03-12,2023-06-03,Active,467.82,86,2024-02-26
+44,Beth Martin,mary23@example.net,6575753286,1966-05-05,74920 Morgan View Apt. 947,Port Barbaraview,TX,48881,2024-03-09,2019-07-09,Active,2728.42,6,2024-01-14
+45,Tasha Aguilar,coxmatthew@example.com,555-843-0800,1947-06-13,004 Graham Light,Montgomerybury,MN,87338,2024-01-19,2020-08-05,Lapsed,1849.46,40,2024-01-19
+46,Deanna Smith,tammymcgee@example.com,470-499-0130x1180,1940-10-07,8421 Richard Circle Suite 557,West Johnberg,DE,15761,2024-02-28,2023-06-02,Lapsed,4661.67,13,2024-03-03
+47,Melissa Brown,martinmegan@example.org,6435153928,1979-04-25,71937 Burton Valley Apt. 981,South Geraldport,VA,60008,2024-01-09,2021-03-18,Active,4122.27,92,2024-01-11
+48,Mrs. Melissa Wood,michaelhicks@example.org,+1-787-799-8099,2002-11-18,5408 Clark Inlet Suite 018,West James,MS,04665,2024-03-07,2021-03-18,Lapsed,4282.89,39,2024-02-27
+49,Zachary Wright,hmitchell@example.net,958-236-6492,1957-02-06,5484 Ramirez Spurs Apt. 209,Melvinmouth,UT,12246,2024-01-26,2021-08-14,Active,3166.88,85,2024-01-26
+50,Matthew Moore,matthew33[at]example.net,707.899.5049x352,1998-01-31,7976 Denise Key,New Mirandaborough,SD,68881,2024-01-15,2024-02-11,Expired,2766.46,14,2024-01-02
+51,Cody Sampson,ysims@example.net,228.585.2390x180,1956-01-02,9813 Barnes Shoals Apt. 209,Taylorberg,OH,70496,2024-02-05,2020-07-19,Active,4197.74,88,2024-02-11
+52,Kaitlyn Hall,lorrainerivas@example.com,(621)502-2336,1993-12-03,2709 Short Street Suite 619,Grantport,OK,43561,2024-01-29,2021-07-27,Lapsed,4999.05,42,2024-01-04
+53,Kevin Shaw,courtney30@example.org,684-454-0056,1962-05-12,03741 Angela Square Apt. 595,West Lisastad,GA,65874,2024-03-12,2019-10-23,Expired,4522.86,85,2024-01-23
+54,Alexandra Phillips,kathryn58@example.org,922-584-4342x3358,1947-02-06,1767 Rhodes Springs,Kimberlyville,KY,75992,2024-01-25,2023-03-10,Lapsed,3166.26,39,2024-02-27
+55,Jennifer Garcia,taylormegan@example.net,209.638.4785,1934-09-11,043 Sharon Center,New Jackiechester,PW,31484,2024-01-21,2019-07-05,Lapsed,3072.33,24,2024-03-08
+56,Michael Swanson,vwhite@example.org,460.920.1199,2002-07-25,71814 Juarez Brook Apt. 826,New Danielland,VI,71393,2024-01-18,2019-05-28,Active,4719.28,26,2024-03-02
+57,Kenneth Smith,dixonlarry@example.com,001-838-821-1810x694,1947-07-05,338 Susan Forges Suite 700,East Christineburgh,SD,42445,2024-02-29,2019-06-28,Active,3424.55,7,2024-01-17
+58,Andrew Schneider,valenzuelaadam@example.com,+1-821-291-8035x24186,1957-02-08,92639 Scott Ridge,Suzanneton,MO,96274,2024-02-07,2019-12-25,Active,1418.05,41,2024-01-10
+59,Kevin Barry,ncampbell@example.com,214-391-9993,1979-03-18,8666 John Creek,Josephmouth,MH,96966,2024-01-23,2019-05-11,Expired,1208.11,33,2024-01-16
+60,Karen Andrade,richard30[at]example.net,555-433-6869,1953-07-24,5053 Henson Fords,North Shawn,AK,89ABC,2024-02-22,2019-04-09,Active,553.24,63,2024-02-09
+61,Meghan Cameron,vrodriguez@example.org,851-243-1721,1945-10-31,7640 Patricia Club Suite 380,Bryanton,MT,79076,2024-01-14,2023-09-13,Active,1759.3,51,2024-03-12
+62,Wendy Nguyen,matthewevans@example.net,884.509.5566x41602,1971-10-10,871 Cox Village,Freybury,NH,16449,2024-01-17,2022-06-25,Expired,1724.01,95,2024-01-05
+63,Brad Deleon,owoods@example.com,572.386.8766x4505,1982-09-30,760 Melissa Spurs,Chapmanland,WA,48502,2024-03-06,2022-07-07,Lapsed,2680.86,3,2024-03-15
+64,Lindsey Mejia,zyork@example.com,(272)927-0663x049,1948-09-02,40217 Mccoy Greens Apt. 013,Martinezville,FM,45854,2024-01-11,2024-03-04,Lapsed,4417.91,81,2024-01-08
+65,Michelle Estrada,philipbarron@example.net,654.945.1635,1976-12-02,6222 Cooper Locks,West Benjamin,AK,66249,2024-03-11,2024-03-13,Lapsed,819.93,33,2024-02-08
+66,David Lewis,jjohnson@example.net,001-466-768-3326,1983-06-12,913 Alec Trail Apt. 694,Lake Christina,MA,43512,2024-03-06,2021-01-03,Expired,764.77,11,2024-02-15
+67,Catherine Blankenship,maxwell66@example.org,+1-658-616-5653x7922,1988-05-25,277 King Points,South Martinhaven,WV,90696,2024-01-29,2021-09-10,Active,4229.15,6,2024-01-22
+68,John Turner,bakerrandall@example.com,(424)753-9751x563,1961-12-21,8101 Mcdonald Lake,Acostaton,VI,66074,2024-02-21,2024-02-10,Expired,4740.36,18,2024-03-09
+69,Anna Roth,tammycook@example.com,7138642001,1971-11-11,36520 Zachary Locks Apt. 423,North Alanfurt,KY,69661,2024-03-15,2019-08-09,Lapsed,1588.61,65,2024-03-15
+70,Anthony Morrow,rebecca49[at]example.org,001-347-679-1674x62342,2003-07-21,610 Adrian Underpass,Ashleebury,VI,73211,2024-01-20,2021-04-25,Lapsed,1537.68,13,2024-01-25
+71,Briana Poole,racheljackson@example.net,+1-223-344-6288x99324,1984-08-02,363 Strong Fort Apt. 622,South Waynebury,WV,34884,2024-03-11,2022-10-15,Lapsed,3160.23,6,2024-01-29
+72,Christopher Miller,lloyddorothy@example.com,5267939502,1976-03-29,31543 Barton Creek,Christinabury,OR,04764,2024-01-13,2023-11-24,Active,4347.7,49,2024-03-12
+73,Kevin Khan,ybond@example.org,(914)419-3957x47487,1964-06-18,78454 April Pike,East Marystad,IN,18542,2024-01-06,2024-02-17,Lapsed,1073.65,53,2024-01-22
+74,Alicia Allen,carolynclark@example.com,415-984-4410x50028,2001-11-09,325 Morris Orchard Suite 652,Davidbury,SD,17310,2024-01-15,2019-12-22,Lapsed,3390.71,58,2024-02-21
+75,Nicholas Daugherty,scottharris@example.com,555-671-8028,1937-05-19,26120 Olivia Hills Suite 472,Annatown,AK,81315,2024-03-01,2021-12-20,Lapsed,3883.41,65,2024-02-14
+76,Melanie Kemp,ybecker@example.org,981-900-2805,1947-12-20,357 Johnston Fords,East Jessica,WA,06562,2024-01-21,2020-03-20,Active,3942.78,71,2024-01-09
+77,David Miller,hlynn@example.com,394.675.6060x17321,1996-09-14,815 Castillo Cove,Christinastad,NV,09966,2024-03-04,2021-08-07,Active,212.26,44,2024-02-11
+78,Andrea Griffin,andersonstephanie@example.org,001-263-388-9878x11100,2002-03-05,02332 Leslie Roads Apt. 942,Port Rachel,IA,71834,2024-02-21,2021-02-15,Lapsed,2837.74,22,2024-02-25
+79,Sylvia Scott,ebond@example.net,388.449.8650x7878,1980-01-25,1249 Jones Oval,Moranhaven,CA,94328,2024-01-16,2023-06-01,Expired,1880.06,60,2024-02-14
+80,John Webb,pdean[at]example.org,7094099453,1963-03-22,523 Jordan Knolls Apt. 534,Port Lindseyshire,NM,58ABC,2024-01-10,2023-02-25,Lapsed,1127.7,60,2024-01-24
+81,Cody Dalton,elizabeth93@example.org,7995003360,1968-02-23,769 Scott Crossing,Rothview,WI,40534,2024-03-11,2022-03-18,Expired,113.17,85,2024-02-15
+82,Amanda Morales,brianshannon@example.com,+1-233-865-8699x378,1936-10-10,229 Kellie Wells Suite 322,Amberhaven,NC,63988,2024-01-06,2020-06-04,Expired,469.72,25,2024-01-27
+83,Matthew Holland,oherrera@example.net,+1-788-211-7574x25260,1965-03-08,4224 Adams Mall Apt. 840,Lake Charles,MD,08399,2024-03-01,2021-09-15,Expired,4050.14,37,2024-01-24
+84,Rebecca Smith,joliver@example.org,(694)248-9760,2005-09-10,9193 Diaz Canyon Apt. 246,West Brandon,WY,14373,2024-02-24,2021-08-09,Lapsed,4636.19,60,2024-02-22
+85,Jeffrey Meyer,xpaul@example.net,(566)685-0066x150,1946-12-14,84983 Brandon Circles,Jenniferfort,OR,57107,2024-02-20,2023-01-06,Expired,4672.81,25,2024-02-14
+86,Frank Lane,moralesanne@example.net,001-867-760-6846x3958,1959-07-02,62009 Wright Junctions Suite 183,Stevenchester,WA,83688,2024-01-02,2023-03-19,Expired,1060.36,19,2024-01-20
+87,Dr. Carol Garcia DDS,tharris@example.com,(626)307-6505,1980-09-27,3344 Pamela Villages,West Andrew,MI,40682,2024-03-12,2020-05-27,Expired,4696.61,5,2024-01-09
+88,Shane Jones,frichardson@example.net,001-598-306-0643x88249,2005-04-24,4753 Powell Villages Suite 277,North Heatherton,ID,16233,2024-03-10,2023-04-29,Expired,1923.98,61,2024-02-16
+89,Steven Jackson,george61@example.net,(850)920-8870,1953-12-23,920 Byrd Lights,Joshuaberg,WV,77772,2024-01-10,2019-07-07,Lapsed,2169.71,36,2024-03-07
+90,Stephanie Smith,marilynstone[at]example.org,555-926-0064,1955-12-26,7621 Anthony Estate,Jenkinsberg,PA,75495,2024-02-05,2022-11-27,Expired,2834.78,96,2024-01-29
+91,Keith Chang,bartlettyvonne@example.com,001-574-939-6045x5035,1935-09-10,726 Jesse Lodge,South Davidton,CA,54351,2024-03-10,2023-08-09,Active,522.25,87,2024-01-23
+92,George Murphy,fergusonmarvin@example.net,001-937-614-3268x740,1942-07-04,8829 Andrew Court Apt. 712,Jenniferside,PW,14782,2024-02-14,2023-10-19,Expired,151.43,66,2024-03-08
+93,Cassie Cooper,heatherboone@example.net,533-619-8367,1994-09-21,703 Burke Corner Suite 659,Oneilltown,NM,83153,2024-02-04,2020-12-05,Lapsed,1228.58,63,2024-01-25
+94,Gabriela Peck,robersonmichelle@example.com,(231)984-2602,2001-10-19,93574 Joseph Viaduct,Clarkville,ID,18931,2024-01-23,2021-02-24,Active,3259.03,61,2024-02-20
+95,Nina Miller,weberronald@example.org,+1-264-218-8351x46890,1948-12-08,88796 Steven Stream Suite 929,Cantuview,NH,13195,2024-02-14,2023-08-02,Expired,3949.38,31,2024-02-03
+96,Bethany Park,terryalexander@example.net,590.412.7278,1933-10-30,99112 Matthew Spur,Susanland,NC,30169,2024-03-02,2021-10-06,Lapsed,4966.52,70,2024-02-20
+97,Melissa Lopez,mary79@example.net,4507295674,2001-05-18,568 Joseph Harbors Apt. 786,Lewistown,OR,39550,2024-01-11,2022-12-20,Expired,4706.52,49,2024-03-02
+98,Julia White MD,goconnell@example.com,334-729-9462,1937-06-30,909 Russell Rapid,Williamsshire,WA,12873,2024-03-13,2019-11-07,Active,3490.48,19,2024-01-09
+99,Lisa Smith,erika75@example.org,253.914.3694,1997-06-22,38524 Lawrence Points Apt. 402,Janicehaven,FM,35529,2024-01-27,2019-03-22,Lapsed,1711.68,41,2024-02-08
+100,Timothy Long,howardrita[at]example.com,+1-359-374-4615,1946-05-26,973 Watts Turnpike Apt. 503,Crystalmouth,VA,47ABC,2024-02-25,2022-01-31,Lapsed,3961.99,20,2024-02-29
+101,Ashley Anderson,christopherparker@example.com,+1-308-605-1889x083,1961-08-16,103 Stout Corner Suite 363,Martinton,TN,30891,2024-01-04,2020-11-15,Active,2257.31,92,2024-02-28
+102,Kristen Williams,koconnor@example.net,806.314.4459,2001-07-20,35732 Martinez Hill Suite 326,West Danielleborough,SD,85384,2024-01-31,2022-01-14,Active,741.83,55,2024-02-03
+103,Grant Ortega,andrew91@example.org,+1-566-463-8128x076,1985-08-27,26610 Katherine Mission Suite 236,Martinezton,PR,72809,2024-03-13,2021-01-25,Expired,2984.52,31,2024-03-06
+104,Lori Turner,pamelarangel@example.org,001-708-998-7182x673,1989-10-24,0731 David Terrace Suite 645,South Joseph,CA,76852,2024-01-17,2019-04-05,Lapsed,3240.1,94,2024-02-23
+105,Daniel Gonzalez,rcannon@example.org,555-915-9361,1987-01-24,1189 Burns Manor Suite 468,Port Richard,FM,20707,2024-02-22,2020-06-01,Lapsed,2380.04,78,2024-03-05
+106,Jennifer Shepherd,rmarshall@example.org,(236)447-8515x33780,2003-02-05,57884 Patricia Trail,West Jenniferburgh,NH,92052,2024-02-23,2019-08-12,Active,3579.91,37,2024-03-13
+107,Joshua Wilson,gstone@example.org,4216584005,2001-08-17,17796 Amanda Keys Suite 334,Douglasmouth,MI,14043,2024-03-09,2019-10-07,Expired,2018.3,31,2024-02-19
+108,James Perez,thomaswalter@example.org,001-444-299-8391x84340,1983-07-11,16412 Melissa Hills Apt. 540,North Natasha,LA,59500,2024-01-05,2020-03-09,Expired,2313.89,25,2024-03-06
+109,Richard Sanders,boydelizabeth@example.org,(905)343-4969x59391,1942-05-04,544 Watson Harbor Apt. 709,Markfort,WI,81958,2024-01-06,2020-04-19,Active,2105.28,22,2024-02-13
+110,Todd Ware,scott77[at]example.com,001-669-522-1930x53236,1958-05-10,3205 Kevin Ranch Suite 369,Crosbytown,VT,62871,2024-03-09,2021-08-09,Active,4244.77,5,2024-01-24
+111,Rebecca Thomas,mwest@example.org,712.584.4057,1949-09-10,7303 John Ridges Apt. 508,Morenochester,KY,13467,2024-03-09,2021-01-12,Lapsed,3355.64,85,2024-01-14
+112,Jamie Wyatt,brendacameron@example.net,001-866-506-1017x288,1982-07-15,798 Mullins Parks Suite 792,Dennisside,NM,44417,2024-01-24,2023-10-04,Lapsed,1246.23,69,2024-02-16
+113,Joshua Myers,moraleserik@example.org,9835563692,1972-05-09,731 Hurst Pine Suite 510,South Danielstad,MH,05278,2024-03-04,2024-01-08,Lapsed,775.11,4,2024-02-05
+114,Valerie Morales,connor70@example.net,001-266-237-2523x832,1991-06-15,39451 Grimes Shoals Suite 121,Larryland,MO,64933,2024-01-16,2022-03-17,Expired,1417.11,68,2024-02-16
+115,Douglas Williams,hodgeschristina@example.org,599.608.0479x437,2000-07-11,3640 Turner Fords Suite 706,Alexisville,PA,61284,2024-01-10,2022-02-11,Lapsed,949.87,33,2024-03-11
+116,Sharon Hernandez,singhangela@example.com,940-608-3871x706,1943-02-14,867 Sean Branch Suite 197,East Tracy,CA,53310,2024-02-11,2022-02-17,Lapsed,2138.19,38,2024-02-23
+117,Crystal Abbott,clarkluis@example.org,298-837-0955,1988-01-02,07820 Wong Via Suite 058,Buckleyberg,VI,13332,2024-02-12,2022-02-04,Active,1813.2,65,2024-02-08
+118,Lauren White,kevinguerra@example.org,(831)298-9764x515,1936-05-04,608 Michael Orchard,Jamesfurt,DC,30095,2024-01-18,2022-02-26,Active,1611.97,26,2024-01-31
+119,Michael Avery,bjohnson@example.com,309-934-3986x05570,1988-09-14,705 Kara Cliffs,South Sherryfurt,ND,77805,2024-02-12,2022-10-10,Active,3782.02,68,2024-03-09
+120,Regina Yang DDS,claudiasmith[at]example.org,555-242-8774,1965-01-28,30135 Perez Freeway,North Joseph,IA,65ABC,2024-03-09,2019-08-23,Expired,4117.9,26,2024-01-23
+121,William Graham,jhuerta@example.net,(884)446-7891,1933-06-20,51953 Gibbs Estate Apt. 137,Anneport,VT,74193,2024-02-03,2021-06-07,Active,1994.34,56,2024-01-18
+122,Catherine Jensen,trobinson@example.org,(652)473-3854,1947-12-11,68160 Kristopher Ford Suite 019,West William,RI,66400,2024-02-27,2020-10-31,Active,669.83,59,2024-03-01
+123,Dale Nichols,zwright@example.org,239.970.6980,1993-04-13,6608 Mercer Locks,Dillonton,NJ,71247,2024-02-22,2021-09-14,Active,4096.0,16,2024-01-21
+124,Lisa Stanley,kaitlynfarrell@example.org,830-403-0104,1942-11-29,019 Kelsey Pike,North Lisamouth,WV,29257,2024-03-09,2021-11-17,Active,3378.33,7,2024-02-14
+125,Jeffrey Lyons,christina46@example.com,(617)715-1749x9007,2005-09-20,6859 Jacqueline Freeway Apt. 305,Port Tonybury,IL,19909,2024-02-23,2020-10-17,Active,2444.65,27,2024-03-03
+126,Adrian Conway,amiller@example.com,(302)992-0138x19850,1999-02-03,8494 Trevino Walk,West Courtneyview,WY,02773,2024-02-19,2019-09-28,Lapsed,1243.23,23,2024-01-29
+127,Tanya White,mistyvazquez@example.com,001-813-449-2969,1949-11-21,88275 Freeman Common,North Jayland,CA,90030,2024-02-17,2022-08-18,Lapsed,982.49,96,2024-01-20
+128,Michelle Davidson,donald44@example.com,992.700.8451,1985-08-10,4804 Lisa Springs Apt. 028,Simmonshaven,NJ,98461,2024-02-25,2021-11-20,Active,2010.39,71,2024-02-05
+129,Brittany Wilkinson,garysantiago@example.com,759-863-3508x0340,1962-12-24,8257 Wilson Mall Apt. 844,Harmonmouth,MI,01016,2024-03-01,2022-03-13,Active,208.96,41,2024-02-14
+130,Casey Kelly,cherylsnyder[at]example.net,001-901-986-2359,2004-12-22,0475 Jorge Tunnel Apt. 831,Summersside,MN,46260,2024-02-19,2020-08-12,Active,3283.29,9,2024-02-27
+131,Charles Soto,oconnorvanessa@example.com,863.422.3151x201,1992-09-04,4512 Nicole Viaduct Suite 574,Shepardton,PW,94685,2024-02-20,2019-05-16,Lapsed,3322.57,69,2024-02-23
+132,Richard Sullivan,parrishkeith@example.net,+1-344-277-6525,1980-06-29,2923 Tracey View,Lake Michaelfort,TN,60536,2024-01-19,2022-05-05,Expired,1549.29,97,2024-02-17
+133,Jennifer Hernandez,priceroberta@example.net,001-639-794-2720x9364,1966-08-24,81234 Wendy Point Suite 588,West Kaitlyntown,OH,99108,2024-03-04,2022-04-23,Lapsed,3722.9,49,2024-02-17
+134,Cynthia Ramirez,jenniferhernandez@example.org,(267)644-9239x8077,1978-07-08,17732 Simpson Lights Apt. 088,West Kennethport,LA,45587,2024-03-11,2022-10-21,Lapsed,3774.19,64,2024-01-15
+135,Miguel Blackburn,jellis@example.org,555-237-0235,1957-11-21,6058 Green Plains Suite 164,South Elizabethton,IA,44546,2024-01-02,2019-12-07,Active,397.9,9,2024-02-18
+136,Stacy Cox,yfleming@example.org,373-847-7737,1942-02-24,4049 Ellison Mountains,North Heather,ID,52470,2024-01-21,2022-03-13,Expired,589.76,24,2024-01-05
+137,Ricardo Lopez,ubrown@example.org,2674864358,1961-05-15,485 Derek Skyway Apt. 872,Knappfort,OR,74459,2024-03-07,2021-01-23,Expired,3492.25,43,2024-02-06
+138,Derek Anderson,williamhayes@example.org,001-756-815-7383x3324,1999-07-26,194 Brown Station,New Deborahview,MN,67914,2024-01-29,2022-12-10,Active,2656.88,46,2024-01-15
+139,Dean Watkins,jordanmatthew@example.com,(388)934-1939x4618,2003-03-25,95935 Angelica Prairie Suite 823,Port Timothy,FL,14633,2024-02-20,2021-08-11,Active,3349.13,76,2024-03-14
+140,Joseph Hayes,jcobb[at]example.net,(653)953-1610x419,1945-05-08,8430 Lewis Field Apt. 439,Lake Kellyfurt,NV,79ABC,2024-03-11,2022-10-18,Expired,2904.65,60,2024-02-25
+141,David Harrington,casey91@example.org,2907254800,2004-05-30,5605 Jeffrey Passage Apt. 954,Port Janetmouth,MP,07888,2024-03-15,2023-12-10,Lapsed,2007.21,55,2024-03-02
+142,John Mccarthy,melissa09@example.org,+1-529-428-7772x628,1978-09-12,0157 Sullivan Knolls Suite 452,Melissaport,AZ,09865,2024-02-26,2021-01-25,Active,2007.16,70,2024-03-10
+143,Kimberly Orozco PhD,lindamonroe@example.net,766-537-4373,1978-03-25,49857 Best Inlet Suite 552,North Taraville,OH,13955,2024-03-05,2023-05-18,Lapsed,3565.89,70,2024-01-19
+144,Cynthia Zhang,perezscott@example.org,(454)904-7962,1940-11-19,35370 Fletcher Knoll,Douglasfurt,NJ,47611,2024-01-06,2024-02-17,Active,3215.27,64,2024-03-07
+145,Austin Sullivan,churchaaron@example.org,886.377.5408x44240,1981-01-02,155 Mata Union,Marymouth,MP,07915,2024-01-13,2022-01-12,Expired,777.09,17,2024-01-29
+146,Andrea Meza,robertseric@example.net,(538)211-2483,1942-12-16,4778 Wallace Junctions Suite 990,New Dorothy,MA,85173,2024-02-18,2023-04-18,Active,3726.48,13,2024-03-01
+147,Blake Roach,kristy49@example.com,(612)342-3249x0450,1955-04-29,116 Robert Green Suite 122,Port Heather,PR,89231,2024-01-16,2019-08-11,Active,894.04,77,2024-02-29
+148,Bradley Scott Jr.,nguyenjoshua@example.net,(861)979-1992x4160,2005-11-08,21055 Stefanie Brook Apt. 830,South Lindseyside,SC,36785,2024-03-02,2021-02-03,Active,4624.16,34,2024-03-15
+149,John Donovan,gabrielbryant@example.org,(895)307-3251,1976-02-25,33851 Bradley Landing Apt. 166,Briannastad,MP,99472,2024-02-27,2022-02-07,Lapsed,1065.33,63,2024-01-08
+150,Stephanie Park,iwells[at]example.org,555-280-2146,1957-08-21,1826 Jessica Mews,Lake Jamesville,CA,62841,2024-01-25,2021-08-29,Lapsed,4259.86,53,2024-03-07
+151,Kristine Stewart,roacherin@example.net,875.918.2832,1947-09-30,407 Gregory Plaza,Danielborough,MD,93990,2024-02-05,2022-12-18,Expired,3923.9,57,2024-01-11
+152,Sean Taylor,xlin@example.com,(749)691-7733x0418,1951-09-26,6145 Alec Meadow,West Richardburgh,VA,20206,2024-01-30,2022-12-18,Expired,2345.35,26,2024-02-21
+153,Joseph Dean,hwilson@example.net,(539)441-8396x779,1987-07-31,420 Stevens Mountains,West Samuelstad,MN,64469,2024-01-26,2022-08-18,Expired,1358.73,9,2024-01-23
+154,Todd Thomas,anthony95@example.net,+1-223-595-7832,1962-09-02,6547 Brandon Road,Pattonland,OH,30870,2024-01-28,2022-02-02,Active,3699.91,80,2024-03-07
+155,James Mcdonald,adudley@example.net,(421)505-7440x052,1977-10-17,429 Robert Mount Suite 252,Nicholastown,RI,88227,2024-02-18,2021-08-13,Active,4176.36,83,2024-01-11
+156,Michelle Baker,debbiewagner@example.org,001-479-257-3451x12929,1994-06-11,142 Davidson Forks Suite 056,West Dawnchester,GA,65679,2024-03-11,2022-02-03,Lapsed,4208.53,42,2024-03-04
+157,John Lee,christopherwright@example.net,001-699-943-2473,1967-11-10,6925 Byrd Alley Apt. 781,East Rebecca,NM,10554,2024-03-01,2021-08-13,Expired,4885.71,85,2024-03-13
+158,Adam Conrad,jeremywatts@example.net,747-836-6607x615,2005-03-28,7310 Lisa Corners,Lake Jasonburgh,NC,04082,2024-01-02,2019-05-16,Lapsed,3640.95,83,2024-03-12
+159,Jim Greer,jason50@example.net,+1-358-462-6470,1961-02-20,5279 Taylor Prairie Apt. 162,East Thomas,MP,23349,2024-02-26,2019-10-12,Lapsed,1568.21,55,2024-02-27
+160,Dawn Patton,fosterrachel[at]example.com,442.423.4590,1988-12-14,6403 Roach Fields,Gallegosmouth,GA,67ABC,2024-03-01,2021-07-21,Expired,458.08,60,2024-03-01
+161,Michael Douglas,lroth@example.org,787.648.1566x53924,1938-04-19,124 Roberts Wells,Jamesview,OH,06396,2024-01-04,2022-01-14,Active,1920.08,49,2024-01-17
+162,Jackie Franco,jjohnson@example.net,001-676-660-1075x901,1946-06-12,90908 Meza Route Apt. 267,Lake Jennifer,MN,42150,2024-02-12,2020-04-09,Active,1110.0,60,2024-03-10
+163,Ana Shelton,rruiz@example.org,(262)876-0155x50233,1959-10-19,31141 Fisher Viaduct,Watkinsport,AK,93229,2024-03-07,2019-12-11,Expired,2761.18,67,2024-01-09
+164,Mary Lozano,gcain@example.org,562-479-8340,1963-07-06,540 Foster Stream Suite 942,Port Kimberly,MN,20827,2024-02-29,2023-03-18,Lapsed,4658.78,94,2024-02-05
+165,Jeremy Manning,mmartinez@example.com,555-055-1706,1985-12-18,367 Massey Shores Suite 865,Williamstad,OR,44462,2024-01-05,2020-10-13,Lapsed,585.43,20,2024-03-02
+166,Maria Stewart,richardponce@example.com,577.486.8156,1946-11-03,6820 Ashley Villages Suite 682,Abigailside,ND,09986,2024-03-06,2024-01-14,Active,1922.57,12,2024-03-10
+167,Mark Cameron,samuel96@example.org,+1-643-830-2915,1966-02-11,1896 Bailey Vista,Dalefort,KS,61743,2024-03-04,2021-10-05,Lapsed,3808.15,5,2024-02-01
+168,Hannah Elliott,marcushurley@example.org,(887)832-8388x166,1947-04-22,619 Dawson Orchard Suite 972,North David,KY,51685,2024-02-18,2022-05-08,Lapsed,4689.2,49,2024-02-05
+169,Ashley Burke,khoward@example.com,(941)563-4495x2234,1945-11-18,151 Laurie Via,Port Michael,DC,98654,2024-01-05,2021-06-09,Lapsed,3559.6,69,2024-01-11
+170,Dennis Lee,jhall[at]example.org,4274256121,1977-05-09,5465 Adam Flats,Jayhaven,NY,67675,2024-01-05,2020-07-25,Lapsed,4542.85,35,2024-01-08
+171,Craig Lawson,tonya87@example.org,001-287-447-7975,1940-06-22,1342 Young Path,East Susan,CT,91812,2024-03-02,2020-05-31,Expired,4150.33,16,2024-02-17
+172,Brenda Smith,msmith@example.net,001-394-407-3403x596,1953-08-10,29954 William Mill Apt. 036,Glenfort,CO,35729,2024-02-25,2022-11-23,Active,1758.55,11,2024-03-05
+173,Joshua Robertson,donnaholland@example.net,557-597-3908,1939-09-28,9726 Brown Orchard,South James,SC,89445,2024-02-01,2021-05-07,Expired,1381.61,71,2024-03-11
+174,Mary Andrade,mejianicholas@example.org,9883039961,1980-03-06,172 Patrick Alley,New Brenda,FL,70524,2024-01-30,2020-08-15,Lapsed,4819.21,22,2024-01-31
+175,Anthony Hammond MD,laurahickman@example.org,712.970.9502,2003-01-28,922 Darren Green Suite 800,Lake Angelaborough,IA,77990,2024-01-23,2019-12-10,Lapsed,2611.38,10,2024-01-12
+176,Renee Gibson,margaret15@example.net,2655327574,1975-07-27,7872 Hampton Mountain Suite 449,Garciabury,MS,08127,2024-02-07,2020-02-18,Expired,3497.22,85,2024-01-11
+177,Katie Gonzalez,ochoarachel@example.org,(767)799-6892x8326,1963-07-26,25579 Campbell Street Apt. 388,North Adam,ME,56459,2024-03-06,2023-08-22,Lapsed,4410.52,82,2024-03-15
+178,Seth Stephens,johnsonamy@example.net,881-815-2609,1953-11-22,76281 Shepherd Locks,South Staceytown,NJ,24221,2024-02-05,2021-05-04,Active,1476.82,81,2024-02-12
+179,Mark Evans,lcollins@example.org,221.275.0932x869,1999-03-22,40374 Martinez Track Apt. 696,Cainfurt,KS,50807,2024-02-29,2022-03-09,Expired,2860.59,2,2024-01-28
+180,Jennifer Newman,kara14[at]example.org,555-714-6311,1936-12-11,4447 Christian Fords,North Melissaberg,AZ,87ABC,2024-01-01,2023-02-13,Active,1115.07,68,2024-01-17
+181,Jennifer Mitchell,smithjoshua@example.com,250-710-4432x540,1991-03-25,537 Tara Squares,North Kevin,FM,62624,2024-01-15,2022-04-11,Active,1427.96,76,2024-01-13
+182,Luis Romero,adamssherry@example.net,001-450-400-1196x0105,1998-03-04,469 David Wall Apt. 652,West Dennisborough,KY,02054,2024-03-14,2021-12-27,Expired,1897.55,1,2024-01-18
+183,Elizabeth Howard,lopezpeter@example.org,001-608-519-9891x8514,1988-01-01,610 Maria Via Suite 016,West Yvonne,MN,59157,2024-01-06,2022-09-24,Expired,665.59,62,2024-03-07
+184,Sarah Ellis,austinyang@example.com,+1-487-687-5431,1965-11-25,536 Gabriel Track Apt. 489,Rossview,PW,01716,2024-02-26,2023-02-20,Expired,2461.24,2,2024-02-15
+185,Cindy Graves,zweiss@example.org,001-275-638-6103,1982-01-27,612 Robert Causeway,Philipland,ID,22194,2024-01-14,2022-02-24,Active,2500.48,78,2024-02-25
+186,Michelle Torres,gonzalezkimberly@example.com,4226589368,1954-10-21,67406 Roth Coves,Davisview,IN,62232,2024-02-12,2022-02-26,Lapsed,3072.37,67,2024-03-12
+187,Scott Johnson,hannahkim@example.net,(320)288-3642x9153,1990-02-12,222 Valerie Motorway Apt. 600,Nicholasport,PA,01067,2024-01-06,2020-10-27,Lapsed,3606.76,51,2024-02-01
+188,Matthew Dixon,qaguilar@example.net,344-230-6163,1975-01-26,110 Rogers Villages Suite 464,Petersonville,OK,20709,2024-03-02,2022-10-02,Expired,1593.81,69,2024-01-08
+189,Roy Newton,msoto@example.org,(523)518-3646x241,1989-05-18,5470 Tyler Dale,Johnsport,WI,24212,2024-01-05,2020-08-10,Lapsed,4299.87,48,2024-01-17
+190,Sean Conway,ofrancis[at]example.com,845-924-7144,1946-03-08,531 Yvonne Motorway,North Mark,MS,65289,2024-02-04,2023-08-28,Active,4742.92,62,2024-02-04
+191,Nathaniel Johnson,floreskevin@example.org,883-466-0440,1960-02-03,77000 Laura Shoal Apt. 670,West Javier,TN,11794,2024-02-04,2020-06-04,Expired,3380.25,83,2024-03-10
+192,Sandra Fritz,xwalton@example.org,991-943-2461x8902,1942-08-28,38190 Marie Gardens Suite 972,South Allenport,IN,34420,2024-01-22,2019-11-27,Lapsed,1055.71,62,2024-03-10
+193,Nicole Nguyen,xwilliamson@example.com,252-962-6836,1942-08-06,879 Karina Mill,South Curtis,IL,11861,2024-01-23,2020-05-16,Active,2862.1,90,2024-01-06
+194,Michael Gallagher,qlong@example.org,(818)541-5473x43665,1948-04-01,564 Claudia Loaf,West Michael,UT,80799,2024-01-20,2023-07-30,Expired,4884.79,99,2024-01-22
+195,Valerie Brown,michaelgarrett@example.org,555-588-1657,1986-12-26,41280 Velasquez Dale,East Carlos,SD,12591,2024-01-27,2022-03-16,Active,2942.47,100,2024-02-13
+196,Joanna Parrish,kathy52@example.org,001-449-374-1347x985,1967-08-19,4883 Jimmy Lights,Lake Joseph,PW,59934,2024-02-11,2019-07-20,Lapsed,3721.16,38,2024-01-25
+197,Joshua Mccoy,aliciaconrad@example.org,001-613-587-1610x906,1964-02-12,650 Theresa Walks,Cynthiatown,AZ,59787,2024-02-09,2022-05-23,Active,3205.67,30,2024-02-06
+198,Tina Cooper,kingsusan@example.com,225.803.8764,1955-03-06,7787 Ponce Island Suite 528,Floresberg,MD,25196,2024-01-18,2021-02-14,Active,1631.75,84,2024-01-08
+199,Gregory Hanson,hogankristen@example.net,(543)382-4730,1989-12-08,2560 Gerald Fields,Carrollland,VA,72100,2024-01-04,2019-12-29,Active,1372.72,66,2024-02-20
+200,Zachary Jensen,kelli85[at]example.net,969-707-5372x2646,1995-07-27,6769 Porter Circles Apt. 022,Howardton,WA,38ABC,2024-01-05,2020-02-25,Lapsed,129.62,99,2024-02-24
+201,Michael Hobbs,tfrost@example.com,703-251-6338,1955-09-01,6066 Savage Rest,Ericksonfort,MH,36104,2024-01-15,2023-02-05,Active,4290.08,75,2024-01-06
+202,Crystal Anderson,franklinmichael@example.org,+1-607-345-0683x3612,1941-04-09,966 Travis Isle Apt. 756,Lake Robert,MA,35437,2024-02-04,2021-01-17,Active,4690.2,28,2024-01-12
+203,Alyssa Smith,brian46@example.net,(428)291-3606x087,1992-11-13,448 Emily Spring Apt. 987,North Joyce,FL,83550,2024-02-02,2021-09-10,Expired,1745.99,18,2024-02-15
+204,Matthew Mercer,brettallen@example.org,652.239.4247,1988-03-30,2769 Renee Bypass,Lake Thomasfort,AZ,92320,2024-03-08,2023-07-02,Expired,729.34,59,2024-02-22
+205,Jeffrey Silva,xrogers@example.net,254.806.4252,1983-06-15,309 Lisa Pine,North Kathryntown,DE,38044,2024-01-21,2022-08-30,Active,2128.9,82,2024-02-24
+206,Thomas Drake,kingjeff@example.net,(615)967-7649,2002-09-24,681 Bailey Ferry,Port Eugene,OR,78938,2024-01-17,2020-07-12,Lapsed,654.96,16,2024-02-07
+207,Ariana Ibarra,bguzman@example.com,(846)776-4284x802,1982-03-27,91437 Cynthia Forges Suite 623,East Luisborough,DC,85935,2024-01-29,2020-11-22,Lapsed,1527.69,57,2024-01-25
+208,Rebecca Navarro,kfitzgerald@example.org,(742)285-9590x713,1961-08-07,85732 Maldonado Loaf Suite 468,New Deannabury,RI,03210,2024-01-20,2019-11-07,Lapsed,166.82,76,2024-02-25
+209,Mr. Ruben Ortiz,cordovagail@example.net,001-996-445-3639x4343,1970-02-25,5718 Garcia Mews Suite 425,South Kellyburgh,CO,95322,2024-02-23,2020-04-18,Active,3407.67,39,2024-01-06
+210,Rebecca Fox,amandamorgan[at]example.net,555-088-4667,1951-01-14,322 Clark Forks Suite 851,Thompsonmouth,WI,16746,2024-01-17,2020-10-14,Expired,1348.56,85,2024-02-05
+211,Stacie Calderon,harmonkathryn@example.net,214.684.0001x2641,2001-06-18,21652 Frederick Walk Suite 670,East Loriville,MD,14228,2024-03-10,2022-01-28,Active,4434.73,29,2024-01-20
+212,Sharon Morton,brian25@example.org,310.824.0848,1940-12-10,1720 Dennis Village Suite 829,Turnerport,IA,47836,2024-01-16,2020-02-25,Active,1137.12,81,2024-02-13
+213,Scott Anderson,johnsonmonica@example.net,854-859-4965x0132,1988-01-27,71240 Troy Circle Suite 092,New Janetview,MS,80320,2024-02-05,2020-05-06,Expired,1828.44,47,2024-02-07
+214,Julie Dickerson,cainkatherine@example.net,+1-746-669-4691x357,1990-01-14,1692 Guerrero River,Millerton,OR,87095,2024-02-14,2022-05-19,Lapsed,121.34,96,2024-01-25
+215,Rebekah Gonzales,cberry@example.com,(950)931-9891x63222,1989-04-25,27226 Rivera Lodge Apt. 863,Anthonyfort,AZ,91358,2024-01-29,2019-11-25,Active,1600.47,52,2024-01-01
+216,Lisa Munoz,brian66@example.net,308-424-0670x7246,1969-07-06,1543 Thomas Mountains Apt. 449,Zacharyberg,MS,30051,2024-02-14,2019-08-17,Lapsed,4317.7,88,2024-02-18
+217,Mathew Smith DDS,jamescontreras@example.net,(430)625-5827x317,2003-04-12,2703 Burgess Lakes Suite 119,New Samanthafurt,PW,90243,2024-02-01,2022-09-29,Lapsed,2032.95,32,2024-02-18
+218,Chelsea Olsen,laura11@example.net,(474)847-1845x27183,1981-05-09,61645 Bradford Oval Suite 632,West Christina,DC,92559,2024-03-15,2021-01-16,Expired,4482.16,2,2024-01-07
+219,Judith Miranda,fullerwillie@example.com,+1-954-250-5581x414,1958-02-20,83797 Francis Cove Suite 262,Loweville,FL,15434,2024-01-16,2023-09-18,Lapsed,591.67,100,2024-02-24
+220,Robert Robinson,martinscott[at]example.org,001-633-382-4082x04982,1967-09-09,3000 Small Parkway Apt. 316,East Melissaton,TN,78ABC,2024-01-04,2021-01-24,Active,4473.56,92,2024-02-20
+221,Lisa Rios,eric44@example.net,001-672-816-2338x685,1944-03-01,0342 Samuel Union Suite 331,Hernandezview,MH,88970,2024-03-10,2021-08-25,Lapsed,756.49,62,2024-01-31
+222,Rick Davis,bobbylopez@example.net,001-808-876-6527x788,1957-03-08,522 Davidson Passage Apt. 171,Jessicaville,MO,51615,2024-03-07,2019-08-10,Active,355.05,71,2024-01-04
+223,Kevin Jones,susanoliver@example.com,(317)813-9998x86813,1949-09-16,5274 Page Ford Apt. 734,Montgomeryhaven,ID,23926,2024-03-07,2020-03-16,Expired,831.93,47,2024-03-04
+224,Jeremy Sandoval,christina62@example.com,262-990-5017x7902,1997-10-20,37608 Richardson Falls Suite 963,Lake Alejandra,TN,57282,2024-01-21,2024-01-08,Active,2759.42,8,2024-01-05
+225,Mary Lopez,tuckerstephanie@example.org,555-817-0678,1937-05-25,9757 Moran Wells Apt. 080,Lake Joshuashire,WV,35258,2024-03-10,2021-10-05,Expired,2558.48,50,2024-01-05
+226,Andrew Lee,adrian79@example.org,701.502.2028,1962-09-02,302 Nathaniel Springs,Brayport,MA,40287,2024-01-21,2020-04-21,Lapsed,2287.54,4,2024-01-19
+227,Bryan Mitchell,nbaker@example.net,(642)964-0123x07415,1937-12-16,26052 Richard Vista,Reyesbury,NC,35667,2024-02-15,2021-01-22,Active,987.24,6,2024-01-22
+228,Sharon Morris,aliciakim@example.org,(523)946-1719,1971-10-08,5071 Jeffrey Orchard Apt. 145,Alexandermouth,GA,30215,2024-02-03,2023-08-17,Expired,3475.28,31,2024-03-13
+229,Shari Garcia,wheelerdavid@example.org,001-294-656-6359,1954-06-20,4294 Everett Camp Suite 275,New Kaylaborough,MN,58473,2024-02-10,2022-02-19,Active,3002.45,25,2024-03-09
+230,Stephanie Stevens,daniel32[at]example.org,001-540-413-1397x43634,1991-01-11,91133 Lewis Track,New Robertton,GA,83675,2024-01-19,2022-02-05,Lapsed,838.76,73,2024-02-05
+231,Megan Thomas,acampbell@example.net,2604122511,1948-02-03,5516 Ryan Overpass,Hodgesfurt,NY,50062,2024-02-28,2022-11-30,Lapsed,1990.39,9,2024-02-08
+232,Kimberly Parker,johnchavez@example.com,(714)258-3081,2000-11-10,754 Daniel Stravenue,Houstonburgh,NH,21736,2024-01-02,2020-07-22,Expired,2766.56,91,2024-02-06
+233,Alyssa Alvarez,shawalexis@example.com,001-204-510-7746,1955-11-19,2916 Tammy Street Apt. 568,Tuckerport,VI,89733,2024-02-17,2020-04-12,Lapsed,4544.42,93,2024-01-06
+234,Jessica Martinez,torresangela@example.com,719-277-6130x69613,1947-01-06,134 Rodgers Springs Suite 612,Port Laurenton,IN,74037,2024-02-23,2022-08-29,Active,1205.5,34,2024-02-29
+235,Christopher Smith,annematthews@example.org,883.575.1930,2004-03-22,75374 Thomas Isle Suite 605,East Carolberg,NV,16881,2024-02-09,2022-06-04,Expired,3863.2,30,2024-03-12
+236,Meghan Rhodes,gonzalesbrian@example.com,806.856.7236,1934-12-23,5965 Hernandez Knolls Apt. 161,Englishmouth,HI,17565,2024-01-23,2019-11-11,Expired,4836.16,16,2024-01-12
+237,Steven Mendoza,michellemurray@example.net,001-810-382-7534x8675,1947-05-15,2608 Cruz Flat,Port Kenneth,PR,75376,2024-01-19,2021-06-01,Active,2514.41,83,2024-01-14
+238,Jeffrey Wilson,bmorris@example.com,(297)751-2166x59790,1996-01-14,142 Hudson Motorway,South Robertbury,PA,69616,2024-03-02,2022-11-27,Active,3762.77,70,2024-01-11
+239,Sharon Cannon,opeck@example.org,+1-868-935-0089x9398,1952-02-15,17983 Ramos Prairie,Port Jonathanview,VI,14597,2024-02-07,2020-04-28,Expired,2238.76,49,2024-01-26
+240,William Jones,mark97[at]example.com,555-839-4327,1966-08-13,907 Mercado Mountains,Melaniefort,VT,89ABC,2024-02-13,2020-07-06,Lapsed,3716.19,2,2024-01-08
+241,Rebekah Wilson,mariah10@example.net,001-522-681-9531,1982-05-19,034 Wong Vista,Smithmouth,NY,34876,2024-03-12,2021-10-18,Lapsed,3856.7,53,2024-01-27
+242,Curtis Carroll,robertsaaron@example.org,7363021425,1986-06-13,59961 Andrew Ridge,South Paulatown,AR,39285,2024-03-08,2023-11-12,Active,2081.88,59,2024-02-29
+243,Michael Harris,petersonedward@example.org,330-376-0561,1935-10-28,42776 Estrada Throughway Suite 205,South Davidmouth,CT,54593,2024-01-24,2024-01-18,Active,3983.52,46,2024-01-04
+244,Emily Cobb,greensteven@example.org,988-652-6772x0204,2000-03-21,32159 Patterson Prairie,Staceyhaven,SC,84983,2024-02-18,2021-10-12,Lapsed,3184.45,70,2024-02-10
+245,Phillip Little,adamstimothy@example.com,+1-383-568-8024x94157,1994-07-18,6479 Stacey Views,East Brendaborough,DE,19784,2024-01-02,2021-11-17,Lapsed,4350.4,64,2024-01-15
+246,Andre Miller,david84@example.net,205-887-1644,1991-05-23,610 Garcia Keys,Richardbury,NE,17464,2024-02-07,2023-12-17,Expired,396.79,60,2024-01-23
+247,Alexander Villa,lbryant@example.com,+1-685-725-5314x0882,1981-10-15,13293 Michael View,Smithshire,MA,96588,2024-02-09,2022-06-29,Active,1044.74,41,2024-03-04
+248,Tamara May,jesse51@example.com,947-913-7783x524,1984-03-14,9320 Rodriguez Roads,Kelseyside,IN,42915,2024-02-15,2020-03-25,Expired,3149.61,11,2024-02-25
+249,Gina Cabrera,ztorres@example.net,615.234.1057x5297,1973-02-23,1261 Mendez Loop,Port Mark,WA,59514,2024-02-06,2020-06-18,Expired,1160.79,89,2024-01-02
+250,Spencer Reyes,ryan40[at]example.com,295-890-4814x2766,1978-05-08,499 Freeman Summit Apt. 366,North Zacharyberg,MN,61203,2024-02-14,2021-07-10,Lapsed,2565.88,79,2024-02-16
+251,Alexander Bradley,emeyer@example.com,+1-359-684-9603x984,1999-09-09,09975 Anthony Greens Apt. 036,Andrewberg,NC,56012,2024-02-04,2020-03-16,Expired,972.93,51,2024-03-05
+252,Juan Mcclure,jamiefoster@example.org,491.752.8678x18868,1977-12-19,96405 Wong Corners,Joshuaview,NV,40417,2024-02-12,2022-01-15,Lapsed,4467.74,39,2024-03-08
+253,Taylor Brooks,patriciadickerson@example.org,365-928-3675,1960-01-29,363 Marie Throughway Suite 669,South Jeffrey,PW,58966,2024-01-30,2021-07-16,Expired,170.71,2,2024-03-11
+254,Catherine Sanchez,jefferyfuller@example.org,889-624-5395x8461,2003-01-01,01286 Justin Crossroad,Lake Mariatown,AR,67127,2024-01-27,2021-06-23,Active,3496.91,90,2024-02-04
+255,Tracy Brown,angela00@example.com,555-896-2476,1991-08-17,293 Matthew Squares,North Amy,TN,74227,2024-02-20,2021-03-18,Active,1457.85,15,2024-01-19
+256,Albert Anderson,taylorjulie@example.com,3896824994,1989-09-05,3487 Hanson Station,Jamesborough,DC,25612,2024-03-02,2021-04-20,Lapsed,1074.09,57,2024-02-19
+257,Evan Lewis,courtneyharris@example.org,+1-906-735-2942,1961-02-23,27378 Jeremy Gateway,Port Cindy,IL,91474,2024-02-28,2020-01-20,Active,4719.45,9,2024-03-12
+258,Karen Evans,angela54@example.com,479-687-1031x18841,1984-06-29,3769 Alec Views,West Danaside,OR,15094,2024-01-15,2021-08-22,Expired,1700.29,66,2024-01-30
+259,Philip Fisher,nicole24@example.net,216.255.4076x08918,1957-10-17,78190 Palmer Pass Apt. 726,Allenbury,VI,42613,2024-01-21,2020-08-25,Active,3534.34,100,2024-02-28
+260,James Tucker,tharvey[at]example.org,(520)282-6783,1941-01-20,9133 Edward Locks Apt. 982,Josephshire,WI,79ABC,2024-01-20,2019-08-11,Expired,3423.51,31,2024-01-03
+261,Teresa Bates,saundersthomas@example.net,(723)366-4535x0780,1960-10-04,870 Hanson Station,New Jennifer,FL,42096,2024-02-11,2021-04-24,Lapsed,1315.95,92,2024-02-26
+262,Mrs. Tracy Walker DVM,edwardgreen@example.com,+1-661-696-5137,1998-08-04,90999 Clark Mission Apt. 041,West Michael,LA,30682,2024-02-24,2020-05-30,Expired,1418.03,74,2024-02-18
+263,Kristen Ashley,smithsandra@example.net,579-874-0198,1948-07-24,74661 Mitchell Wells,Santiagoport,FM,13792,2024-03-10,2019-04-06,Lapsed,4971.97,82,2024-02-12
+264,Deborah Banks,kaitlin82@example.net,515-242-4821x9050,1935-12-02,493 David Shore,Donnashire,TX,36274,2024-02-11,2019-10-24,Lapsed,307.94,12,2024-01-04
+265,Robert Burke,maciaskevin@example.net,(997)877-2953x962,1947-02-01,650 Harold Isle,New Andrewshire,LA,75201,2024-03-13,2023-07-04,Expired,3499.72,95,2024-02-12
+266,Steven Edwards,joseph31@example.net,734.575.6992x70629,1993-02-11,1770 Tiffany Estates,Patrickshire,NC,36875,2024-01-05,2023-10-29,Active,1520.98,64,2024-01-27
+267,Devin Bright,karenhancock@example.org,(861)927-1839,1975-02-16,23195 Matthew Creek Apt. 861,Kimberlychester,ID,26349,2024-03-09,2020-01-04,Active,2256.87,53,2024-01-11
+268,Beth Cochran,christianwhite@example.net,+1-947-340-1385,1950-03-10,535 Thomas Court Apt. 453,Vasquezton,AR,02807,2024-01-02,2022-10-04,Expired,4537.69,60,2024-01-12
+269,Denise Brown,izamora@example.org,595.827.8571x930,1998-05-20,9930 Wilson Hollow Apt. 909,Foxfort,MP,68967,2024-01-21,2022-11-12,Expired,4797.76,61,2024-01-05
+270,Sarah Martin,charlesrios[at]example.org,555-314-5771,1952-06-05,8866 Patel Forges Suite 165,South Natalie,ND,32932,2024-02-22,2020-07-30,Active,4634.92,10,2024-02-23
+271,Ashley Burton,amandabrown@example.com,952-462-4041,1943-01-06,837 Douglas Road,Andrewmouth,VI,92180,2024-03-04,2020-10-28,Expired,1752.38,98,2024-01-04
+272,Mrs. Laura Brown,richard09@example.com,985.656.5383x672,2000-10-29,413 Tammy Harbors Apt. 002,Belltown,AZ,07630,2024-01-26,2020-06-07,Expired,3633.93,97,2024-01-21
+273,Mary Morris,landerson@example.com,+1-765-515-6454x430,1959-05-30,329 Roberts Avenue Apt. 372,Lindseymouth,MP,57567,2024-02-12,2023-06-14,Lapsed,4053.84,32,2024-01-04
+274,Jeffrey Walker,bradhayes@example.net,+1-843-328-9187x00983,1935-01-21,76454 Stephen Ramp,Michelleview,KY,98553,2024-01-26,2020-05-01,Lapsed,4803.73,51,2024-02-08
+275,Samuel Wagner,chenlucas@example.org,758-237-4149x33479,1989-10-29,9935 Stacy Pass,Hillburgh,RI,35136,2024-02-27,2022-08-02,Expired,635.78,95,2024-02-04
+276,Heather Greer,zmalone@example.net,669.524.8005x7264,1939-07-04,482 Keller Crossing,New James,VA,38356,2024-01-22,2022-03-04,Lapsed,3243.58,49,2024-03-04
+277,Grant Powers,pgarcia@example.net,001-364-844-6767x15045,1944-04-02,6415 Kelly Pines Apt. 399,North Williamland,AS,56531,2024-01-03,2021-09-30,Expired,531.28,11,2024-01-08
+278,Peter Brewer,ehunt@example.net,(641)926-3009,1961-06-30,38711 Thomas Ports,Brandonbury,KS,01278,2024-03-05,2021-06-08,Lapsed,2706.39,62,2024-02-27
+279,Anthony Zuniga,aaronwilson@example.net,(564)746-4556,1941-09-12,42733 Ford Hills Apt. 216,West Patrickmouth,IN,47470,2024-02-24,2023-02-25,Expired,1317.8,81,2024-01-27
+280,Michael Stephens,donna62[at]example.com,+1-441-823-6386x116,2004-12-27,68675 Jodi Green Suite 401,Smithfurt,PR,43ABC,2024-03-08,2023-06-07,Active,1983.28,79,2024-03-15
+281,Douglas Murphy,richard82@example.net,468.844.2651,1967-04-21,0694 Sandoval Ways,Jonathonmouth,MH,37791,2024-01-07,2023-11-05,Active,2910.3,83,2024-03-02
+282,Heather Rose,vincent95@example.net,001-464-614-6249,1995-05-23,737 Clark Ports Apt. 519,Bobbyton,ID,62480,2024-03-13,2022-04-16,Lapsed,4616.65,66,2024-01-27
+283,Spencer Bright,jefferyfletcher@example.com,645.433.3862x57918,1956-06-17,290 King Fort Apt. 099,Jennytown,MO,54256,2024-03-08,2023-06-02,Active,3779.94,6,2024-03-11
+284,Robert Williams,kirkmary@example.net,900-274-9117,1980-06-28,9657 Benjamin Terrace,North Nicoleborough,AS,62534,2024-01-15,2019-08-02,Lapsed,1466.09,16,2024-03-08
+285,David Jones,teresa91@example.org,555-795-9814,1939-06-17,78473 Elizabeth Crest Suite 020,North Jo,AR,82232,2024-03-01,2021-12-17,Expired,4766.03,76,2024-02-12
+286,Suzanne Simpson,elizabethjohnson@example.net,001-259-798-8127x482,1933-10-28,130 Michelle Summit,Valeriefort,LA,09447,2024-01-11,2021-08-11,Expired,1625.29,91,2024-02-29
+287,Erica Macdonald,schmittkrystal@example.org,409.780.2590x02759,1987-01-11,9003 Strong Plains,Lake Kenneth,WV,17825,2024-02-02,2022-08-23,Lapsed,2120.63,18,2024-01-22
+288,Christina Miller,stephanie49@example.com,731-857-4165x683,1989-02-18,9069 Sonya Plaza Suite 001,Monicatown,PR,97555,2024-02-20,2020-06-06,Lapsed,1326.23,86,2024-01-20
+289,Stacey Diaz,lwright@example.net,630-938-3874x3316,1960-01-02,4750 Megan Crescent,Hectorton,SD,04854,2024-03-13,2019-07-25,Active,2613.3,8,2024-03-06
+290,Shawn Villa,jillblackwell[at]example.com,+1-758-631-5357x926,1970-03-31,927 Robert Plaza Suite 303,Port Robert,GU,08218,2024-02-12,2019-03-18,Expired,640.55,23,2024-01-07
+291,Jeffrey Miller,turneranthony@example.net,(858)365-8933x4408,1956-12-03,4577 Cynthia Canyon,West Jessicaton,CO,34365,2024-02-03,2020-11-03,Active,1316.82,84,2024-03-14
+292,Kevin Marsh,brianjenkins@example.net,377-411-1886x1931,1956-02-16,31927 Ross Land Apt. 221,Wrightside,MP,12238,2024-02-02,2022-04-20,Active,177.83,15,2024-01-26
+293,Connie Blackburn,meyersmary@example.org,(613)863-9224x556,1968-12-16,52496 Le Brook,Duncanbury,AR,19070,2024-02-14,2020-12-19,Active,1438.34,2,2024-03-04
+294,Kyle Simmons,kathleen58@example.net,676-657-5284x0986,1977-08-27,386 Nicole Rest,North Eric,MS,42688,2024-01-24,2022-01-01,Lapsed,2094.25,10,2024-02-04
+295,Michael Ayers,sweaver@example.com,001-680-584-3729x74643,1940-12-12,69109 Hill Lodge Suite 422,Seanland,SC,52093,2024-03-08,2023-03-09,Active,2062.68,54,2024-02-02
+296,Jennifer Skinner,jacqueline21@example.net,+1-988-232-4833x8718,1959-02-14,0728 Hughes Glen Apt. 212,Zimmermanton,VI,75528,2024-01-12,2021-08-28,Active,518.97,93,2024-03-01
+297,Amy Marquez,robert23@example.org,001-447-928-4652x047,1987-12-19,563 Gregory Estate,Phillipshaven,VI,95327,2024-01-01,2022-12-18,Lapsed,3238.92,16,2024-01-23
+298,Dalton Wallace,harringtonkimberly@example.com,440.734.5465x591,1995-11-03,547 Leslie Spring,Christensenshire,NV,82161,2024-02-23,2019-10-30,Expired,4434.78,54,2024-02-08
+299,Briana Mcdonald,juan12@example.net,+1-693-499-2648x1808,1986-02-10,173 Calhoun Spurs,North Jackfort,PW,15542,2024-01-17,2021-12-22,Expired,3568.73,39,2024-01-25
+300,Scott Dalton,russell26[at]example.org,555-202-8310,1951-01-02,13773 Mcmillan River Apt. 429,Freemanville,TN,71ABC,2024-02-23,2021-12-28,Active,2318.63,47,2024-01-15
+301,Lisa Glass,andreacarson@example.net,583.774.2713x232,1996-04-23,472 Michael Causeway,North Denisemouth,MP,43685,2024-01-11,2022-03-08,Lapsed,3172.35,93,2024-03-10
+302,Christopher Gilmore,batesbarbara@example.org,001-244-256-0156x58913,1940-03-18,70094 Evans Flats,Julieport,ND,12529,2024-03-12,2021-06-01,Active,2532.54,95,2024-02-19
+303,Mrs. Monica Horne MD,kellypatrick@example.net,871.854.4567x0188,1971-08-25,67505 Ramos Wells,Evanchester,ND,98561,2024-02-12,2023-10-27,Active,1654.67,21,2024-03-05
+304,Benjamin Clarke,christopher94@example.com,+1-629-682-7476x62645,1937-08-12,1160 Leonard Wall Apt. 016,Margaretberg,MI,17176,2024-02-24,2021-12-17,Lapsed,4784.54,39,2024-01-03
+305,Walter Woods,uross@example.net,843.570.0515,2002-09-26,637 Robert Unions Suite 027,Barbarafurt,MH,07371,2024-02-25,2021-06-10,Lapsed,3001.8,1,2024-01-20
+306,Jason Johnson,jerry72@example.com,001-910-516-8405x72780,1968-02-16,5255 Martin Hill Suite 020,Odomburgh,PW,14717,2024-02-12,2020-04-09,Lapsed,3695.03,38,2024-03-02
+307,Stephen Smith,sarah98@example.com,577-737-1834x7229,1943-07-19,205 Chavez Passage,North David,NH,73743,2024-01-22,2023-05-31,Active,2690.19,40,2024-02-19
+308,Mrs. Elizabeth Dean,andersonadam@example.net,6423540539,1972-01-29,95916 Lewis Gateway Apt. 762,Katherineburgh,TX,33294,2024-02-06,2022-07-31,Expired,525.67,2,2024-02-05
+309,Mrs. Melissa Barnes,loristokes@example.net,259-207-2174x928,1999-12-06,99551 Perez Rapids,Port Jennifer,WA,71678,2024-02-17,2020-04-21,Expired,1702.21,31,2024-01-02
+310,Jeremiah Ramirez,sfitzgerald[at]example.org,2067791823,1997-10-27,0248 Cooper Pass,Port Jenna,TX,56971,2024-02-01,2021-12-08,Lapsed,2169.08,40,2024-01-01
+311,Sydney Hart,floydjustin@example.org,860.611.5097,1935-05-13,3842 Dean Lake,East Jacobmouth,NV,64285,2024-02-29,2023-11-07,Expired,4777.97,99,2024-01-18
+312,Natalie Mitchell,hammondshannon@example.org,434.240.4055x13398,1946-06-11,9275 Rebecca Knoll,North Glendafurt,AK,74849,2024-02-22,2023-03-26,Expired,3598.13,16,2024-02-15
+313,Alexander Warren,david22@example.com,+1-460-558-1069,1992-05-29,1274 Calhoun Inlet,Lake John,GA,26472,2024-02-28,2023-11-21,Expired,1899.36,86,2024-01-27
+314,Hayden Norman,earljennings@example.com,+1-746-570-2616x904,2004-12-12,79208 Jenny Course Apt. 744,Davenporttown,MT,69518,2024-03-05,2022-05-06,Active,1371.53,3,2024-01-22
+315,Diana Reed,michael10@example.com,555-938-0989,1968-01-22,73907 Mitchell Cape Suite 249,Cherylberg,NM,53341,2024-01-02,2019-10-01,Active,4618.13,1,2024-01-30
+316,Eric Hughes,andrew84@example.net,6247731247,1994-12-07,0321 Ramirez Ridge,Lake Cheryl,CT,20658,2024-01-14,2019-05-28,Expired,2868.19,59,2024-02-01
+317,Madison Rios,martinezterri@example.org,+1-471-797-4146x705,1985-06-15,42952 Aguilar Mount Apt. 516,Port Jeffrey,AR,27896,2024-01-28,2020-02-15,Expired,832.56,38,2024-02-26
+318,Juan Owen,miguel95@example.com,674-693-3181x649,1945-05-09,12371 Rangel Mount,New Vickibury,OH,80094,2024-02-24,2021-05-19,Active,3118.25,33,2024-03-02
+319,Rebecca Shields,amoore@example.com,(525)494-6777x566,1934-06-07,9900 Jonathan Street Suite 840,East Philip,CT,94678,2024-02-21,2022-10-18,Active,785.4,14,2024-02-17
+320,Mercedes Griffith,chris86[at]example.org,+1-245-532-8429,1985-09-11,16465 Craig Parkways,Kristinachester,MH,39ABC,2024-03-09,2020-08-30,Lapsed,3503.27,64,2024-01-01
+321,Jane Benson,gabrielle33@example.com,799-967-2332,1950-11-20,537 Williams Roads,South Shelbyberg,MA,37507,2024-01-22,2023-01-28,Active,4088.62,60,2024-01-30
+322,Javier Huang,johnwright@example.com,251.366.9623,1991-03-05,1715 Robert Roads Apt. 787,West Patriciamouth,KY,50215,2024-02-29,2023-05-28,Lapsed,2379.89,48,2024-01-17
+323,Amanda Hall,rangelluis@example.net,(570)326-9219,1983-08-05,2736 Gonzalez Village Apt. 015,Thomaston,MA,51879,2024-01-03,2022-01-31,Lapsed,2264.8,63,2024-02-02
+324,Douglas Rivers,woodwardmisty@example.org,415.846.9179x2970,1989-09-09,96397 Clements Orchard,Monicachester,IA,06880,2024-03-01,2023-02-14,Active,3046.89,33,2024-01-06
+325,Michael Garcia,hespinoza@example.net,001-988-501-6516,1986-03-31,68942 Clark Walk Apt. 262,Lake Scott,MO,78622,2024-02-26,2021-02-21,Expired,1781.56,13,2024-03-05
+326,Ashley Brady,edwardswesley@example.net,727-977-5314,1947-10-29,65973 Nelson Lodge Apt. 229,New Richard,CT,52159,2024-02-19,2020-10-10,Expired,4860.83,20,2024-02-12
+327,Leonard Booth,sandraatkins@example.net,+1-211-510-2785,1994-07-01,108 Scott Gardens,Holmesborough,MS,75078,2024-01-22,2020-09-24,Expired,3705.51,5,2024-01-31
+328,Alec Page,gsmith@example.net,722.872.2544,1936-11-27,219 Charles Neck,East Phillip,IA,18412,2024-02-02,2023-02-21,Expired,4437.2,73,2024-02-23
+329,Sharon Turner,watsonchad@example.net,519.433.4439x08103,1957-08-30,482 Morrison Glens Suite 823,Katherineville,DE,41748,2024-01-16,2020-12-01,Expired,3686.93,80,2024-03-13
+330,Emily Hebert,ericperez[at]example.net,555-243-5375,1988-01-01,7822 Taylor Vista Suite 426,Lake Thomasview,VT,32650,2024-01-16,2019-09-11,Lapsed,3737.47,46,2024-01-04
+331,Christine Baker,fjones@example.com,(583)310-7005x00172,1955-08-19,939 Roth Points,New Tina,DE,31857,2024-02-15,2019-07-03,Expired,460.04,83,2024-03-14
+332,Kathryn Harper,scott96@example.com,512.665.0163x2686,1973-07-29,3241 Sharon Trafficway Suite 865,Lake Raymondville,TN,88656,2024-02-05,2019-11-23,Expired,4254.76,9,2024-02-07
+333,Herbert Preston,harringtonhannah@example.net,956-809-9815x12049,2000-11-10,583 Nelson Squares,North Nicolechester,CO,57177,2024-03-10,2023-10-29,Lapsed,3363.31,23,2024-01-24
+334,Brittany Johnson,williamsjoseph@example.org,+1-950-254-4532,2001-01-24,09761 Rodriguez Forge Suite 207,Millerland,OH,92487,2024-03-12,2022-09-12,Active,2350.12,45,2024-02-11
+335,Steven Underwood,kathleen86@example.com,677.234.0334,1974-05-26,14008 Tiffany Shoals,Lewisfort,OK,19795,2024-02-05,2020-12-28,Expired,3661.47,87,2024-02-04
+336,Marissa Gonzalez,daviskimberly@example.net,001-228-305-1260x132,1954-10-22,77104 Mark Hill Apt. 433,Elizabethchester,MH,05295,2024-01-01,2019-12-19,Expired,2772.76,22,2024-02-02
+337,Angela Miller,steven97@example.com,446.874.5885x791,2000-04-07,7920 Hannah Manor,South Harrystad,LA,99713,2024-02-29,2021-12-10,Expired,2485.51,95,2024-01-21
+338,Ronnie Hensley,yfields@example.org,+1-708-642-9426x04465,1994-10-12,976 Anthony Ramp Suite 906,Brownport,FM,09654,2024-03-05,2020-03-10,Active,1593.69,67,2024-02-05
+339,Aaron Jackson,kmitchell@example.net,582.667.1141,1982-02-16,9512 Debbie Underpass Apt. 729,South Barbarachester,MD,93748,2024-03-08,2022-11-10,Active,488.7,32,2024-01-27
+340,Maria Morris,areyes[at]example.net,+1-936-847-5779x11425,1995-03-23,1711 Karen Course,Simsshire,PW,13ABC,2024-02-13,2020-12-20,Lapsed,515.94,47,2024-01-15
+341,Karina Reese,kvargas@example.org,+1-524-507-6678x9780,1994-12-19,0051 Johnson Club Apt. 950,New Traci,TX,95846,2024-03-12,2019-08-10,Lapsed,2971.64,58,2024-02-23
+342,Todd Ross,owhitaker@example.net,882-681-4034,1935-04-08,5187 Mark Shore,Fosterfurt,CO,50844,2024-01-03,2022-12-26,Expired,1039.37,43,2024-03-13
+343,Logan Johnson,mcdanieldawn@example.com,6178965096,1987-09-27,241 Melissa Tunnel Apt. 372,East Keith,NJ,52930,2024-02-05,2021-01-29,Active,1787.62,4,2024-01-10
+344,Eric Joyce,xwilliams@example.org,+1-528-859-6152,1999-01-15,704 Hayes Squares Apt. 610,Jamesberg,PR,20947,2024-01-13,2019-04-05,Expired,1527.49,85,2024-01-10
+345,Courtney Patel,wilsonkristy@example.org,555-064-8346,1997-10-01,546 Thomas Inlet,Cainfort,FM,35160,2024-01-20,2019-06-02,Active,3254.9,63,2024-02-08
+346,Aaron Wang,nicholas95@example.org,702.293.8813x16577,1987-04-19,53799 Jennifer Roads Suite 444,Morganton,MH,47597,2024-01-06,2019-12-29,Lapsed,797.3,55,2024-03-12
+347,April Austin,michael27@example.com,+1-388-719-2084x695,1992-07-20,781 Johnson Neck Apt. 742,Olsonview,CO,28112,2024-01-18,2022-04-12,Expired,1248.14,31,2024-01-03
+348,Ryan Evans,waltercraig@example.com,001-711-304-8296x48660,1936-05-16,994 Lisa Ridges Suite 370,South Michaelton,OK,81709,2024-02-08,2023-06-17,Lapsed,4556.15,7,2024-01-27
+349,Patricia Terry,shelleybarnes@example.com,(944)858-9612x4714,1993-08-19,4635 Jeremy Hill Apt. 402,Wilcoxmouth,TN,42240,2024-01-20,2021-07-03,Active,3387.66,15,2024-02-18
+350,Joanne Baker,dmoreno[at]example.com,+1-468-472-6507x82417,1935-12-26,2897 Mary Walk,Lake Kathrynburgh,DC,10805,2024-01-05,2020-07-18,Active,955.44,93,2024-02-11
+351,Alexander Conner,mayjames@example.net,001-516-256-9780x259,1953-10-15,3857 Heather Mountain,Rodriguezland,TX,15838,2024-01-07,2023-03-06,Active,3102.95,50,2024-01-10
+352,Roberta Rodriguez,brian42@example.net,738.524.1905,1996-04-23,712 Vanessa Divide Apt. 618,East Christopherton,MD,89008,2024-02-11,2022-11-25,Active,3484.61,49,2024-01-11
+353,Matthew Myers,graymichelle@example.net,+1-677-763-3668x4781,1940-01-09,93951 John Expressway Apt. 804,Lake Brittneymouth,UT,54246,2024-03-11,2023-01-13,Lapsed,2083.98,41,2024-02-12
+354,Connie Wood,hwoods@example.com,680-530-8139x92059,1947-03-24,640 Norman Loop Suite 613,Harrisonside,DC,20656,2024-03-06,2022-05-20,Active,3569.35,75,2024-01-31
+355,Tammy Watson,lelindsey@example.org,+1-810-707-0462x221,1962-09-21,5909 Cobb Curve Suite 091,South Sean,SD,98817,2024-02-16,2022-04-14,Expired,3055.03,92,2024-02-26
+356,Timothy Little,gonzalezmichelle@example.net,625.368.8629,1940-12-11,3850 Samuel Fords,Darrellstad,MT,72470,2024-01-23,2021-10-25,Expired,969.65,2,2024-02-26
+357,Evan Stewart,youngbrittany@example.net,(565)536-4685x98584,1938-10-20,89449 Williams Ports,West Thomaston,PA,38625,2024-01-02,2022-05-01,Lapsed,4355.18,80,2024-01-13
+358,Jose Fisher,xrobinson@example.com,271.477.0083x75078,1988-04-15,579 Young View,Port Meghan,CT,75113,2024-01-30,2020-09-01,Lapsed,4007.98,60,2024-01-02
+359,Amanda Williams,rwarren@example.net,692-987-2407x428,1960-07-08,6386 Bobby Brooks Suite 347,Hooperburgh,SC,86409,2024-03-03,2020-02-25,Lapsed,3016.13,12,2024-03-11
+360,Nicole Cooley,andreabrennan[at]example.org,555-943-0265,1970-12-15,22083 Ferguson Shoals,Port Caitlynfort,VT,98ABC,2024-03-08,2019-10-06,Active,3815.23,99,2024-02-25
+361,Tonya Osborne,tina27@example.net,+1-593-423-6286,2002-01-06,532 Glover Turnpike Apt. 895,West David,NJ,61587,2024-02-17,2020-01-13,Expired,3677.07,87,2024-03-12
+362,Jeffrey Miller,jacqueline89@example.org,+1-885-555-3483x197,1999-10-07,10860 Cameron Garden Apt. 697,Chelseafurt,LA,14904,2024-02-26,2020-01-09,Active,1691.02,30,2024-01-07
+363,Pamela Wells,ronnietorres@example.net,001-948-812-5849x249,1956-05-25,2850 Rogers Meadows Suite 149,West Anita,TN,73217,2024-01-18,2022-12-27,Lapsed,381.12,46,2024-01-14
+364,Diane Salas,zyoung@example.com,001-890-505-9574x483,1947-01-22,59705 Freeman Hill,East Michael,WA,61056,2024-01-12,2023-05-27,Expired,2592.23,98,2024-01-07
+365,Andrea Harris,michaelwright@example.org,+1-611-538-0818x23936,1939-07-13,934 Daniel Haven Suite 579,West Kathrynchester,VI,25504,2024-01-28,2022-01-17,Active,2549.43,23,2024-02-23
+366,Joshua Harris,josephjensen@example.org,291.244.2277,1982-01-31,5572 Morrison Circle Suite 170,Justinbury,GU,67791,2024-03-03,2021-11-12,Expired,4263.22,4,2024-02-20
+367,Robert West,gilmorejared@example.org,215.823.9606x175,1952-05-13,68226 Edward Union Suite 429,East Jill,FM,98324,2024-01-06,2022-09-23,Active,3094.17,29,2024-01-30
+368,Victoria Reese,munozmatthew@example.org,463.593.2624,2001-09-27,42800 Hart Glens,East Denise,AK,75527,2024-01-24,2022-11-17,Expired,3558.59,87,2024-01-17
+369,Joshua Vincent,whiteamber@example.org,889-210-7646x2464,1935-10-30,4942 Samuel Manor Suite 233,Ashleyburgh,FL,50564,2024-02-01,2020-09-10,Expired,4445.24,19,2024-01-31
+370,Rebecca Smith,dgarrett[at]example.org,+1-834-464-5783x303,1999-01-22,132 Avila Streets,South David,NY,67335,2024-02-01,2022-01-08,Active,2327.36,22,2024-03-15
+371,Erin Warren,wolfjenna@example.org,+1-344-958-6120x662,1984-02-21,7450 Flores Loop,New Mary,AZ,27905,2024-01-15,2021-08-22,Expired,3924.94,17,2024-02-09
+372,Briana Black,gregory46@example.com,(558)547-0186x0433,1988-02-02,2345 Cross Expressway Apt. 131,North Tricia,TX,02254,2024-03-03,2021-04-29,Active,1742.5,98,2024-01-21
+373,Angela Clarke,trujillosandra@example.org,930.594.1023x95118,1945-03-22,663 Rios Hill,Morrowfurt,MT,57205,2024-01-22,2019-11-29,Expired,4833.23,52,2024-01-14
+374,Monica Clark,xpearson@example.net,595-864-7148x172,1974-06-28,799 Dawson Ranch,Morganton,MD,55220,2024-01-07,2020-07-07,Lapsed,4292.6,78,2024-02-01
+375,Tyler Mendez,mcclurewilliam@example.org,555-238-1793,1954-03-10,8207 Elijah Glen,Port Heather,GA,29915,2024-01-20,2023-09-20,Expired,3973.53,59,2024-01-19
+376,Jessica Williams,crystalfisher@example.net,(378)878-9253,1972-03-28,705 Tucker Springs Suite 219,Jacobburgh,WY,20352,2024-02-05,2022-08-21,Lapsed,1163.93,77,2024-03-02
+377,Donald Estrada,anthony60@example.com,314-780-0546x114,1967-11-24,29646 Elijah Islands,North Brittanyton,FM,96566,2024-01-12,2024-01-20,Lapsed,1302.5,87,2024-02-15
+378,Tammie Hamilton,ambersimpson@example.com,469-655-6595,1992-11-06,344 Reed Shore Suite 797,Whitetown,WA,59402,2024-02-10,2019-09-16,Expired,4504.74,59,2024-03-13
+379,Kevin Santos,englishhannah@example.org,712-302-2715,1971-11-07,2076 Chavez Dale Suite 404,Rodneyport,MI,52966,2024-02-11,2022-08-31,Active,3278.32,3,2024-03-10
+380,Kaylee Fuentes,yortiz[at]example.org,861-490-8715x7872,1973-02-05,15304 Lee Haven Apt. 797,New Nathan,NM,31ABC,2024-02-13,2022-01-14,Expired,4530.3,97,2024-01-14
+381,Kristen Davis,iporter@example.org,892-807-4224x1381,2003-02-03,5005 Justin Island,Greenmouth,OR,83691,2024-02-14,2023-04-03,Expired,521.56,62,2024-01-30
+382,Jacob Bishop,leslietucker@example.net,469-548-9864x84511,1985-04-24,04425 Johnson Glen,North Carolyn,OR,65507,2024-01-28,2023-02-10,Lapsed,471.18,7,2024-02-12
+383,James Shepard,glenmills@example.org,479.840.4053x05678,1983-11-27,257 Burns River Suite 129,South Taylorborough,KY,93577,2024-02-18,2021-09-05,Active,3643.57,39,2024-02-03
+384,Erika Larson,elizabethsantiago@example.com,001-410-911-4874x3365,2001-03-31,122 Ryan Gateway Apt. 711,Brandtland,KS,05033,2024-02-21,2020-04-20,Active,4585.19,53,2024-01-26
+385,Kristine Young,russell81@example.com,001-772-671-0979,2001-05-20,2807 Erica Brooks,Robertburgh,WI,22710,2024-02-29,2019-06-16,Lapsed,847.39,80,2024-02-22
+386,Kathleen Hernandez,katherine31@example.net,(775)266-7870x199,1989-10-29,420 Lori Junction Apt. 509,Lake Gregoryshire,IN,27719,2024-03-10,2023-12-01,Active,4320.6,3,2024-02-22
+387,Victoria Sanders,grayangel@example.org,001-879-721-6697x652,1935-12-11,38817 Jennifer Junction Suite 107,Kyleview,AR,40682,2024-02-22,2020-11-26,Lapsed,1363.86,63,2024-02-13
+388,Angela Hernandez MD,mendezkathleen@example.net,218-567-1368x80282,1973-01-30,76532 French Lane Suite 682,West Garyfort,NC,75034,2024-02-06,2021-07-16,Active,3573.36,43,2024-01-18
+389,David Lynch,zmaxwell@example.com,(820)304-3092,1954-08-22,056 Anderson Common Suite 724,Whiteland,OK,41274,2024-02-25,2023-01-03,Active,977.82,11,2024-01-05
+390,Christopher Donovan,austinchristine[at]example.org,555-269-0899,1995-08-20,00395 Thompson Inlet,Lewiston,ID,70751,2024-01-03,2021-04-10,Expired,3958.18,40,2024-02-15
+391,Charles Guerra,allisonrobinson@example.com,699-658-2671x6333,1963-03-30,592 Bowers Branch Apt. 121,Elizabethville,WA,38960,2024-03-14,2023-05-04,Expired,2934.88,66,2024-02-25
+392,Ronald Cannon,daniellee@example.net,+1-998-660-2373x120,1971-05-05,1347 David Forge Suite 525,North Shannontown,UT,43331,2024-01-19,2021-01-07,Active,268.61,60,2024-02-29
+393,Kevin Thompson,nancy26@example.net,001-986-464-2589x52189,2003-06-09,948 Anderson Extension Suite 549,Billstad,WA,70482,2024-01-28,2020-07-19,Active,2717.96,78,2024-02-12
+394,Lisa King DDS,walter32@example.net,947-235-0538x80932,1974-03-03,1298 Bishop Drive Suite 150,Lake Pamelamouth,MT,23118,2024-02-24,2023-01-29,Lapsed,1278.12,96,2024-02-27
+395,Carlos Collins,allen63@example.net,7026941337,1963-10-14,399 Lopez Gateway,Lake Kellyshire,MD,98704,2024-01-21,2022-06-16,Expired,1266.49,68,2024-02-25
+396,Phyllis Morgan,andre51@example.net,(853)645-3951x5054,1992-02-14,86641 Johnson Land,North Eduardo,IN,97740,2024-01-30,2022-06-07,Active,625.36,41,2024-03-14
+397,Patrick Robles,sbyrd@example.net,582.966.8772x1944,1971-10-30,5510 Rachael Knoll Apt. 604,Carterport,OR,90250,2024-01-16,2022-01-15,Active,2858.15,23,2024-01-22
+398,James Spears,iherrera@example.net,867-485-3897x5336,1943-04-12,341 Martin Dam,Lake Francisburgh,MA,47726,2024-01-27,2020-08-12,Lapsed,2044.12,43,2024-02-18
+399,Cindy Castaneda,andrea37@example.com,(912)568-2448x193,1953-03-10,153 Green Center Apt. 283,South Shirley,RI,43303,2024-02-06,2023-08-08,Lapsed,4196.27,64,2024-03-07
+400,James Robbins,qtaylor[at]example.com,635-656-9550x7095,1953-08-28,02084 Cole Forges,Thomasberg,DC,95ABC,2024-01-19,2022-05-26,Lapsed,2084.73,70,2024-01-21
+401,Pamela Kane,andrewprice@example.org,949.396.6076x83608,1991-05-17,70499 Banks Loaf Suite 958,Barrborough,NV,84558,2024-02-10,2019-04-04,Lapsed,4573.5,64,2024-02-08
+402,Monica Palmer,gonzaleztyler@example.net,455.619.2137x634,1957-06-23,89476 Matthews Run Apt. 946,West Grace,KS,17109,2024-01-06,2023-12-06,Expired,1141.7,46,2024-01-31
+403,Paige Hicks,chunter@example.org,+1-668-328-5255x7965,1985-05-07,932 Joseph Stravenue Apt. 620,Fisherhaven,MO,93977,2024-01-28,2023-03-30,Expired,4121.91,10,2024-03-11
+404,Alexandra Curry,vroy@example.com,459-438-9881x7098,1949-04-09,23557 Nicole Parkways,Port Kimfurt,ME,60497,2024-02-11,2022-03-09,Active,4423.99,36,2024-02-09
+405,Cheryl Fernandez,vargaschelsea@example.net,555-181-6518,1966-09-16,47115 Williams Village Suite 663,Englishtown,NC,13072,2024-01-03,2022-11-08,Expired,297.52,41,2024-03-13
+406,Brenda Thomas,rwilliams@example.com,+1-718-305-2376x2248,1947-06-10,1097 Austin Land Suite 875,Villanuevamouth,CT,98780,2024-01-27,2020-08-30,Expired,846.26,27,2024-02-18
+407,Kevin Montgomery,billy60@example.org,(669)852-0212x0562,1981-04-08,127 Fritz Mountains Suite 541,East Raymondside,MH,78260,2024-01-26,2022-05-12,Lapsed,1371.96,99,2024-02-22
+408,Brett White,juancrawford@example.net,772-396-2214x999,1949-06-28,0069 Anthony Brook,Jacobborough,NV,85860,2024-02-09,2022-07-30,Lapsed,4444.55,39,2024-01-14
+409,Jordan Vaughn,dylan68@example.com,645-971-9029x4588,1968-09-09,804 Santos Isle Suite 730,Lake Meganborough,AK,32985,2024-01-26,2023-02-27,Lapsed,2124.34,42,2024-01-01
+410,Eric Reilly,masonbrooke[at]example.net,+1-410-881-7103x628,2000-09-08,04472 Crawford Island Suite 608,Port Taylor,UT,88789,2024-01-29,2023-12-31,Active,1993.21,19,2024-02-25
+411,Nathaniel Morris,victoria03@example.net,(519)385-7255,1967-08-25,88017 Darren Prairie,North Reginaldmouth,WI,42890,2024-01-20,2019-04-03,Active,627.44,50,2024-02-28
+412,Seth Shepard,jonesheidi@example.net,766-587-3027x50842,1984-09-30,30525 Shelby Drive Apt. 537,Sanchezstad,AZ,42853,2024-02-14,2022-05-24,Expired,154.28,23,2024-01-10
+413,Travis Joseph,brandythomas@example.org,425-830-0729,1971-05-31,44362 Leslie Neck Apt. 860,Serranoberg,VI,16463,2024-01-04,2021-03-27,Active,3122.32,56,2024-01-06
+414,Vincent Johnson,perryroberto@example.net,224-268-8650x7446,1950-02-28,28827 Davis Loaf Suite 949,Mitchellview,KY,25419,2024-01-24,2019-09-15,Lapsed,765.04,68,2024-01-06
+415,Melissa Morse,williampatrick@example.net,001-753-655-0234x8022,1979-04-04,470 Cynthia Crossing Apt. 157,Edwardsburgh,NM,52413,2024-02-12,2022-01-22,Active,4345.71,12,2024-02-12
+416,Michele Morris,ifuller@example.com,001-724-404-4545x5894,1974-05-04,42212 Cruz Alley,Campbellview,IN,09249,2024-02-11,2021-02-03,Active,373.56,19,2024-02-21
+417,Jeffrey Schneider,tommymartinez@example.org,225.553.2067,2001-11-01,5538 Rose Course,Paulton,PA,88117,2024-02-25,2022-02-10,Expired,3183.53,86,2024-01-18
+418,Thomas Lewis,delacruzjimmy@example.net,945-238-5756x97468,1983-09-02,983 Valencia Corners Apt. 490,Port Ryanmouth,VA,20156,2024-01-07,2022-09-17,Lapsed,113.76,89,2024-01-03
+419,Elizabeth Day,cnelson@example.com,(596)831-0609x5988,1958-04-29,4654 Franco Summit,Garciahaven,FL,66626,2024-02-05,2021-08-27,Active,2797.26,49,2024-02-09
+420,Nancy Peterson,andrea12[at]example.net,555-844-3658,1994-08-20,0580 Monica Crest,Cookborough,ID,13ABC,2024-01-13,2022-03-25,Lapsed,4174.91,7,2024-02-28
+421,Melanie Miller,brian73@example.com,293.443.0577x52493,1948-10-19,68845 Frank Forges,Port David,DE,65637,2024-02-27,2021-04-05,Expired,4844.62,41,2024-03-08
+422,Laura Leach,michaelmeyer@example.net,453.679.2344,1981-04-08,48634 Paul Mill Apt. 049,Mahoneyfurt,MT,37416,2024-02-29,2023-06-13,Lapsed,4884.25,96,2024-01-01
+423,Karen Rice,catherinewalters@example.net,643.895.7532x4631,1959-10-29,282 Herrera Union,Prattville,MT,72526,2024-01-30,2021-01-03,Lapsed,453.65,33,2024-01-08
+424,Hector Mccormick,anthony69@example.org,(485)802-5466x9819,1963-04-18,07999 Derek Rapids Apt. 835,South Shawn,NE,68829,2024-03-04,2021-06-04,Lapsed,1365.92,99,2024-02-10
+425,Joseph Chang,burtonjerome@example.org,9146159880,1989-04-19,63916 John Ranch Suite 381,North Aliceton,SC,29473,2024-03-06,2020-04-18,Expired,4672.5,17,2024-02-17
+426,Michelle Stephenson,sheiladaniel@example.net,+1-360-669-6767x80486,2002-09-21,61943 Johnson Road Apt. 443,Darrellshire,FM,11919,2024-01-13,2022-01-27,Lapsed,3166.29,28,2024-03-11
+427,Melissa Taylor,osmith@example.org,001-568-423-4734x6577,1993-05-06,0267 Nixon Motorway Suite 532,Smithburgh,DC,84337,2024-02-26,2019-12-04,Active,4121.34,96,2024-03-07
+428,Alexander Hayes,andrewford@example.net,771.598.4459x96561,1996-08-28,0949 Alexis Mall Suite 610,North Natalie,SD,60448,2024-02-05,2019-11-22,Active,2883.31,69,2024-02-15
+429,Monique Ray,tabitha72@example.org,(537)317-4932x17670,1971-09-24,19419 Leah Villages,Rogersville,LA,40598,2024-01-18,2021-12-02,Active,2035.48,65,2024-02-25
+430,Mary Bennett,beth72[at]example.net,289.847.2345x14168,1972-06-21,46066 Richard Spurs,Valenzuelatown,LA,53336,2024-01-16,2021-06-14,Expired,4550.65,40,2024-01-17
+431,Stephen Gordon,lynngriffin@example.com,(841)657-5080,1970-09-07,26587 Ricardo Land,Rileyborough,NV,06859,2024-01-14,2022-09-27,Active,844.11,69,2024-02-11
+432,Cassandra Taylor,zunigastacy@example.com,001-837-566-8058x06263,1998-04-09,3974 Parsons Fields Suite 874,Reyeston,GU,56379,2024-01-18,2021-05-17,Lapsed,2150.32,99,2024-02-28
+433,Raymond Bell,emily97@example.net,318-938-6326x0790,2002-07-09,59521 Larry Landing,North Maria,OK,07308,2024-01-10,2023-12-21,Expired,1278.97,55,2024-01-10
+434,Sharon Roberts,erinrose@example.org,591.884.5976x23602,1933-12-19,6735 Rodriguez Points,North Jackiefurt,AR,12633,2024-02-01,2023-03-15,Expired,1519.46,89,2024-01-01
+435,Sarah Sloan,karenadams@example.org,555-902-9443,1974-05-08,531 Carroll Bypass,Jeffreyshire,IN,55058,2024-03-09,2021-11-25,Active,1967.22,65,2024-02-19
+436,Ashley Mueller,jacobharris@example.com,771-848-3528x5123,1964-07-25,25344 Brandy Pass,Jenniferview,AS,87076,2024-01-03,2021-08-30,Lapsed,4789.9,22,2024-03-14
+437,Devin Moore,warnerandrew@example.net,567-815-9111x9960,1939-04-22,3334 Joshua Skyway,Tracychester,OK,59938,2024-02-08,2024-01-17,Lapsed,3888.54,73,2024-01-03
+438,Tara Riddle,cgross@example.org,+1-482-438-7119,1953-12-12,34930 Sherry Corners Apt. 965,Maxwellbury,LA,26197,2024-02-09,2019-08-10,Expired,387.58,26,2024-01-17
+439,Thomas Moore,knightjoseph@example.com,6223618586,1952-04-22,17174 John Expressway,Hughesfort,MN,57733,2024-01-25,2023-11-21,Lapsed,962.67,45,2024-01-26
+440,Michael Frost,cynthiastevens[at]example.org,(624)565-4310,1963-01-08,820 Yang Junctions,Heatherborough,IN,14ABC,2024-02-11,2022-01-25,Lapsed,2773.52,67,2024-01-24
+441,Sarah Thompson,adamsbeth@example.org,204.665.0977x837,1994-12-05,85937 Singh Estates Apt. 348,Nancyside,AS,64760,2024-02-01,2022-10-31,Active,1341.27,14,2024-03-01
+442,Joshua Riggs,daniel28@example.org,(496)589-1053x0317,1937-07-06,592 Brian Fort Suite 320,Carterview,MA,36061,2024-02-07,2021-04-25,Expired,1132.35,37,2024-01-20
+443,Angel Reed,hahnalexis@example.net,409-237-4145x5136,1991-04-24,0091 Albert Extensions,Smithton,MT,89713,2024-01-03,2021-09-26,Lapsed,566.77,80,2024-02-01
+444,Kelsey Fuentes,tyler20@example.com,5919076033,2000-11-24,754 Spencer Greens,Emilytown,MA,80393,2024-02-07,2020-11-19,Lapsed,504.6,81,2024-01-10
+445,Scott Ruiz,ellispatrick@example.com,831.263.8115x03233,1964-06-21,18951 Ellison Hollow,Port Brian,MD,31102,2024-03-05,2021-11-10,Expired,4191.62,65,2024-02-18
+446,Jerry Hartman,henglish@example.org,+1-646-404-0720,1998-03-06,5850 Michelle Via Suite 067,New Timothyland,TX,26603,2024-01-02,2023-11-25,Expired,2676.13,46,2024-01-25
+447,Elizabeth Hayes,lopezjasmine@example.net,+1-890-703-3642x611,1988-11-01,75145 Watkins Plains,South Gregorymouth,OR,10955,2024-03-03,2023-07-04,Lapsed,629.18,34,2024-01-21
+448,Linda Henderson,chris55@example.com,520-618-8930,1991-03-15,14499 Rivera Square Apt. 616,Tracyberg,SD,15320,2024-01-21,2019-07-10,Lapsed,2723.11,54,2024-01-19
+449,Leslie Kim,collinsgrant@example.org,(716)861-7978,1933-06-06,39781 Park Ranch Suite 020,Adamsshire,SC,79697,2024-02-22,2022-02-19,Active,2220.98,29,2024-03-14
+450,Patricia Huffman,burnslisa[at]example.org,555-026-3082,1961-08-20,92280 Garcia Pine Suite 591,Stevenland,NC,86877,2024-02-23,2023-07-11,Expired,921.28,77,2024-01-03
+451,Lisa Rios,christopher81@example.com,(890)293-1715,1979-08-05,0353 Campbell Shoals,North Leslietown,FM,84053,2024-02-02,2023-03-15,Lapsed,2576.06,78,2024-03-06
+452,Vanessa Hawkins,sarah62@example.org,476.817.7026x49682,1933-05-26,56844 Kevin Views Apt. 111,North Joseph,NJ,46054,2024-02-07,2023-10-12,Expired,2997.09,85,2024-02-25
+453,James Hopkins,wjones@example.net,001-368-524-9317x8298,1978-10-04,6297 Stacy Ridges,Port Matthew,MT,08535,2024-01-01,2023-04-06,Expired,4468.82,62,2024-01-13
+454,Angel Lewis,michael32@example.org,820.771.7838x5033,1942-11-11,81786 Phillips Mission Suite 875,Robertborough,NE,19157,2024-01-22,2021-04-02,Lapsed,4803.29,38,2024-02-11
+455,Daniel Brown,robert93@example.com,966.237.1024,1975-10-23,5368 Thomas Path Apt. 670,Rangelfort,TN,61966,2024-03-05,2022-06-29,Lapsed,4286.53,76,2024-01-11
+456,Kimberly Hoffman,pamelajoseph@example.org,515-559-7620x1452,1939-12-22,07738 Andrea Mountain Apt. 696,West Morgan,OR,13092,2024-02-25,2023-01-14,Expired,3795.95,99,2024-03-14
+457,Shelley Campbell,hpetty@example.org,493.794.4117x071,1974-08-07,1360 Jessica Manors,South Joelland,VI,52097,2024-02-19,2021-06-17,Expired,920.56,80,2024-03-14
+458,Eric Martin,glennboyd@example.com,853-719-6298x844,1994-07-23,03299 Greene Pass,Lake Cynthiafurt,IA,24785,2024-01-20,2022-05-28,Active,388.81,8,2024-02-07
+459,Tiffany Ryan,gregory99@example.org,001-642-810-2927,1965-05-22,30733 Sheri Plaza Suite 090,Kaylahaven,CO,23847,2024-01-22,2023-05-11,Expired,2678.0,13,2024-02-19
+460,Candace Bowman,lroberson[at]example.org,369-962-2306,1973-09-21,03080 Chelsea Lane Apt. 336,East Jasonborough,MP,10ABC,2024-03-13,2020-05-28,Active,4134.64,33,2024-01-05
+461,Jennifer Davenport,jessica90@example.com,638-398-1770,1971-12-12,640 Brown Crest Apt. 956,Tatechester,MT,50809,2024-02-13,2021-11-20,Active,2182.94,16,2024-02-13
+462,Emily Valenzuela,jordanstewart@example.com,001-314-489-1945x268,1965-01-12,48853 Margaret Crossing,Pamelaton,AK,49113,2024-03-07,2020-08-18,Active,1123.84,99,2024-01-29
+463,Jason Sullivan,zhoffman@example.org,399-434-8720,2006-01-01,817 Nicole Cliffs Apt. 249,Kellyfurt,DC,14247,2024-02-24,2023-04-05,Active,4587.5,16,2024-02-21
+464,Henry George,robert27@example.net,(506)768-8854,1969-03-25,873 Clayton Mountain,West Monica,LA,49248,2024-01-30,2019-07-04,Expired,2135.32,97,2024-01-27
+465,Jillian Fisher,stacy59@example.com,555-412-6433,1996-07-07,73573 Chan Tunnel,Port Christophermouth,ID,92190,2024-01-26,2023-12-15,Active,3508.79,66,2024-01-20
+466,Brian Chavez,hunter61@example.net,9333556813,1999-07-13,33264 Thomas Meadows Apt. 394,Pachecomouth,OK,66176,2024-02-28,2022-06-27,Expired,3257.98,86,2024-02-13
+467,Amy Noble,utaylor@example.net,290.940.4446,1937-02-19,678 Karen Springs,Lake Marie,NJ,74621,2024-01-01,2020-04-17,Expired,3966.08,12,2024-01-10
+468,Dr. Amanda Robles,brodriguez@example.net,466.335.7094x24235,1965-10-21,99341 Ethan Tunnel,Wilkinsonfurt,SC,03154,2024-01-05,2022-09-27,Active,3624.95,59,2024-01-29
+469,Sandra Terry,mcolon@example.net,001-725-458-2428x24408,1976-02-09,605 Michelle Flat,Jeffreyton,PR,67062,2024-01-15,2020-04-15,Expired,4689.14,10,2024-02-12
+470,Zachary Smith,marissalee[at]example.net,277.827.1316x395,1952-08-31,64367 Bates Way Apt. 280,West Vickie,FL,24232,2024-03-15,2024-01-27,Lapsed,1298.96,94,2024-01-26
+471,Timothy Phillips,angelwilliams@example.org,(608)776-9594x16218,1993-06-13,7321 Lewis Road Suite 621,Hobbsfurt,RI,65236,2024-01-14,2020-05-07,Active,1932.97,23,2024-02-06
+472,Sierra Boyd,fpeterson@example.net,519-353-0208,1966-07-18,154 Jorge Freeway,New Ryan,WA,72009,2024-02-24,2023-02-14,Active,4139.32,65,2024-02-26
+473,Jennifer Allen,tammymorgan@example.net,+1-730-519-2528x332,2002-11-21,1330 Davis Squares,New Jonathan,AL,88828,2024-02-08,2020-07-09,Active,3699.15,15,2024-01-06
+474,Kenneth Delgado,sarahmiller@example.com,+1-363-301-2811,1996-03-24,53013 Reyes Brooks Suite 114,Sancheztown,ND,90395,2024-03-10,2023-08-18,Active,498.91,32,2024-01-02
+475,Corey Noble,paulpowell@example.org,821.319.4224,1996-01-26,03195 Amy Prairie Apt. 689,Lake James,NV,08145,2024-03-04,2023-08-25,Expired,2402.39,100,2024-03-03
+476,Jackie Osborn,dporter@example.com,+1-852-899-8273x0189,1998-11-10,4014 Briana Pike Apt. 127,Nicholaschester,MO,77279,2024-01-24,2023-07-11,Lapsed,2884.33,32,2024-02-03
+477,Julie Sanchez,rodgersrobert@example.com,+1-582-782-1938x38805,1953-08-26,3720 Decker Station,Jefffort,PR,37747,2024-02-05,2019-03-17,Active,1506.89,68,2024-02-28
+478,Kenneth Jones,michael22@example.net,557.534.1399,1935-12-12,474 Hudson Mews Apt. 527,Stanleyfurt,WV,48469,2024-01-03,2021-07-07,Expired,919.47,13,2024-01-09
+479,Brooke Hill,istark@example.org,(540)745-4399,2002-05-18,4823 Garcia Ford Apt. 622,Port Sandra,KS,56801,2024-01-20,2020-12-05,Active,3308.23,48,2024-03-03
+480,Ruth Chang,markevans[at]example.com,555-419-8813,1962-01-08,82922 Barrett Passage Apt. 605,West John,NY,53ABC,2024-02-16,2019-08-13,Lapsed,4995.87,96,2024-02-21
+481,James Goodman,ialvarado@example.net,(890)756-7787,1949-08-16,323 Jennifer Gateway,Lindseyberg,PW,17652,2024-02-06,2023-10-21,Expired,999.39,84,2024-02-05
+482,Kevin Bray Jr.,evannichols@example.org,280-439-9315,1943-01-27,535 Strickland Fields,Chadfurt,FL,99537,2024-03-09,2021-11-06,Lapsed,4690.54,58,2024-02-15
+483,Lauren Jensen,joseph12@example.com,001-544-720-2118,1988-10-09,7500 Bray Corners,Mcdonaldstad,FM,37169,2024-03-01,2022-12-19,Active,1122.86,51,2024-02-25
+484,Cheryl Valentine,aliciafields@example.org,(428)572-8606x06110,1935-09-05,240 Farmer Cape Suite 527,Joybury,ME,42125,2024-02-18,2023-08-26,Expired,3381.46,84,2024-01-08
+485,Brittany Esparza,adrianahernandez@example.com,747.983.1898x04335,1934-09-16,427 Scott Streets Apt. 647,Nicoleshire,TN,25490,2024-02-27,2023-08-09,Active,926.69,90,2024-01-15
+486,Christopher Lindsey,donnamcdonald@example.org,(613)937-8003x78207,1993-04-04,976 Stacy Ridge,North Jonchester,OR,74708,2024-01-13,2022-10-25,Lapsed,446.06,48,2024-03-08
+487,Amy Davis,fweeks@example.net,001-900-603-8084x81093,1955-12-05,142 Ferguson Estates Apt. 863,Benitezchester,TN,29193,2024-01-06,2021-05-30,Active,1590.93,96,2024-01-14
+488,Karen Davis,sarahmckee@example.net,001-238-207-4210x71847,1951-12-28,8926 Ochoa Island,Brandonmouth,DE,36431,2024-03-11,2020-09-01,Expired,2456.4,53,2024-02-14
+489,Michelle Norris,kellybridges@example.org,4466543888,1934-05-01,959 Alvarez Meadows Suite 203,Christopherville,LA,37810,2024-02-28,2020-11-02,Lapsed,2650.44,74,2024-03-15
+490,Monica Roman,gwelch[at]example.net,001-809-600-3734,1938-11-09,2949 Anna Orchard Suite 829,West Michelle,AL,28690,2024-02-13,2023-09-26,Expired,570.28,78,2024-02-08
+491,Katrina Schneider,dustinhiggins@example.org,723.360.1128x87869,1940-09-15,0294 Jessica Flats,Zacharymouth,OK,69944,2024-01-12,2024-02-06,Expired,1842.42,66,2024-03-02
+492,Kristen Jefferson,brianfrazier@example.com,(706)717-9475x681,1992-03-01,49955 April Radial,Teresaview,MO,97122,2024-03-07,2020-01-18,Expired,3623.6,54,2024-02-28
+493,Edward Bond,rodneywolfe@example.org,670-590-1534x037,1991-02-08,347 Roach Landing,Juliaburgh,SD,10947,2024-02-17,2021-08-01,Active,2887.21,28,2024-01-22
+494,Stephen Munoz,armstrongscott@example.com,+1-950-567-2049x60559,1972-06-26,54999 Shawn Tunnel Apt. 577,Williamsborough,DC,33716,2024-02-22,2020-07-22,Lapsed,3282.7,12,2024-02-01
+495,Kelly Smith,melissa90@example.com,555-822-6454,1972-09-19,706 Baker Port Suite 832,East Cherylmouth,MS,73802,2024-03-15,2021-11-02,Active,3656.78,10,2024-01-26
+496,Jason Burke,welchconnor@example.com,001-971-315-5486x31344,1961-12-20,3650 Long Isle Suite 635,New Mitchell,NY,16132,2024-02-04,2020-03-18,Active,2249.69,94,2024-02-27
+497,Jacqueline Johns,mia49@example.org,(317)875-5707x944,1945-04-29,7936 Christopher Flats,Jacobmouth,ID,49244,2024-02-05,2020-12-14,Expired,1418.96,72,2024-01-25
+498,Lindsay Lee,evelyn52@example.com,001-296-748-8004x3421,1935-09-30,16894 Kristy Trail,Arnoldville,VT,92745,2024-02-09,2023-11-24,Active,1965.52,14,2024-01-03
+499,Gary Schmitt DDS,jmcintosh@example.com,+1-975-922-6609x892,1978-02-02,605 Gould Motorway,Coleland,CT,07323,2024-02-29,2021-11-10,Active,442.58,74,2024-01-27
+500,Samuel Larsen,cole94[at]example.com,001-545-520-6273x2766,1963-12-02,905 Kimberly Ridge Apt. 498,Crystalside,PA,34ABC,2024-02-04,2020-10-28,Lapsed,4405.64,14,2024-01-19
+501,Maria Smith,melendezmargaret@example.com,+1-652-282-0917x44615,1942-09-15,045 Jeremy Via,Adamsville,MP,27105,2024-02-15,2021-10-15,Expired,360.73,49,2024-01-03
+502,Tabitha Huff,knappkyle@example.com,751-564-9740x0822,1936-09-02,995 Floyd Underpass,Galvanview,VI,89375,2024-01-20,2019-05-31,Expired,4122.09,14,2024-01-19
+503,Craig Lane,rcarroll@example.com,478.300.2985x1613,1992-04-30,7516 Tracey Alley Apt. 498,South Andrew,MP,65800,2024-01-03,2021-04-25,Expired,496.76,84,2024-03-14
+504,Gabriella Owens,ajennings@example.com,740.374.0802x2473,1959-03-23,62997 Franco Prairie,Mckenziefurt,SD,13844,2024-02-17,2020-09-12,Lapsed,1506.44,9,2024-03-15
+505,Andrea Peters,steven38@example.net,+1-246-218-8125,1935-04-27,141 Jonathan Turnpike Apt. 557,Justinborough,CT,80353,2024-03-01,2020-07-11,Active,2252.0,80,2024-02-26
+506,Glenn Terrell,emilymitchell@example.com,582-976-8597,1973-05-28,955 Jack Cliff Apt. 719,Huangmouth,AR,87354,2024-02-06,2022-05-17,Lapsed,3700.88,73,2024-02-03
+507,Joshua Clarke,gibsonrachel@example.net,001-411-303-8013,1967-10-16,352 Daniel Burgs,Danielton,ME,20366,2024-01-19,2023-04-25,Expired,1141.16,65,2024-01-15
+508,Rebecca Nielsen,frederickrichard@example.org,8579455611,1985-04-17,31018 Hall Village Apt. 693,Wilsonton,AL,47053,2024-02-12,2022-06-16,Active,2446.5,52,2024-03-07
+509,John Clayton,rrose@example.org,+1-549-651-8510,1989-05-30,5027 Martin Mission Suite 914,Josephhaven,AR,90789,2024-01-26,2022-12-01,Lapsed,2419.2,42,2024-02-27
+510,Rachel Atkinson,vlewis[at]example.org,555-323-2555,1958-07-06,5824 Kim Plains,Robertsburgh,AR,00661,2024-01-26,2021-06-14,Expired,2028.01,9,2024-02-14
+511,Kevin Thompson,walter59@example.net,(344)480-6956x20098,1995-01-14,69622 Allen Burg Suite 964,Munozmouth,MA,10795,2024-02-17,2024-03-06,Active,841.15,85,2024-01-17
+512,John Collins,lindanguyen@example.com,001-577-959-7785x622,1998-07-26,00313 Baker Locks,Shaneborough,MO,79978,2024-01-16,2023-07-31,Active,3030.32,2,2024-01-06
+513,Anthony Paul,thomasmarquez@example.org,(644)857-9066x39636,1978-05-30,02927 Walker Fords Suite 084,North Laurachester,NC,43591,2024-01-05,2019-10-26,Active,1808.26,53,2024-02-18
+514,Timothy Miller,joseph45@example.net,+1-757-225-5740x249,1959-01-24,574 Bryan Harbors Apt. 961,Estradabury,PW,83979,2024-02-11,2019-05-25,Expired,4412.28,8,2024-02-21
+515,Mr. Eric Figueroa,kevin10@example.net,001-643-212-4871x302,1957-03-23,21539 Munoz Flat,Christensenland,PA,39246,2024-01-08,2021-10-31,Active,3284.13,87,2024-03-07
+516,Monica Gray,nicholas04@example.net,240-253-3268,1938-05-28,82372 Donna Springs Apt. 394,West Brenda,SD,77312,2024-01-06,2021-12-04,Active,2518.12,69,2024-02-05
+517,Samantha Randall,jennifer59@example.com,9579609110,1979-02-25,636 Spencer Summit Suite 383,Jeffreyton,AK,27535,2024-01-05,2021-03-02,Expired,225.71,19,2024-03-01
+518,Emily Chavez,brandicoleman@example.com,(583)680-1100,1993-02-12,38631 Davis Groves,South Colin,NE,02915,2024-02-27,2020-03-13,Expired,3758.87,67,2024-01-20
+519,Kathleen Williams,cking@example.com,737.206.7219x38644,1952-03-21,5788 Timothy Wells,Josephborough,NY,24658,2024-02-23,2023-12-21,Active,2290.17,50,2024-01-30
+520,Kevin Lara,santanajo[at]example.com,001-754-471-0955x997,1998-10-09,83390 Moore Turnpike Suite 969,New Andrea,MO,30ABC,2024-01-29,2024-01-26,Lapsed,4409.12,4,2024-02-14
+521,Katherine Romero,othompson@example.com,661.879.2080x9126,1987-06-02,1731 Timothy Fall,New Janeton,OH,26263,2024-01-24,2023-03-17,Expired,4272.14,1,2024-01-08
+522,Joseph Randolph,matthewlogan@example.org,+1-299-492-5372x820,1957-02-28,5179 Paul Locks,Edwardsport,PA,61681,2024-01-27,2023-08-16,Active,4121.02,22,2024-02-12
+523,Amanda Durham,krystal02@example.net,487.438.9033,1996-10-02,37308 Smith Club Apt. 206,South Thomas,WV,53477,2024-02-15,2021-02-02,Expired,555.27,82,2024-02-03
+524,Christopher Gomez,laura81@example.org,528.485.9370,1962-09-13,8013 Phillips Radial,Michaelbury,ND,84503,2024-02-18,2022-07-13,Active,1539.67,75,2024-02-18
+525,Cynthia Larson,phillip99@example.com,555-748-6853,1997-01-18,77962 Scott View,East Michaelfort,LA,26192,2024-02-14,2023-11-27,Active,3070.98,88,2024-01-08
+526,Adrian Campbell,katieortiz@example.net,472.219.7795,1976-11-08,3601 Estrada Via,Payneton,MH,49927,2024-01-24,2019-08-09,Active,414.5,32,2024-02-09
+527,Curtis Thompson,brenda81@example.com,818-350-1599,1979-07-02,2985 Timothy Throughway Apt. 488,New Deborah,AR,32576,2024-01-21,2023-12-13,Active,4641.5,49,2024-02-18
+528,Angela Payne,hamiltonwillie@example.net,+1-383-469-8669,1991-05-16,267 Stevens Extensions,Chambersmouth,WA,09355,2024-03-11,2022-04-28,Expired,3644.97,16,2024-03-04
+529,Dominic Bishop,croberts@example.com,(206)928-1929x9800,1992-10-02,84987 Cory Lake Apt. 199,Lake Jamietown,NC,60258,2024-02-29,2023-08-29,Lapsed,3409.09,29,2024-03-13
+530,Michaela Wilkerson,anthony63[at]example.org,767-234-3989,1980-07-27,551 Price Inlet Suite 320,Charlestown,VA,64111,2024-01-08,2019-08-09,Lapsed,2804.96,89,2024-02-28
+531,Nancy Parsons,nathan06@example.net,001-762-941-0539x07031,1966-06-07,92061 Green Lights,East Joseph,IN,70236,2024-01-11,2022-09-22,Lapsed,4686.31,64,2024-03-05
+532,Robert Lewis,bnewman@example.com,986-961-1113x21537,1985-04-25,74436 Derrick Land Suite 666,Keithberg,AL,74778,2024-02-27,2023-08-31,Active,3196.34,17,2024-02-11
+533,Shelby Powell,tiffany73@example.net,613.707.5051x3539,1947-04-02,621 Christopher Land,New Sharon,MA,04049,2024-02-02,2020-09-03,Expired,1995.06,78,2024-02-26
+534,Kathy Carter,cynthiascott@example.org,(298)932-2487x4400,1933-05-20,3041 William Street,Tammystad,AL,97234,2024-01-28,2021-02-24,Active,4933.07,81,2024-01-04
+535,John Allen,rodriguezkathleen@example.net,(835)321-3472,1984-05-12,519 Tony Route Suite 258,New Matthewtown,SD,66560,2024-01-12,2021-11-03,Active,2555.64,39,2024-01-12
+536,Mrs. Janet Baxter,curtispaul@example.com,353-887-6277x743,1967-04-13,178 Morton Point Apt. 873,Camposside,GA,50744,2024-01-12,2019-04-16,Active,3763.59,33,2024-02-15
+537,Michael Martinez,qrobinson@example.net,(617)652-8122x132,1984-12-27,41846 Lisa Shore Apt. 164,Richardview,AR,76037,2024-03-05,2023-12-27,Lapsed,3493.39,51,2024-02-15
+538,Larry Cox,watkinsjustin@example.com,+1-569-652-9472x892,1994-10-29,75207 Kim Station,Gabrielburgh,NY,82120,2024-03-02,2023-05-21,Active,1303.42,5,2024-01-17
+539,Carolyn Garcia,benjamin37@example.org,438.977.4703x2229,2005-05-17,179 Nicole Motorway Suite 239,Coryville,CT,70577,2024-01-23,2019-08-08,Lapsed,4024.91,16,2024-02-14
+540,Lindsey Drake,mariaflores[at]example.com,555-461-6064,1975-10-29,05289 Hess Courts,West Edwardbury,VT,26ABC,2024-03-13,2022-12-02,Active,2443.73,1,2024-03-06
+541,William Hines,ayoung@example.com,(453)940-5410x9716,1969-03-03,932 James Underpass Apt. 339,South Elizabethville,ND,92028,2024-02-20,2020-08-10,Expired,675.03,92,2024-01-05
+542,John Bates,grantkimberly@example.net,(752)899-5643,1940-05-30,7008 Daniels Expressway Suite 790,Deannaport,RI,66696,2024-02-01,2022-06-24,Lapsed,1196.04,91,2024-01-22
+543,Theodore Aguirre,lharris@example.org,+1-491-999-4020,1943-01-09,5158 Michele Ports Suite 528,Wilsonfort,MH,03096,2024-01-22,2021-09-27,Expired,3142.78,56,2024-01-07
+544,Crystal Mason,jennifer23@example.com,+1-328-618-2148,1949-05-29,05296 Joseph Rest Apt. 978,Williamland,CO,53680,2024-03-02,2020-01-29,Lapsed,1802.32,73,2024-02-20
+545,Yvette Reyes,melissasteele@example.net,001-381-807-2109x1979,1965-09-08,83644 Baker Landing,East Mindyburgh,GA,16882,2024-02-10,2019-06-13,Active,316.73,11,2024-02-29
+546,David Cobb DVM,hsharp@example.net,406-971-5391,1998-09-29,895 Kimberly Causeway Apt. 565,Joshuaside,NC,56546,2024-03-12,2019-10-03,Active,3928.76,11,2024-02-03
+547,Lisa Wiggins,sharpjordan@example.com,625-469-7257x16323,1997-08-30,621 Meyer Vista Suite 811,Lake Scott,NE,89853,2024-02-02,2020-10-27,Lapsed,1360.73,63,2024-03-03
+548,Jason Franklin,alyssa59@example.net,739-560-7301x8552,1989-11-15,105 Lewis Gardens,Jennifermouth,DE,32774,2024-02-20,2020-02-11,Lapsed,1206.21,12,2024-03-11
+549,Tracy Sheppard,qanderson@example.net,333-368-6779,1944-09-29,7104 April Curve,Lewisburgh,IL,76800,2024-01-20,2023-10-06,Active,4197.9,100,2024-03-03
+550,Shannon Zimmerman,bparker[at]example.net,+1-779-275-1660x5150,1993-10-07,9164 Jeffery Circles Apt. 963,East Adam,MD,37210,2024-02-02,2020-09-02,Active,3237.43,68,2024-03-11
+551,Dr. Philip Mckee,sthomas@example.org,5496968236,1933-06-21,386 Kelly Forges,New John,NM,26189,2024-03-07,2022-07-02,Active,1107.19,74,2024-03-13
+552,Carla Washington,christopher69@example.net,737-876-2670x685,1981-01-10,7097 Kathy Brooks Suite 058,Loriport,FL,52510,2024-01-16,2021-06-15,Lapsed,3734.79,15,2024-01-31
+553,Jimmy Freeman,taylorvega@example.com,(418)348-9896x365,1955-05-27,7529 Darren Drive,Melaniefurt,NH,59456,2024-01-19,2019-10-01,Expired,3159.98,88,2024-03-12
+554,Joseph Ramirez,kimbarr@example.org,356.719.8085x7484,1961-07-16,21803 Burke Ferry,Orrview,AS,61303,2024-02-07,2022-03-17,Expired,1046.85,39,2024-01-03
+555,James Dunn,collinsdestiny@example.net,555-215-9765,1961-12-02,6274 Preston Extension Apt. 454,Andersonton,NV,82913,2024-01-31,2020-02-19,Expired,2528.8,90,2024-03-10
+556,Christian Bennett,sarahfuller@example.net,+1-887-584-4657x33021,1937-07-11,716 Megan Freeway,New Jenniferstad,NC,07820,2024-03-10,2020-07-20,Expired,4315.54,25,2024-02-21
+557,Robert Freeman,john86@example.org,(647)790-0146x80818,1990-09-09,91567 Bryant Shores Apt. 993,Smithside,NM,17730,2024-02-29,2024-01-18,Expired,1255.51,19,2024-02-10
+558,Steven Myers,helen80@example.net,598-901-9632x3142,1941-08-22,99604 Porter Courts Apt. 506,Paynefurt,WY,70052,2024-01-14,2019-08-08,Active,2365.48,97,2024-02-14
+559,Juan Evans,kenneth41@example.org,+1-493-667-9787x80219,1969-07-06,97814 John Island,Hamiltonburgh,MD,93073,2024-01-03,2019-05-23,Expired,4470.64,71,2024-01-14
+560,Justin Shepard,kbartlett[at]example.com,001-391-884-7603,1989-10-10,03448 Jackson Course Apt. 909,Carsonside,ID,74ABC,2024-01-13,2022-08-27,Active,4917.45,96,2024-01-20
+561,Joseph Scott,yhorton@example.com,515-536-4025,1968-08-17,2524 Walters Walk,South Jessica,AS,40565,2024-01-10,2023-12-15,Lapsed,3973.03,35,2024-01-30
+562,James King,michellefreeman@example.net,337.237.3228x78731,1986-02-19,279 Robinson Crescent Apt. 707,Wilsonton,VI,18756,2024-03-15,2023-03-09,Lapsed,2820.76,85,2024-01-14
+563,Juan Ritter,guzmankevin@example.com,591-794-7715x7266,1994-08-21,6012 Kristin Roads,Port Robertchester,OK,31438,2024-02-28,2020-03-12,Active,2932.25,30,2024-02-20
+564,Leslie Jones DVM,glee@example.org,246.739.0627,1966-11-10,231 Ramirez Orchard,Port Jenniferfort,MN,61109,2024-02-10,2019-03-30,Lapsed,298.19,100,2024-03-08
+565,Justin Parks,bmay@example.com,233-574-8374x8219,1941-02-09,742 Tracy Street Suite 365,West Angelaport,WY,06901,2024-01-21,2023-09-11,Lapsed,2414.1,33,2024-03-02
+566,Steven Davidson,george37@example.org,408.871.5989,1950-01-20,961 Henry Lodge,New Kathleenfurt,NV,84943,2024-01-26,2022-02-07,Expired,2688.08,24,2024-01-26
+567,Regina Robinson,robert52@example.org,001-506-522-2801x999,1985-08-13,2491 Ray Plaza,Davidstad,DC,82014,2024-02-24,2022-09-29,Expired,1731.34,92,2024-01-08
+568,Holly Odom,georgehorne@example.net,577-239-9518,1978-12-14,645 Mitchell Via,South Casey,WV,77271,2024-02-17,2019-08-28,Expired,3040.77,43,2024-02-18
+569,Gregory Nelson,kcurtis@example.net,(707)944-1705x8913,1943-05-29,96962 Powell Crossroad Suite 894,Clementsfort,ME,72802,2024-02-19,2020-08-14,Lapsed,2196.94,35,2024-03-06
+570,Angela Johnson,annlewis[at]example.net,555-696-8040,1979-04-24,9543 Francis Lane,Robertsland,MS,44592,2024-02-08,2022-05-25,Lapsed,3866.65,19,2024-01-15
+571,Charles Watson,rachel66@example.org,252.647.6755x6486,1945-12-12,40744 Johnson Curve Suite 199,Lake Javierland,SD,65642,2024-02-03,2021-11-09,Active,4489.03,19,2024-01-21
+572,Matthew Brown,villajesse@example.net,(330)927-1513x9322,1938-11-27,34986 Elizabeth Tunnel Apt. 171,New Christina,TX,76659,2024-01-25,2019-09-10,Active,2208.21,87,2024-01-02
+573,Adam Moreno,jeffreyburton@example.org,325.997.9623x119,1942-08-20,9911 Hernandez Run,East Eric,MD,64291,2024-02-07,2022-12-07,Expired,1442.62,46,2024-01-14
+574,Heather Stone,odonnelljeremy@example.com,736-852-0399,1965-08-07,6672 Anderson Club Suite 796,Morrisonhaven,WY,04690,2024-03-15,2021-06-19,Active,3122.07,4,2024-01-05
+575,Timothy Franklin,ywatkins@example.org,590.643.2832x0152,1968-03-22,67312 Rose Course,New Jessicaland,IN,62129,2024-02-25,2023-11-11,Active,4447.54,27,2024-03-06
+576,Michael Stevens,maddoxnathan@example.net,706-605-0745x741,1957-06-08,101 Hardy Station Apt. 580,Brianville,WV,37999,2024-02-03,2023-09-28,Lapsed,4993.67,27,2024-01-27
+577,Michael Richardson,maria91@example.com,+1-836-815-1403x452,1947-08-03,7972 Thomas Center Suite 484,East Calvinville,WI,40507,2024-02-26,2020-10-13,Active,1859.97,70,2024-02-08
+578,Victoria Marshall,lorigomez@example.com,(351)328-4101,1960-12-26,58410 Hanson Crossroad Apt. 707,Lake Brandonville,VA,08580,2024-01-11,2019-09-23,Active,4661.2,59,2024-01-11
+579,Amanda Edwards,vjones@example.net,342-488-9536x223,1936-08-02,6549 Hudson Throughway,Port Christophermouth,OR,39872,2024-02-06,2023-02-17,Active,3826.02,36,2024-02-15
+580,Christopher Williams,flynnsandra[at]example.com,(741)617-7507,1967-01-23,712 Richardson Trafficway,East Zacharyport,AL,96ABC,2024-01-09,2024-02-13,Active,3597.29,33,2024-03-09
+581,Mary Schmidt,shelley21@example.org,832.331.1922x0507,1937-10-03,172 Jones Dale Suite 336,Port Shelby,NY,73543,2024-01-25,2021-08-28,Lapsed,1781.28,4,2024-02-12
+582,Donna Lee,hclark@example.com,+1-371-445-5420,1934-06-08,43587 Makayla Garden Apt. 629,North Joel,NH,45759,2024-03-06,2021-11-28,Active,4712.89,53,2024-02-06
+583,Matthew Mcclure,kim21@example.com,001-685-801-8936,2000-06-10,73986 Miller Forges,North Jackland,OH,91405,2024-02-08,2021-07-12,Active,4953.68,15,2024-02-09
+584,Connor Meyers,leechristina@example.net,(458)689-3198x82819,1943-02-20,5046 Taylor Cliff Suite 045,Port Stevenborough,NM,31332,2024-02-02,2019-08-31,Active,4875.39,41,2024-03-15
+585,Larry Morales,julie78@example.net,555-387-8646,1986-09-03,401 Smith Ridge Suite 905,South Christopherberg,RI,05568,2024-01-29,2022-12-29,Active,4551.08,11,2024-02-02
+586,Peggy Adams,maddendawn@example.com,(538)385-6795,1950-01-21,64547 Michael Manor Apt. 084,North Desireeburgh,HI,51959,2024-01-01,2023-04-28,Lapsed,2032.89,80,2024-02-17
+587,Kathryn Reynolds,jamie44@example.net,(616)857-4775x26804,2002-07-10,475 Matthew Glens,Phillipsmouth,CA,95608,2024-02-08,2019-05-29,Active,2281.26,47,2024-03-01
+588,Mary Davis,johnsjames@example.com,487.570.6225x847,1967-05-14,9988 Tina Plaza Suite 005,Carolynfurt,NH,60639,2024-03-15,2022-01-15,Expired,3268.32,19,2024-02-14
+589,Megan Mercado,sarah24@example.net,001-674-993-4062x76534,1980-10-17,52456 Erin Overpass Apt. 175,Ramirezborough,NC,35533,2024-01-15,2022-05-14,Active,2063.89,14,2024-02-05
+590,Dorothy Figueroa,johnsonmarilyn[at]example.com,+1-528-202-7714x3659,1986-06-09,459 Caleb Shores Apt. 913,Port Kennethmouth,MD,69821,2024-01-13,2023-10-23,Expired,4962.26,2,2024-03-13
+591,Jonathan Edwards,rebecca11@example.com,579.226.6047x549,1975-11-22,142 James Oval Apt. 961,Ramirezmouth,NJ,02172,2024-02-02,2023-07-23,Active,901.97,71,2024-01-16
+592,Amber Holmes,walkerbobby@example.com,930.399.0003x2210,2002-05-27,884 Butler Turnpike Apt. 273,Kellyfort,KY,26457,2024-01-06,2020-07-21,Expired,490.27,56,2024-01-05
+593,Johnathan James,joseph31@example.com,353-437-0968x0205,1998-06-02,6070 Stephanie Divide Apt. 684,Garciaview,MT,38612,2024-01-02,2023-10-08,Lapsed,1647.88,58,2024-03-12
+594,Samuel Garcia,luis00@example.com,(434)573-7708x9546,2004-07-16,370 Molly Rapid Apt. 095,Lake Nicholas,UT,02911,2024-02-17,2021-01-03,Expired,1414.69,4,2024-02-19
+595,Cynthia Johnson,victoria04@example.org,868-427-0122x98413,1959-12-24,060 Wade Crossroad Suite 382,Roberthaven,PW,11379,2024-02-07,2021-01-31,Active,3109.79,70,2024-02-17
+596,Steven Bolton,markssusan@example.org,(577)903-7310,1960-02-04,92886 Jones Centers,Tonyamouth,PR,31595,2024-02-08,2020-03-19,Lapsed,2834.62,36,2024-01-30
+597,Daniel Jackson Jr.,edunn@example.net,5693562456,1956-06-15,228 Hughes Shoals,Port Davidside,WI,92371,2024-02-11,2021-01-30,Lapsed,653.8,8,2024-02-13
+598,Michael Cunningham,johnny02@example.net,323.600.4806x55538,1991-11-23,6922 Hernandez Trail Suite 920,West Whitneyfort,NC,95780,2024-02-01,2020-07-22,Active,4664.73,83,2024-01-21
+599,Karen Brown,luisrodgers@example.net,485-326-1521,1940-01-31,25473 Angela Valleys Apt. 596,New Jocelyn,LA,70830,2024-01-19,2019-08-08,Expired,3156.02,25,2024-02-17
+600,Thomas Nelson,vargasjasmine[at]example.net,555-693-9435,1939-08-20,2848 Delacruz Trail,North Raymond,MH,46ABC,2024-02-17,2020-10-22,Expired,2370.81,41,2024-02-01
+601,Gerald Rivera,rmccann@example.net,474-743-0194,1937-03-28,6355 Harris Light,North Ashleyhaven,AZ,61635,2024-01-08,2021-11-06,Active,4292.37,67,2024-02-09
+602,Brittany Porter,briantorres@example.net,8259985859,1988-06-04,25128 Rachel Parkway,New Kristopherchester,TN,84853,2024-01-10,2020-03-22,Lapsed,981.57,95,2024-01-23
+603,Mariah Ramirez,fwilliams@example.org,001-679-202-2271x1490,1976-10-02,49501 Donald Skyway,Port Heather,TN,54368,2024-03-03,2022-12-19,Expired,2389.07,43,2024-02-22
+604,Michael Stark,jamesmack@example.net,(357)866-2479x035,1942-05-11,48543 Scott Passage Apt. 521,Port Mark,DC,11859,2024-03-04,2023-01-04,Lapsed,4220.83,2,2024-01-07
+605,Jordan Mendez,staceymartinez@example.org,748-537-8553x86951,1983-04-01,523 Reed Squares Suite 338,Port Alishastad,AZ,64695,2024-01-18,2023-04-19,Lapsed,4835.08,54,2024-02-19
+606,Mrs. Kimberly Booker PhD,elizabethjones@example.net,380-339-5496,1935-03-15,1370 Amy Underpass Apt. 034,East Nathanielfort,TN,69270,2024-01-06,2024-01-28,Expired,4567.53,73,2024-02-21
+607,Glenn Fuller,harrismelissa@example.com,417-718-9937x8329,1978-02-04,05499 David Fall,New Matthewchester,GA,56262,2024-01-06,2021-02-03,Active,1573.49,39,2024-02-06
+608,Andrea Thomas,jonathanhill@example.com,551.496.6005x299,1998-11-02,126 Carlson Plaza,Dodsonbury,FL,30317,2024-01-13,2023-08-10,Lapsed,3901.63,1,2024-02-12
+609,Kelly Massey,cartertimothy@example.net,600-384-6073x646,1954-01-06,480 Jimmy Village,West Tylermouth,MP,66071,2024-01-27,2021-07-24,Expired,3341.11,82,2024-01-13
+610,Dillon Gallagher,kevinbernard[at]example.org,9253016220,1986-04-23,56207 Gwendolyn Expressway Suite 767,Collinsborough,HI,54825,2024-01-16,2021-10-06,Lapsed,1860.59,78,2024-01-10
+611,Karen Flores,sheila17@example.com,959-862-4134x93577,2002-08-07,1998 Smith Rapids,New Stephen,WY,76049,2024-03-04,2020-10-26,Lapsed,4764.81,1,2024-03-07
+612,Brian Bennett,peckchristopher@example.org,+1-391-546-1977x0067,1958-09-22,616 Perkins Forks Suite 063,North Cindychester,MP,66773,2024-01-18,2020-12-13,Expired,2015.07,9,2024-03-14
+613,Jessica Mcdowell,susan93@example.net,794.387.7771,2002-04-25,17202 Sellers Brook Apt. 387,Jennaland,CT,72810,2024-01-27,2020-11-30,Lapsed,2444.25,49,2024-01-30
+614,Nicholas Johnson,yphillips@example.org,001-396-307-8186x289,1942-11-08,416 John Crossroad Apt. 619,North Meghan,WY,93207,2024-01-22,2023-08-01,Lapsed,4186.01,54,2024-01-12
+615,Nathan Patrick,amyayala@example.org,555-216-8282,1976-09-05,010 Ellis Camp,Alexandraburgh,WA,87066,2024-02-04,2023-06-16,Lapsed,1609.27,85,2024-02-08
+616,Brittany Smith,bradley53@example.org,688.388.0792x65651,1968-04-15,38346 Jacob Fork Suite 407,Carpenterside,PW,91358,2024-01-15,2020-05-29,Lapsed,3576.01,83,2024-03-13
+617,Gary Snyder,cathy16@example.net,(342)345-3033x37460,1952-01-20,93430 Howell Gateway Suite 217,Port Sarah,NY,55451,2024-03-03,2021-11-06,Lapsed,313.74,25,2024-01-25
+618,Gerald Stone,bakersamuel@example.net,001-764-818-1877x62234,2002-08-20,06152 Collins Avenue,Smithport,KY,43070,2024-01-05,2022-08-13,Expired,1114.27,1,2024-02-17
+619,Stephanie Armstrong,perryanthony@example.com,718-981-3506,1935-02-16,09460 Christine Crest,Graychester,IL,78235,2024-01-09,2020-03-12,Expired,2868.04,36,2024-03-15
+620,Brian Johns,hpatel[at]example.net,8956823903,2006-01-28,1513 Judy Spur Suite 314,Catherinechester,HI,91ABC,2024-01-04,2021-01-09,Expired,2387.74,20,2024-01-10
+621,Jodi Clark,brandonporter@example.com,827.465.2824,1946-11-02,296 Sandra Pass,Lake James,MT,07633,2024-01-13,2019-12-04,Lapsed,4094.17,52,2024-01-09
+622,Andrew Wade,kayla79@example.net,(661)649-4088,1996-09-23,31207 James Expressway Suite 031,East Catherine,NH,69793,2024-01-17,2022-11-18,Lapsed,2945.64,51,2024-01-17
+623,Robin Dean,amy77@example.net,001-980-315-9530x63379,1999-10-01,61432 Antonio Groves,Williamsville,GU,70170,2024-03-11,2021-09-01,Active,1289.94,86,2024-02-05
+624,Ashley Walker,angelalevy@example.net,(469)216-2833,1989-09-27,833 Rosales Expressway,South Jessicaport,MH,25319,2024-03-15,2019-07-11,Expired,1243.05,100,2024-03-13
+625,Anthony Myers,karenpeterson@example.net,275-358-2568x664,1958-12-12,35381 Kelly Plains Apt. 897,Hillhaven,VA,68479,2024-01-06,2020-01-01,Active,583.25,1,2024-02-13
+626,Thomas Roach DDS,david82@example.com,(674)367-9147x48486,1987-01-12,73910 Maria Row Apt. 012,Stacyhaven,NM,69632,2024-02-07,2022-03-03,Expired,2219.18,40,2024-02-28
+627,Rachel Faulkner,lewisjacqueline@example.org,(876)935-1573x0704,1996-05-09,96407 Valdez Flats Suite 306,Port Justinhaven,TX,57695,2024-03-15,2022-08-10,Active,3442.56,82,2024-01-01
+628,Sandra David,deanjuan@example.net,(871)649-7929x027,1977-12-03,0475 Hogan Rue,Boydfurt,OH,39503,2024-01-19,2019-05-17,Lapsed,1388.35,86,2024-03-09
+629,Kyle Williams,hollandjennifer@example.com,+1-229-309-9776x39128,1952-07-09,50798 Martha Fork,Bellton,CO,98172,2024-01-31,2024-02-14,Active,4256.42,94,2024-01-22
+630,Carol Taylor,myersdonna[at]example.org,555-550-8573,1938-02-01,862 Sandoval Haven,Elizabethland,OK,33757,2024-03-09,2022-06-18,Expired,3605.51,66,2024-01-01
+631,Justin Jensen,james19@example.com,+1-924-474-7976x0719,1947-12-25,714 Ryan Plain,Port Stephaniefurt,NY,94185,2024-02-29,2021-01-22,Lapsed,3339.66,31,2024-02-13
+632,Jennifer Day,christinaramirez@example.com,392-510-8062x45969,1965-03-13,1865 Mills Prairie,Port David,OR,30013,2024-02-29,2023-11-11,Expired,912.19,10,2024-03-15
+633,Leah Goodwin,hunterdouglas@example.com,526.861.6522,1985-11-04,27996 Richard Tunnel,Jonathanville,TN,19826,2024-02-19,2022-08-28,Expired,4625.1,79,2024-02-23
+634,Patrick Bowen,mary40@example.net,357-520-1248x87430,1939-05-22,5416 Nathan Summit Suite 640,West Daniellehaven,WI,86428,2024-02-21,2019-04-27,Active,2173.54,72,2024-01-23
+635,Danielle Eaton,rmontgomery@example.net,265-394-8506,1987-05-31,7705 Mark Fords,Hillborough,FM,87955,2024-02-13,2020-06-13,Active,809.3,85,2024-01-14
+636,Sherry Richardson,wendy84@example.org,(349)653-5164,1957-03-26,61510 King Spring,Jeffshire,AS,51172,2024-01-03,2022-05-24,Expired,3427.34,6,2024-02-09
+637,Shawn Hanson,gprice@example.net,+1-778-371-0173x18420,1954-03-09,33413 Craig Creek,Wesleymouth,NY,66778,2024-01-13,2021-08-07,Expired,220.81,21,2024-03-07
+638,Laura Thompson,dmorrison@example.net,001-988-507-3377x057,1959-08-11,43499 Walter Field Suite 473,Michaelshire,NM,59731,2024-01-08,2023-03-02,Lapsed,1065.41,30,2024-01-12
+639,Bradley Johnson,ldurham@example.org,549.288.3690,1961-06-29,066 Mary Throughway Suite 489,East Jasonberg,CA,52642,2024-01-05,2019-05-06,Active,1726.11,59,2024-02-19
+640,Tracy Hayes,wendy46[at]example.net,(296)325-5304x728,1946-03-09,016 Joel Trail Suite 718,Martinezton,WY,10ABC,2024-02-16,2021-11-19,Expired,3127.37,61,2024-03-01
+641,Kelsey Diaz,beverly77@example.com,558.617.4411,1954-03-19,516 Christian Trafficway,Michaeltown,WA,17210,2024-01-11,2023-10-20,Active,4895.89,59,2024-01-25
+642,Denise Clark,littlejames@example.com,(596)875-9558,1940-02-19,4171 Brent Roads Apt. 651,Sheilaburgh,DE,54541,2024-01-07,2020-02-18,Expired,948.71,7,2024-01-24
+643,Timothy Sandoval,srussell@example.net,+1-444-925-3244x31704,1984-06-04,19708 Marc Parkways,Josephfurt,KS,48326,2024-02-21,2020-09-28,Lapsed,1825.99,85,2024-01-16
+644,Victoria Tran,glennharding@example.net,001-911-451-6520x430,1958-07-05,96454 Veronica Tunnel,Thompsonbury,DE,27547,2024-02-09,2020-01-24,Expired,2654.4,56,2024-03-12
+645,Megan Long,frobinson@example.com,555-254-1143,1967-04-24,27551 Williams Common,East Adam,NJ,42643,2024-01-18,2023-05-17,Active,4796.73,98,2024-01-19
+646,Andrew Rivers,henryanderson@example.com,330.638.9173x0271,1949-07-15,90194 Brown Parks,East Lynn,HI,18454,2024-01-26,2024-01-22,Active,4611.19,41,2024-01-21
+647,Jose Wolf,jenna46@example.org,496.776.8092x21604,1935-05-07,50982 Heidi Cove,Richardview,LA,37358,2024-02-08,2021-07-20,Expired,4947.17,20,2024-01-05
+648,Brittany Thomas,scottheidi@example.com,321-847-1897,1940-12-01,3101 Gonzales Expressway,Frankberg,NV,69957,2024-03-13,2022-08-19,Expired,1786.49,35,2024-02-26
+649,Teresa Thompson,tstewart@example.net,(530)213-4917x186,1952-06-19,6950 Luna Passage Apt. 312,Tanyaborough,UT,33986,2024-01-18,2021-07-12,Expired,2711.35,45,2024-01-21
+650,Kayla Silva,diamond68[at]example.com,(866)688-1292x29358,1974-07-05,87297 Kristen Islands,New Michaelfort,SD,66143,2024-03-04,2023-10-16,Lapsed,4065.05,82,2024-01-06
+651,Logan Rivera Jr.,blairmatthew@example.net,690.250.9236x1952,1955-07-07,94224 Anthony Falls Suite 082,East Jasmineborough,NJ,90262,2024-02-18,2023-10-02,Expired,1517.03,59,2024-01-22
+652,Donald Bowman,mccoykristin@example.com,811-953-7628x007,1974-04-28,2998 Mason River,Lake James,NE,85716,2024-01-22,2023-11-27,Lapsed,2683.07,26,2024-03-07
+653,Paula Mendoza,ohenderson@example.org,907.407.5538,1958-10-25,94227 James River Apt. 853,Port Robert,OH,36442,2024-02-27,2021-08-13,Active,2953.31,26,2024-01-13
+654,Terry Allen,harrisjames@example.com,266.813.2140,1942-10-17,52281 Dunn Spurs Suite 385,South Carol,SD,09337,2024-01-30,2023-05-19,Active,4519.78,6,2024-02-08
+655,Jacob Moore,kevinwilliams@example.org,945.643.4753x909,1991-09-16,9076 Andrew Wells Apt. 421,Lake Lawrence,MH,67425,2024-01-31,2021-11-27,Expired,1634.93,79,2024-03-06
+656,Michael Kim,davissara@example.net,322.439.0916,2003-04-25,5874 Hannah Walk Suite 868,Mcfarlandborough,KS,46962,2024-01-28,2024-01-19,Active,3018.3,59,2024-02-12
+657,Rhonda Castillo,mariahmcdonald@example.net,(985)429-6041x3611,1955-06-04,325 Weaver Crossroad,Emilytown,IN,52015,2024-01-12,2023-04-05,Lapsed,4430.11,29,2024-02-10
+658,Dr. Kyle Tran,juliaprice@example.org,737.358.0379x8144,1992-10-10,3917 Stephanie Station,Alexhaven,UT,25845,2024-01-10,2022-03-15,Expired,2206.13,100,2024-01-23
+659,Natalie Sanchez,johnsonjessica@example.com,788.964.2930x3309,1955-03-07,36207 Melissa Ridge Apt. 043,North Gregorychester,MH,72051,2024-02-14,2022-10-27,Active,4534.33,5,2024-01-27
+660,Eric Boyle,janice02[at]example.net,555-381-3082,1984-10-30,081 Dustin Isle Suite 689,Lake Sabrinaland,CA,08ABC,2024-02-17,2022-02-07,Lapsed,4130.99,61,2024-03-02
+661,Christopher Farley,isaiah91@example.org,8144264587,1933-06-19,7423 Kirk Island,West Shelbystad,NH,93196,2024-01-20,2019-05-23,Lapsed,4753.98,90,2024-01-12
+662,Derek Ortiz,stephaniedaniels@example.org,753-461-8507,1992-08-02,3409 Kimberly Cape,Kellyburgh,TX,31193,2024-01-29,2020-11-08,Expired,1884.93,39,2024-02-07
+663,Todd Thompson,pbutler@example.net,432-721-4523x605,2005-02-12,4951 Mark Way Suite 689,Andreashire,IN,43404,2024-03-12,2021-12-21,Expired,4162.28,61,2024-02-09
+664,Katherine Potts,goldenwilliam@example.com,001-272-491-7803x4141,1966-07-17,9774 Michael Camp Apt. 124,Amandahaven,GU,18851,2024-03-05,2020-07-24,Lapsed,1713.07,51,2024-01-13
+665,Ronald Barnes,thompsondonna@example.org,350.226.1984x3081,1981-08-07,488 Gentry Island Suite 554,North Brendabury,MI,39384,2024-03-04,2023-05-17,Expired,2580.96,36,2024-01-07
+666,Johnny Thomas,qmcclain@example.com,+1-960-705-9435x7411,1976-10-10,47324 Megan Square,West Joelbury,CT,60517,2024-02-18,2019-08-04,Active,3162.5,85,2024-01-02
+667,Samuel Santos,johnsontina@example.org,(931)511-5255,1979-09-11,482 Carl Union Suite 821,West Steventown,NY,69652,2024-01-02,2021-01-18,Active,2002.74,5,2024-01-22
+668,Dustin Carter,kyle78@example.net,+1-497-929-6147x63684,2002-09-07,902 Ronald Highway,North Michaeltown,MD,79105,2024-01-05,2023-05-29,Lapsed,3747.61,49,2024-02-27
+669,William Hunter,amyclark@example.org,213-631-0974x6988,1951-05-28,3232 Daniel Mount Suite 998,Kristinabury,VT,19968,2024-01-08,2024-01-15,Active,717.35,32,2024-02-25
+670,Lisa Schwartz,nelsonjuan[at]example.org,001-539-337-2799,1982-11-22,580 Edwards Manors,Port Cherylbury,SC,04191,2024-01-03,2022-03-19,Lapsed,2964.68,21,2024-03-08
+671,Lisa Long,brussell@example.com,556.255.3852,1950-08-13,317 Amanda Groves Suite 772,Port Stephanie,PA,67717,2024-03-12,2021-04-17,Expired,2135.58,78,2024-03-07
+672,Beverly Rowe,mary11@example.com,523-943-7564x56091,1941-07-02,85450 Dylan Cliffs,Port Mariaport,IN,65372,2024-01-17,2021-11-14,Lapsed,1270.57,61,2024-02-02
+673,Christopher Hill MD,grace72@example.com,949.208.1408,1981-11-20,635 Lawson Plains,North Meaganborough,FL,76279,2024-01-27,2022-05-22,Expired,2735.76,58,2024-01-25
+674,Jessica Walker,livingstonroy@example.org,892.820.8345,1967-04-25,3316 John Burgs Suite 811,Paulatown,NJ,95358,2024-03-15,2022-05-13,Lapsed,632.38,23,2024-02-20
+675,Keith Butler,vklein@example.com,555-692-4991,1987-03-17,5366 Reed Springs,New Joyceside,MI,02703,2024-01-09,2022-02-01,Lapsed,1137.5,67,2024-03-09
+676,Ricardo Ibarra,teresaabbott@example.net,(540)305-0473,1999-07-10,013 Wright Common Apt. 592,Nelsonport,ND,53034,2024-02-16,2019-12-07,Lapsed,1746.17,100,2024-01-03
+677,Shawn Villarreal,taylormichael@example.com,001-235-933-3132x9264,1995-10-22,306 Stephanie Summit Suite 368,Nelsonside,CA,97315,2024-03-01,2019-07-11,Lapsed,1925.23,4,2024-03-13
+678,James Parrish,rwest@example.net,338.617.0066,1959-04-22,980 Regina Vista,Marktown,CO,07796,2024-01-18,2020-08-30,Expired,560.68,17,2024-01-13
+679,Michael Curtis,wclark@example.org,659.896.4769x319,1963-01-27,948 Eric Point,Clineshire,SD,04128,2024-01-29,2024-02-27,Lapsed,3940.36,73,2024-01-24
+680,Phillip Nelson,mariacole[at]example.com,+1-869-513-7352x2337,1998-11-10,780 Hogan Expressway Suite 164,East Williamville,OH,85ABC,2024-01-17,2020-08-26,Expired,2270.84,91,2024-01-16
+681,Roberto Gibbs,hhernandez@example.net,235-520-8305x759,2002-03-01,484 Brittany Inlet,East Carlfurt,FM,89573,2024-03-04,2019-09-26,Lapsed,3557.69,41,2024-02-12
+682,Michael Johnston,dawn15@example.org,871.617.8238x47211,1954-10-21,9634 Simmons Valley,Mullinsborough,WY,34063,2024-02-10,2022-02-02,Lapsed,516.91,12,2024-01-03
+683,Brandon May,megan05@example.net,001-528-290-1348x33394,1937-08-07,519 Philip Street,Spearsburgh,NE,84617,2024-01-16,2021-07-26,Lapsed,4167.7,20,2024-01-04
+684,Jade Weber,valenciadaniel@example.com,4647799823,1957-05-20,4339 Hancock Villages Apt. 314,East Sophia,VI,12856,2024-02-03,2021-12-27,Active,431.43,21,2024-03-07
+685,John Green,ashleymarquez@example.org,(558)725-2887,1951-12-25,023 Michele Drive Apt. 639,East Stacyhaven,DE,67268,2024-03-02,2022-03-19,Expired,2887.53,79,2024-03-06
+686,Scott Blair,katherinejones@example.org,561.607.8352x4652,1949-04-23,054 Lee Coves Apt. 578,North Aimee,WV,93723,2024-02-01,2019-07-18,Lapsed,1315.53,49,2024-01-24
+687,Makayla Abbott,fbaker@example.com,+1-840-635-5315x33623,1938-05-22,320 Angela Row Suite 938,East Robert,IN,46128,2024-02-13,2019-05-01,Active,3300.61,6,2024-03-10
+688,Ann Espinoza,phillip35@example.net,880.600.8004,1937-11-23,5201 Louis Springs Suite 450,Port Joseph,KY,49377,2024-02-24,2021-04-17,Active,1870.36,6,2024-01-20
+689,Jimmy Lewis,grahamsusan@example.net,774.601.1285x40055,1947-12-08,7352 Lisa Extension,Elijahview,PW,55394,2024-03-11,2023-03-08,Lapsed,4683.08,32,2024-01-13
+690,Ryan Cross,douglasramos[at]example.org,555-201-0911,1963-09-13,04899 Rebecca Port Apt. 833,Port Ronald,HI,12518,2024-01-24,2024-02-05,Lapsed,1171.15,69,2024-02-10
+691,James Hamilton,briankelley@example.org,638.612.6499,1950-11-12,80796 Blake Lakes Suite 126,Leblancstad,MH,27028,2024-01-17,2022-07-14,Active,4865.29,85,2024-02-19
+692,Miranda Morrison,esparzamatthew@example.com,459.744.2214x75321,1954-11-27,752 Thompson Meadows,Lake Laura,NC,55223,2024-03-01,2021-11-05,Expired,978.44,41,2024-01-01
+693,Joshua Gonzalez,davidperry@example.com,3748368252,1962-07-28,907 Ryan Row,Dunnborough,MT,94814,2024-02-29,2024-01-04,Active,713.49,19,2024-01-10
+694,Samantha Phillips,murphyjeff@example.com,001-265-975-4464x31367,1983-03-26,8693 Brown Overpass,Paulberg,MS,19262,2024-02-09,2023-06-02,Expired,193.87,31,2024-01-28
+695,Daniel Hamilton,hwilliams@example.org,389-735-0845,1937-01-10,6795 Wesley Crossroad,Vegaview,SC,60046,2024-02-14,2021-05-09,Lapsed,2406.67,51,2024-01-30
+696,Crystal Spence,monica42@example.net,837-381-8450,1955-06-16,8397 Dylan Throughway,South Jason,PR,93144,2024-01-14,2020-10-14,Expired,4064.06,36,2024-01-15
+697,Dr. Shannon Gonzalez,zachary65@example.org,+1-456-259-3463,1972-04-01,1592 Jeffrey Parkway Suite 761,Mcphersonland,NJ,79215,2024-03-06,2021-09-22,Active,1909.54,19,2024-01-03
+698,Eric Hancock,ericajames@example.com,4666348574,2002-10-02,059 Miller Wells Apt. 138,Matthewmouth,OK,70732,2024-02-08,2023-12-13,Active,1167.18,30,2024-02-07
+699,Anne Baker,robert27@example.com,(572)799-1496x04430,1956-10-28,5446 Lynn Bypass Apt. 530,Roweshire,GU,69134,2024-02-20,2020-04-04,Active,124.38,53,2024-01-02
+700,Cathy Jones,david36[at]example.com,+1-436-622-3059x26941,1983-02-23,99089 Sandra Inlet Apt. 110,East Samantha,TX,77ABC,2024-02-06,2019-09-09,Active,3450.3,82,2024-01-01
+701,Felicia Wright,xhale@example.com,+1-839-256-6259,1938-03-23,491 Anthony Roads Suite 279,Jonesmouth,GA,04325,2024-01-07,2023-09-13,Lapsed,274.37,26,2024-03-10
+702,Adrian Orozco,lgutierrez@example.net,001-336-427-3994,1970-09-16,5860 Mark Spring,West Colin,LA,06698,2024-02-01,2021-12-21,Active,344.73,76,2024-03-06
+703,Charles Adams,jared03@example.org,(350)532-8393,1994-09-08,626 Lauren Harbors,Lake Natasha,MO,33796,2024-02-28,2023-08-22,Active,4015.37,17,2024-02-01
+704,Hannah Hall,xshelton@example.org,(316)488-9461x286,1966-03-15,93066 Angela Key Suite 450,East Matthew,VI,06914,2024-02-18,2021-12-19,Active,896.89,20,2024-01-25
+705,Pamela Schultz,kevin49@example.net,555-770-1329,1933-09-19,414 Glover Mall,Edwardport,KS,01068,2024-01-10,2020-01-23,Active,4854.08,41,2024-01-24
+706,Tina Garcia,toneill@example.org,+1-818-898-9923,1942-01-04,6597 Norris Views,Lake Monique,IL,06045,2024-02-01,2019-07-31,Active,4383.17,73,2024-02-20
+707,Carl Cruz,joshua25@example.net,(560)217-0922,1961-11-25,04696 Rodriguez Glen,Nelsonport,RI,69350,2024-01-10,2020-07-13,Active,3793.92,66,2024-01-06
+708,Andrew Young,doylekatie@example.com,(957)953-6378,1968-06-14,0940 Larson Plains,Porterport,AK,22448,2024-01-27,2022-11-18,Lapsed,3649.11,13,2024-02-03
+709,Sheri Baker,anthony46@example.com,+1-737-539-6042,1979-11-20,1646 Mills Corner Suite 338,Marybury,OH,73965,2024-01-11,2020-07-22,Lapsed,457.91,53,2024-02-06
+710,Timothy Warner,fjones[at]example.net,(841)683-6686,1991-01-04,913 Johnson Port,South Brian,WA,97421,2024-03-07,2024-01-05,Expired,1833.53,66,2024-03-04
+711,Brian Parks,travisclark@example.com,866-414-2009x15016,2004-07-27,609 Henderson Branch Suite 366,East Jerry,MH,97567,2024-02-22,2021-02-25,Lapsed,2235.91,60,2024-02-06
+712,Justin Long,pjoseph@example.com,824.386.1840,1942-04-17,6492 Robinson Point,New Jon,ND,09446,2024-02-17,2020-07-09,Lapsed,4193.45,65,2024-01-22
+713,Jose Fields,fieldssteve@example.org,001-809-300-2084,1987-09-10,244 Erin Locks,East Tanyaport,MT,32589,2024-01-30,2022-06-05,Active,3353.25,81,2024-02-12
+714,Danielle Bailey,rose37@example.net,+1-541-207-3155x5361,1933-04-14,880 Heather Spur,Port Johnberg,KS,27867,2024-01-01,2022-12-17,Expired,3102.56,29,2024-02-16
+715,Christopher Bowman,hmay@example.org,724.312.6622x4328,1974-12-24,2349 Jason Corner,Colontown,PW,95044,2024-02-01,2023-09-04,Active,145.72,28,2024-02-22
+716,Mike Washington,kjordan@example.org,+1-637-271-0386,1994-06-22,543 Walker Glen Suite 529,Allenport,ND,36354,2024-03-08,2022-09-21,Lapsed,1329.6,49,2024-02-01
+717,Mary Becker,lgonzalez@example.com,476-418-2155x90942,1961-01-26,74226 Banks Square Apt. 010,Port Cassandraburgh,AR,39242,2024-02-11,2021-09-10,Lapsed,4856.88,23,2024-01-31
+718,Walter Woodward,vnorris@example.com,827.895.0142x73805,1956-07-21,17210 Ford Greens,Lake Kimberlyland,NC,46716,2024-02-09,2019-06-08,Expired,3716.03,51,2024-01-25
+719,Anthony Olson,fredmejia@example.net,376-525-5268,1972-06-06,004 Allen Village Suite 111,Walkerton,AS,84933,2024-01-22,2021-10-18,Lapsed,2243.7,86,2024-02-23
+720,Patricia Weaver,ramirezlawrence[at]example.net,555-263-6963,1971-11-07,20530 Lauren Wall,Teresafort,NY,11ABC,2024-02-05,2020-02-04,Active,2487.55,43,2024-02-04
+721,Dustin Mccarty,tina67@example.org,(979)847-2523x21018,1963-06-02,811 Samantha Landing,Rhondafurt,AS,68616,2024-03-11,2023-12-20,Active,2497.4,85,2024-02-26
+722,Benjamin Ramos,michaelclements@example.org,323.393.7252,1966-01-30,429 Johnson Drive,East Jamesbury,NY,74502,2024-01-18,2021-04-10,Expired,4346.4,83,2024-03-02
+723,Angela Miller,williamrichardson@example.net,9032307842,1973-04-01,42310 Edwards Mills Suite 687,Port Richardbury,NY,41353,2024-02-04,2022-03-11,Lapsed,4644.85,55,2024-03-11
+724,Shannon Stone,fitzpatricksara@example.org,881.406.7754,1979-05-05,70565 Valenzuela Forges,Wellsstad,VI,94261,2024-01-09,2024-03-05,Lapsed,4356.04,43,2024-02-10
+725,Tonya Williams,scottmyers@example.net,557.541.9813x13665,2002-09-15,5732 Castaneda Skyway,North Abigail,ME,84183,2024-01-30,2023-07-23,Active,2916.85,26,2024-03-13
+726,Lisa Vasquez,nhenry@example.com,537-859-6839,1991-09-14,4809 Henson Rapid Suite 412,New Kelly,DC,41140,2024-01-06,2021-04-13,Lapsed,3740.14,5,2024-01-31
+727,Mary Yates,jessica19@example.org,001-445-455-4748x73981,1950-12-29,323 Linda Rest,New Jamie,OH,80501,2024-03-08,2023-07-14,Lapsed,4044.23,60,2024-02-12
+728,Beth Fowler,owensjohn@example.org,875-975-3837x394,1953-09-14,3627 Emily Square,Port Lisa,NM,55717,2024-02-22,2023-05-19,Expired,4967.54,43,2024-02-20
+729,Ronnie Strickland,qgonzales@example.net,+1-910-788-2234x36746,1983-06-26,25031 Louis Drives Suite 033,Hickmanmouth,IL,64092,2024-02-07,2019-03-31,Expired,1320.22,54,2024-01-22
+730,John Nelson,ngonzalez[at]example.com,001-948-945-5801x7542,1960-03-09,7625 Alvarado Canyon,Hernandezmouth,SD,84919,2024-02-07,2020-08-31,Lapsed,3243.36,63,2024-02-12
+731,Nicholas Hill,kenneth03@example.net,505.809.5596x55362,1939-04-02,07240 Gould Walk Apt. 815,Lake Jamesmouth,CT,49729,2024-02-01,2021-09-14,Lapsed,3989.37,38,2024-01-12
+732,Stephanie Rush,woodkenneth@example.org,(301)731-8182x5648,1940-03-21,7305 Charles Run,New Ryan,NM,87075,2024-01-03,2019-06-09,Expired,1296.92,47,2024-02-18
+733,Scott Anderson,janet32@example.net,+1-634-480-1450,1940-04-18,16203 Larry Coves,Webbmouth,MN,54701,2024-02-19,2021-08-18,Expired,4142.86,29,2024-01-09
+734,Nicholas Houston,kevin15@example.net,+1-386-647-7567x66263,1967-07-10,22211 Diane Mission Apt. 541,Lake Jamie,NC,01810,2024-01-04,2021-02-14,Lapsed,1038.5,16,2024-01-20
+735,Thomas Burke,tcruz@example.net,555-307-2808,1962-04-22,205 David Stravenue Apt. 440,Hernandezton,WV,11380,2024-01-05,2020-05-19,Expired,4263.55,57,2024-01-17
+736,Steven Nichols,michaelkelly@example.com,939-882-6552x430,1950-08-24,041 Singh Mount Suite 339,New Amberview,PR,79079,2024-03-12,2021-05-19,Expired,3490.63,85,2024-03-15
+737,Angela Romero,millerkristen@example.org,(202)414-4787,1970-12-27,98981 Holmes Courts,Port Rebecca,SC,93979,2024-02-21,2020-10-08,Active,4942.68,83,2024-02-28
+738,Sarah Reyes,james13@example.org,3539530829,1970-05-09,65235 Vincent Branch Apt. 676,Franklinborough,UT,84077,2024-02-16,2021-11-07,Active,1466.72,25,2024-02-25
+739,Samuel Washington,dawsonclifford@example.org,+1-409-754-3559x0860,1972-09-06,0845 Nicholas Manor,North Danielleburgh,NE,73247,2024-03-01,2020-04-07,Active,2776.62,53,2024-03-15
+740,Jessica Kelly,kathymoore[at]example.com,(211)460-3814x06183,2003-02-06,44229 Henry Villages Apt. 267,Lake Kimberly,WI,97ABC,2024-01-09,2020-09-19,Expired,962.18,84,2024-02-26
+741,Benjamin Mcclure,sarahperry@example.org,(565)773-6159,1971-12-16,1889 Carter Prairie,Lake Mindyhaven,TX,29370,2024-02-06,2022-10-18,Active,3995.42,71,2024-01-21
+742,Brian Wilkinson DDS,kimberlydickson@example.net,(918)444-3772x919,1966-03-09,8753 Dawn Overpass Apt. 437,Robertborough,CA,83605,2024-03-04,2023-01-13,Active,4511.81,39,2024-03-08
+743,Chase Ward,brian86@example.net,001-506-789-1056,1967-03-02,8425 Wilkerson Greens Apt. 650,Christopherburgh,TN,62691,2024-01-14,2021-10-27,Active,4388.27,81,2024-02-04
+744,Mr. John Davis,leedeanna@example.com,001-920-897-7351x7985,2003-07-15,871 Smith Courts Apt. 643,Amyland,WA,73091,2024-03-15,2023-02-01,Lapsed,295.44,81,2024-01-22
+745,Misty Gallagher,raymond45@example.org,+1-810-607-4710,1999-12-11,35508 Jessica Course Apt. 099,Priceberg,ND,06584,2024-02-19,2023-05-11,Expired,3516.3,37,2024-01-20
+746,Nicholas Duncan,lisa18@example.org,001-229-275-2636x646,1934-03-06,97137 Bailey Crescent,Lake Patrickchester,GA,44495,2024-02-22,2022-04-14,Active,2759.13,52,2024-02-28
+747,Richard Hamilton,carolyn00@example.com,001-896-518-2863x2960,1985-08-31,852 Todd Underpass Suite 581,Jaredchester,FM,71419,2024-02-28,2021-09-28,Expired,4284.22,20,2024-03-12
+748,Ryan Padilla,amy76@example.com,(675)883-4442x725,2004-09-07,7874 Vickie Stream,East Christopher,CA,62875,2024-03-08,2021-12-25,Expired,4498.39,53,2024-01-16
+749,Claire Hernandez,jennifer87@example.org,345.952.7643,1958-12-01,549 Lynch Pass Apt. 553,Franciscomouth,PA,58588,2024-01-19,2021-08-23,Lapsed,4174.09,13,2024-02-04
+750,Kevin Arroyo,kellyreeves[at]example.org,555-704-2262,1953-09-11,73779 Nicholas Mews,Melissashire,CA,17048,2024-01-06,2022-03-22,Lapsed,2392.21,33,2024-02-06
+751,Bradley Hayden,alexandragallegos@example.org,226-930-9475x2277,1981-04-10,918 Richard Loaf Suite 356,Heathborough,ID,61620,2024-03-05,2019-07-11,Active,2515.57,9,2024-02-16
+752,Brittany Reyes,donnaross@example.net,266.309.6344x2874,1975-07-24,057 Sharon Street Apt. 959,Garciafort,FL,61347,2024-01-02,2022-07-06,Lapsed,4159.75,52,2024-01-11
+753,Colleen Lopez,xpadilla@example.net,431-414-0492x218,1997-09-08,443 Danielle Vista,Garybury,AZ,45466,2024-01-02,2023-03-27,Active,2300.37,43,2024-02-13
+754,Amber Richard,alexanderbrandon@example.com,4815251980,1978-04-03,2876 Taylor Inlet,Rebekahberg,AZ,69795,2024-01-25,2022-06-20,Active,3395.81,67,2024-02-10
+755,Brandon Haley,michaelmoore@example.com,649-978-4607x5332,1962-06-28,832 Williams Mountain Suite 245,North Savannahburgh,NE,43315,2024-02-10,2019-09-28,Active,2626.52,65,2024-01-09
+756,Emily Ho,umunoz@example.net,+1-747-272-8708x5700,1965-10-10,01381 Cooper Fords,Karenstad,AZ,86678,2024-03-05,2020-12-26,Expired,1503.58,42,2024-02-09
+757,Kevin Moreno,stephen96@example.com,6925787928,1963-11-05,3001 Kyle Field,Richardberg,MA,22704,2024-01-04,2022-03-10,Active,264.36,31,2024-02-15
+758,John Luna,loveeileen@example.net,607.842.9040,2003-01-05,6241 Boyle Alley,South Jay,OK,83846,2024-02-24,2024-02-02,Expired,726.86,29,2024-01-29
+759,Earl Knapp,edwardsshawn@example.org,+1-581-859-9424x27667,1981-12-20,131 Calhoun Estate,Woodton,IA,32016,2024-02-22,2022-03-08,Expired,4343.16,19,2024-02-08
+760,Mitchell Brown,crystal90[at]example.net,+1-508-463-1271,1938-12-15,6980 Davis Hollow,New Lisaside,FM,60ABC,2024-01-17,2023-05-23,Expired,486.35,28,2024-02-20
+761,Megan King,katelynparsons@example.org,486.867.9902,1949-01-05,50595 Leon Lights Apt. 538,South Tyler,LA,92232,2024-02-01,2021-02-28,Active,3001.3,78,2024-01-27
+762,Patricia Thomas,carolynreynolds@example.org,(656)761-1402,2003-05-20,5372 Emma Street,Millerville,LA,14145,2024-01-08,2023-12-14,Expired,970.91,86,2024-01-14
+763,Chad Sanders,shannonwilcox@example.org,(440)780-7960x23436,2000-04-09,4723 Knapp Ferry Apt. 954,Leahfort,IN,99141,2024-02-08,2024-01-05,Active,2543.83,22,2024-01-03
+764,Mr. James Reyes,brownashley@example.net,485-593-4655x77290,1975-02-22,2504 James Prairie,North Daniel,MP,41195,2024-01-18,2023-03-12,Expired,4418.2,83,2024-01-26
+765,Justin Hill,jason89@example.com,555-880-4361,1962-01-16,6397 Shannon Corner,Holtland,MP,84424,2024-01-16,2021-07-20,Lapsed,3076.97,45,2024-02-11
+766,Lee Chapman,reginald12@example.net,360-595-1999x1022,1943-07-24,207 Browning Stravenue Suite 819,Carpenterberg,WV,90095,2024-02-17,2022-03-26,Active,1335.75,28,2024-02-23
+767,Mary Carney,ericlittle@example.org,001-520-460-0244x4495,1945-12-12,156 Kyle Meadow,South Bobbyshire,AS,78633,2024-02-02,2020-06-15,Expired,2853.21,38,2024-01-12
+768,Daniel Robinson,rebecca04@example.com,605-560-5757,1952-06-07,008 Amanda Meadows Apt. 574,Jenniferfort,NM,77829,2024-03-15,2020-04-11,Lapsed,2461.67,24,2024-03-08
+769,Anthony Weber,daniel89@example.com,457-700-4030x882,1941-08-28,431 White Lock,Brendamouth,TX,74941,2024-02-05,2022-08-19,Lapsed,2561.0,4,2024-03-01
+770,David Schaefer,freed[at]example.org,+1-702-874-5695,1953-12-10,473 Garcia Island,Knoxfurt,UT,14755,2024-01-22,2023-11-28,Active,4532.44,70,2024-03-15
+771,Stephanie Andrade,hmassey@example.net,955.372.6284x246,1997-04-14,21820 Matthew Harbors,Perezborough,FM,83570,2024-02-09,2023-11-05,Lapsed,495.86,57,2024-01-08
+772,Christopher Smith,fharris@example.com,486-288-3808,1945-09-07,11705 Hernandez Inlet Suite 525,Anthonyhaven,CT,68310,2024-02-22,2019-05-31,Active,202.51,24,2024-02-18
+773,Michael Smith,pollardthomas@example.org,+1-816-884-3579x9714,1950-02-14,0469 Wallace Mountains Apt. 625,East Elizabeth,UT,46958,2024-03-09,2020-03-11,Lapsed,4150.08,48,2024-01-07
+774,Pamela Brooks,kennethgonzales@example.org,228-800-2427x0279,1966-12-21,96097 Vance Center,Jenniferberg,NY,80877,2024-02-02,2022-04-15,Active,4906.32,32,2024-02-03
+775,Amy Butler,gloverjennifer@example.org,001-266-443-8284x61081,1972-05-16,7452 Martin Circles Suite 599,East Williammouth,MP,24864,2024-03-14,2019-05-31,Expired,3930.48,94,2024-02-05
+776,Karen Richardson,qvaldez@example.net,788.544.9550x266,1988-08-17,64035 Arthur Stream Apt. 756,Donnachester,GU,88090,2024-02-24,2022-03-08,Lapsed,4648.03,44,2024-01-28
+777,Michael Garrett,scott44@example.com,001-560-621-9107x23613,2002-06-17,6441 Matthew Isle,Rogersmouth,NC,33984,2024-02-27,2023-01-25,Active,413.0,50,2024-01-21
+778,Kristi Little,ktorres@example.net,+1-598-296-7126x906,1956-10-11,3252 Morrison Valleys,Rhondaview,MN,59864,2024-02-15,2020-04-25,Expired,3533.79,76,2024-02-10
+779,Sandra Matthews,ryan92@example.com,385.659.8848x1425,1991-01-23,25553 Knight Green Apt. 721,Robinsonhaven,WV,78540,2024-02-13,2023-02-18,Active,1437.13,63,2024-02-23
+780,Sandra Wallace,qcollins[at]example.com,555-766-1197,1993-02-19,4976 Kenneth Lakes,North Williamside,NC,73ABC,2024-02-06,2019-12-31,Active,3824.59,23,2024-01-24
+781,Tracey Wheeler,matthew15@example.com,(250)556-3916x80885,1985-01-18,27851 Cole Spring,South Glenshire,TN,85310,2024-01-15,2023-05-17,Lapsed,1389.52,22,2024-01-15
+782,Nicole Gonzales,ryanrobert@example.net,+1-905-413-4962x16712,1941-03-10,46659 Stacy Path Suite 289,East Shelbyside,MH,77488,2024-02-02,2022-12-07,Expired,3748.13,35,2024-03-03
+783,Ernest Porter,wilsonnathan@example.org,(849)805-9355x553,1966-04-01,640 Mccormick Corners Suite 966,Danielburgh,NC,58391,2024-02-29,2022-12-09,Active,746.55,75,2024-03-15
+784,Shelby Mcclure,xsanford@example.net,839-288-0900,1942-02-10,644 Eric Ports,South Timothy,MN,48124,2024-01-22,2020-04-25,Expired,356.74,79,2024-02-22
+785,Dr. Bruce Schmidt,scottthomas@example.org,+1-832-819-5570x44552,1976-12-23,863 Lisa Mountain Apt. 895,New Ericview,NH,56593,2024-01-02,2023-11-13,Expired,3724.56,89,2024-01-03
+786,Melissa Padilla,hprince@example.net,001-633-665-4083x0081,1990-02-06,01856 Ruth Mountain Apt. 717,Port Thomas,KY,16466,2024-01-16,2019-03-28,Expired,2119.09,25,2024-03-10
+787,Jill Ferguson,lamgina@example.org,(508)484-5816x5774,1975-10-05,54657 Ortiz Port Suite 447,Browntown,PA,35630,2024-03-13,2022-06-27,Active,456.83,64,2024-01-10
+788,Mark Dean,pclark@example.com,620-797-5869,1935-10-14,7077 Adams Branch,Thomasville,VA,38666,2024-01-26,2022-03-08,Lapsed,1687.74,84,2024-02-16
+789,Amanda Miller,thomas17@example.net,988.626.6034x44893,1992-09-17,4439 Stephen Haven,Thomasview,MS,20027,2024-01-28,2021-01-30,Active,1528.11,76,2024-01-16
+790,Matthew Davis,patricia11[at]example.org,8835162758,1989-04-22,4266 Kara Estate,North Lauraton,ID,53990,2024-03-12,2023-09-08,Active,3490.77,61,2024-01-21
+791,Jeanne Lee,estradacody@example.com,975.508.6538,1965-08-15,520 David Stream,Port Cheyenneshire,WY,24369,2024-01-25,2023-12-17,Active,786.16,27,2024-01-19
+792,Kathleen Smith,jonesthomas@example.org,001-976-805-7362,1961-12-18,83212 Vickie Mews Apt. 857,Monroeland,SD,54113,2024-03-08,2023-03-16,Active,3561.08,47,2024-01-08
+793,Natasha Morse,victor47@example.org,001-946-405-5405x1291,1954-03-22,927 Price Hollow Apt. 137,New Danielleton,LA,38186,2024-02-12,2019-10-16,Active,2003.43,36,2024-01-31
+794,Stephanie Cruz,jasminemartinez@example.org,455.878.4530,1970-12-13,1096 Joseph Radial Suite 857,Lauraview,TN,89155,2024-01-27,2020-10-20,Lapsed,4582.42,55,2024-02-10
+795,Rodney Mack,justinthompson@example.org,555-226-6528,1991-09-12,657 Timothy View,North Lisastad,IN,82522,2024-03-05,2020-08-28,Lapsed,453.57,23,2024-03-15
+796,Karen Morales,mariamills@example.org,7316938682,1974-05-16,4066 Michael Greens,New Davidview,NM,57066,2024-03-10,2023-08-05,Lapsed,3457.66,42,2024-01-27
+797,Curtis Dennis,johnny80@example.org,+1-266-264-5380x803,2000-05-20,05827 Jenkins Brook,East Matthewbury,MI,41989,2024-01-25,2023-01-21,Expired,213.04,74,2024-03-13
+798,Patricia Nguyen,fmosley@example.org,(285)340-4390,1985-03-23,1543 Jordan Square,Maryhaven,CA,35372,2024-02-13,2021-10-25,Lapsed,4131.88,32,2024-02-29
+799,Brittany Bell,josephrobertson@example.org,976-674-6859,1973-03-30,699 Cheyenne Coves,Staceymouth,AK,21074,2024-03-10,2020-09-17,Lapsed,1290.11,88,2024-02-20
+800,Elizabeth Jones,welchmichael[at]example.net,316-988-5015x40978,1934-02-09,6197 Roth Squares,North Edward,FL,20ABC,2024-01-09,2019-06-21,Expired,1993.85,69,2024-01-19
+801,Jeremy Brown,becklori@example.org,457-525-2346,1952-03-25,7372 Jennifer Flat Apt. 938,Jonestown,WI,34259,2024-02-06,2023-02-03,Active,4299.08,68,2024-02-04
+802,Heather Nguyen,yangmichael@example.net,(609)621-8345x745,1956-07-18,332 Stewart Mountains,New James,MS,48687,2024-01-02,2023-06-12,Lapsed,379.53,89,2024-01-03
+803,Stephanie Stone,mmeyer@example.net,001-932-267-0668x747,1935-02-13,3588 Cuevas Centers Apt. 725,New Sandrachester,ID,24818,2024-03-13,2021-04-26,Expired,2372.6,20,2024-01-25
+804,Frank Jackson,nyoung@example.org,(308)792-3088x60984,1938-11-29,573 Wood Station Apt. 140,Lake Josephbury,IL,50482,2024-02-04,2023-07-12,Active,699.77,36,2024-03-15
+805,Patrick Evans,diane93@example.com,(235)660-8756x77894,1937-04-12,2102 Shelly Courts,Allisonberg,NY,66537,2024-02-28,2020-08-27,Lapsed,705.16,89,2024-03-11
+806,Austin Brown,jose21@example.org,546.878.3816,1948-06-20,7534 Raymond Views Apt. 655,Gregoryshire,NH,43339,2024-01-26,2021-10-15,Lapsed,2372.85,99,2024-01-09
+807,John Watkins,michaelali@example.net,556.375.1710,1992-11-23,3632 Lauren Harbors Apt. 194,New Brandon,RI,14985,2024-01-21,2021-04-23,Expired,2476.99,100,2024-02-29
+808,Keith Camacho,nmorris@example.net,920.888.3703,1962-01-19,735 Juarez Loop,Nicholasstad,NC,57283,2024-02-09,2021-10-18,Active,3134.93,18,2024-01-01
+809,Allen Miranda,janetcaldwell@example.net,001-286-421-1372x31810,1959-06-13,304 Harmon Lodge Apt. 951,North Lisamouth,TN,07292,2024-01-25,2019-06-15,Lapsed,2196.93,58,2024-01-16
+810,Dorothy Hawkins,thomas73[at]example.net,555-268-4811,1964-03-10,65069 Anderson Ranch Apt. 684,South Leahland,GA,26167,2024-01-28,2020-11-09,Active,2075.45,60,2024-02-10
+811,Elizabeth Simpson,jimmy20@example.net,948-454-5713,1990-06-29,806 King Green Suite 537,North Daniel,VT,95267,2024-03-01,2019-04-15,Expired,3434.6,95,2024-01-25
+812,Bryan Jones,jacob22@example.com,312-585-0135x46086,2004-03-17,76114 Linda Cape,Lake Wendy,AL,11409,2024-01-10,2020-07-03,Active,4843.09,17,2024-01-21
+813,Jason Meadows,fhall@example.org,(841)382-9261,1954-08-05,74259 Meyer Forks Suite 654,Port Kathrynstad,HI,07828,2024-02-03,2021-08-15,Lapsed,1642.46,31,2024-02-14
+814,David Martinez,rebekah95@example.com,(533)881-8084x92885,1947-09-25,06475 Robert Keys,Garyshire,GA,78098,2024-02-09,2020-01-22,Active,538.89,60,2024-02-15
+815,Michael Russell,xroach@example.net,(914)203-4431x11884,1992-05-04,668 Stephanie Club,Port Victoriaview,AR,37535,2024-02-14,2019-06-09,Expired,1800.52,32,2024-01-28
+816,Antonio Weber,hsimmons@example.net,001-634-367-1407x26563,1935-07-12,581 Ortiz Mission Apt. 094,Port Sharonport,OK,92446,2024-02-22,2022-02-11,Lapsed,3287.31,64,2024-02-29
+817,Rachel Salazar,joshuamejia@example.org,638-998-2576x5630,2002-01-01,2183 Campbell Junctions,Port Spencer,NC,37288,2024-02-17,2019-10-22,Lapsed,4037.13,57,2024-01-08
+818,Sherry Howard,jserrano@example.net,822.532.3514,1946-12-19,24233 Bobby Views,Rebeccaland,VT,52537,2024-03-08,2023-07-20,Active,3421.29,64,2024-01-06
+819,Joel Guzman,alvaradodenise@example.org,389-295-5660x041,1954-05-20,7163 Archer Brooks Apt. 123,Howardbury,MI,08346,2024-02-27,2020-05-21,Active,283.29,49,2024-01-06
+820,Susan Roach,allison95[at]example.net,210.332.9558,2004-07-01,711 Bruce Parkways,West Michaelburgh,DE,24ABC,2024-01-21,2020-08-27,Active,4597.17,81,2024-03-05
+821,Kimberly Davis,mark35@example.net,001-361-308-9639x985,1974-02-15,9413 Michael Prairie,West Katiemouth,TN,58231,2024-03-10,2019-04-20,Expired,452.04,9,2024-02-26
+822,Jesse Ibarra,james62@example.com,431-402-5166x7433,1999-08-19,462 Albert Mews Suite 671,Lake Richard,SC,70033,2024-02-18,2022-09-27,Lapsed,3432.41,32,2024-01-28
+823,Eric Stewart,zlong@example.org,744-768-5235x601,1986-02-24,02621 Karen Crossroad,Port Derekside,MO,57617,2024-03-03,2020-03-13,Active,2347.42,33,2024-02-05
+824,Jennifer Adams,tzimmerman@example.org,(345)838-8483x238,1961-07-07,18462 Nathan Underpass,Dorseyberg,WV,99918,2024-01-11,2019-05-24,Lapsed,4177.83,26,2024-02-08
+825,Brian Coffey,hmelton@example.com,555-224-1493,1991-09-29,892 Michael Knoll,Lake Susanton,AZ,23538,2024-03-05,2022-02-11,Expired,3980.94,3,2024-01-09
+826,Jordan Snow,shelleyrogers@example.com,619.417.0586x7698,1999-04-05,3167 Carol Islands,Port Taylor,OK,66784,2024-01-09,2023-11-03,Expired,2593.37,53,2024-01-23
+827,Vickie Velasquez,david98@example.org,(393)841-1371x2469,1936-08-15,281 Mary Park Suite 640,East Michellebury,GA,93961,2024-02-23,2020-06-05,Active,2713.76,9,2024-01-09
+828,Jamie Baker,kevinking@example.com,8849301387,1983-03-05,73238 Herrera Prairie Apt. 462,Boothton,NY,24470,2024-03-13,2021-04-04,Expired,191.13,91,2024-03-11
+829,Aaron Morris,johnnybrown@example.net,001-527-791-3818x0008,1950-04-01,0040 Davis Common Apt. 785,Bethbury,GU,26334,2024-01-09,2022-11-09,Lapsed,1262.97,26,2024-02-28
+830,Jeremy Watson,jay12[at]example.net,+1-298-422-9412x60590,1978-05-20,598 Doyle Courts,Foxview,SC,12756,2024-03-09,2023-06-16,Active,2328.8,50,2024-02-21
+831,Shawn Forbes,catherinesmith@example.net,482.406.8697x3568,1939-12-10,792 Holmes Valley Apt. 339,Shannonburgh,ND,65017,2024-03-01,2020-06-09,Active,1146.25,20,2024-01-02
+832,Christine Griffin,john76@example.com,654-926-6856x221,2003-10-06,3989 Zachary Courts Suite 566,Rayside,NV,64608,2024-01-24,2021-10-24,Active,2342.53,29,2024-01-06
+833,John Gill,ytaylor@example.com,001-714-460-3436,2003-10-19,3598 Bailey Estate,Markbury,LA,32155,2024-02-09,2019-06-19,Lapsed,4241.81,12,2024-02-20
+834,Katherine Murray,christopherhill@example.org,001-986-645-3062,1936-03-09,877 Kenneth Burgs,Kayleeview,ND,30245,2024-01-08,2020-10-24,Active,1143.85,67,2024-02-07
+835,Teresa Mclaughlin,billy17@example.com,(903)236-9155x9150,1995-10-07,64981 Alyssa Motorway Suite 432,South James,PR,32050,2024-03-08,2022-06-17,Active,4203.44,9,2024-03-09
+836,Bryan Ward,ypena@example.org,001-238-329-5312x8135,2000-04-29,98355 Norris Mountain,Gregorymouth,MH,34712,2024-03-12,2022-01-12,Lapsed,2868.01,10,2024-01-09
+837,Lindsay Thomas,daniellegiles@example.net,595-419-2621x4704,1960-10-17,399 Karen Drive Suite 246,West Amanda,MT,14070,2024-01-23,2022-02-13,Active,4024.05,92,2024-02-14
+838,Olivia Stanley,hbeard@example.org,001-222-634-8265x687,1950-03-08,18375 Swanson Springs Suite 088,Stevenhaven,KS,43393,2024-01-02,2022-01-20,Lapsed,4803.21,63,2024-03-03
+839,Darrell Brown,luisfreeman@example.net,(229)310-8158,1962-09-01,19406 Grant Turnpike,West Karen,IN,52018,2024-02-12,2021-07-19,Expired,4769.41,47,2024-01-18
+840,James Casey,bennettkevin[at]example.org,555-116-7529,1955-01-17,925 Burton Walks Apt. 553,West Dannyhaven,OR,78ABC,2024-02-05,2023-10-05,Active,4772.5,18,2024-03-14
+841,Gregory Fernandez,daniel22@example.net,658-340-5515x6622,1980-08-21,34537 Michael Oval,Bethanyland,SC,86921,2024-03-11,2020-10-14,Expired,4876.55,5,2024-01-04
+842,Connie Johnson,johncarr@example.org,(806)349-4084,1981-01-15,65434 Pamela Land,Clairebury,PA,46421,2024-01-17,2021-01-26,Expired,4449.08,66,2024-02-01
+843,Cody Owen,kingdaniel@example.net,+1-823-679-3466x9995,1964-01-09,0121 Carey Route,Mcclainmouth,CO,58825,2024-02-11,2019-12-13,Expired,2477.25,82,2024-03-01
+844,David Lewis,ounderwood@example.org,519.249.1706x932,1976-10-10,32359 Matthew Bypass,South Jeffrey,AS,58596,2024-02-20,2020-07-18,Active,1145.61,45,2024-01-12
+845,Mary Adams,anthonymarshall@example.net,+1-823-819-0146x31742,1965-04-29,78946 Paul Squares Apt. 590,Rachelmouth,OH,49500,2024-01-21,2019-08-06,Lapsed,816.61,35,2024-02-02
+846,Mallory Faulkner,jonespatty@example.com,(841)416-8393x69839,1983-10-16,0228 Walker Summit,Youngland,SD,69636,2024-03-12,2022-10-18,Expired,4141.62,61,2024-02-27
+847,Kelly Pittman,vtaylor@example.net,428-632-2272x704,2001-05-23,2617 Pearson Lakes Suite 253,New Brian,OK,64900,2024-02-15,2021-03-07,Expired,4427.63,35,2024-02-10
+848,David Bowman,matthewgregory@example.com,731-791-1255x021,1949-06-01,81348 Hobbs Causeway Apt. 689,Brownchester,IN,04763,2024-01-28,2020-06-10,Active,1823.29,66,2024-01-18
+849,Derrick Williams,hernandezjames@example.org,001-931-340-1521,2004-09-06,0160 Parker Streets Apt. 831,Petershire,IA,19035,2024-02-22,2022-05-26,Lapsed,1565.71,1,2024-02-22
+850,Bobby Shepherd,patrickmiles[at]example.com,4455261980,1977-05-06,938 Jonathan Brook Apt. 083,New Rickyton,MA,74436,2024-02-14,2023-05-10,Expired,3439.58,7,2024-01-02
+851,Mary English,diana91@example.net,(326)954-3053,1933-11-29,913 Jessica Burgs,Johnstonburgh,NY,56258,2024-02-10,2022-01-20,Lapsed,164.7,79,2024-02-16
+852,John Barton,hannahwallace@example.com,(628)726-8061,1980-01-19,13718 Williams River,Sarachester,ID,59412,2024-01-12,2021-07-29,Lapsed,3970.44,3,2024-02-18
+853,Adam Watson,frazierjohn@example.org,+1-992-587-5419x009,1939-03-25,3420 Howard Square,Lake David,NC,88805,2024-03-14,2020-07-25,Expired,653.36,97,2024-02-10
+854,Kevin Green,donaldblack@example.net,+1-472-918-4671,1950-03-22,8037 James Cove Suite 498,Joyborough,AR,94717,2024-03-01,2019-03-18,Lapsed,2094.1,12,2024-01-17
+855,Toni Smith,ycarter@example.org,555-079-2182,1979-07-28,34056 Hunter Islands Suite 003,Dixonchester,MT,36122,2024-03-02,2020-01-21,Lapsed,2715.21,37,2024-02-08
+856,Shelley Price,bmarshall@example.net,3987268096,1973-01-17,347 Roach Row,North Anthonyville,OK,55688,2024-01-16,2021-01-14,Expired,1707.55,8,2024-02-15
+857,John Wu,tbaker@example.org,(339)489-3295x50801,1989-04-09,576 Maria Wells Suite 612,Kennethmouth,PW,12880,2024-02-23,2022-10-05,Lapsed,1264.19,56,2024-02-09
+858,Donna Armstrong,bautistazachary@example.net,277-522-6735,1944-08-09,6127 Flores Row Apt. 894,Lake Charles,PR,81441,2024-02-27,2019-12-27,Active,3504.61,47,2024-01-05
+859,Amanda Castaneda,jacquelinewilliams@example.com,710-938-7415,1994-05-31,611 Charles Radial,Bennettberg,DC,87892,2024-02-14,2023-07-15,Lapsed,4571.57,29,2024-02-02
+860,Stacy James,steve65[at]example.org,+1-797-782-8801x49056,1967-02-24,22759 Hall Club,Robertton,RI,57ABC,2024-02-26,2023-11-29,Active,1869.6,39,2024-03-02
+861,Walter Larsen,jenniferbrown@example.net,628-221-9125,1940-02-29,691 Perkins Drive,Foxmouth,AZ,54220,2024-01-10,2022-02-03,Expired,2049.2,27,2024-03-04
+862,Andrew Bell,margaretgraham@example.com,683-398-4139x8331,1994-08-09,80104 Ronald Meadows Apt. 692,Port Calebfurt,ID,04815,2024-01-21,2021-11-08,Active,3153.34,32,2024-02-06
+863,Jennifer Rowland,tina22@example.com,001-303-413-5810,1945-04-15,4208 Greg Isle,West Juliamouth,VI,49473,2024-02-19,2019-08-21,Lapsed,3633.9,65,2024-02-26
+864,Ashley Miller,andrewwalker@example.com,905.859.9436,1998-09-14,5078 Jason Villages,Johnsonport,UT,23896,2024-02-08,2022-05-30,Expired,953.2,75,2024-02-19
+865,Kenneth Young,parkmichelle@example.net,481-213-0260x576,1948-10-15,757 Taylor Coves Apt. 563,Ronaldton,NH,26131,2024-01-28,2023-02-25,Lapsed,1547.98,69,2024-01-01
+866,Stephanie Downs,jilllopez@example.org,(498)784-6088,1969-06-06,5022 Angela Lodge,South Gary,IL,02794,2024-01-25,2020-04-14,Active,1133.48,65,2024-01-11
+867,Holly Benitez,sharpsheri@example.org,428-833-5466x333,1976-04-30,36745 Klein Extension Apt. 894,New Sonya,IA,45383,2024-02-21,2021-12-28,Expired,1232.1,83,2024-02-02
+868,Julie Anderson,jasminegarcia@example.net,511-739-5149,1933-03-23,177 Ramirez Harbors,West Connor,HI,06507,2024-01-14,2019-10-22,Lapsed,3551.57,61,2024-03-15
+869,Chad Hopkins,christopheraguilar@example.net,4188946349,1994-03-22,07816 Raymond Village,North Paulamouth,TN,64075,2024-01-08,2022-08-15,Active,705.12,88,2024-01-08
+870,Rebecca Anderson,kennethbennett[at]example.com,555-096-6880,2003-10-25,860 Jennifer Alley,Bethborough,UT,45086,2024-01-27,2022-11-28,Lapsed,804.41,8,2024-02-14
+871,Stephen Wiggins,campbellmichelle@example.com,948-972-4109,1997-03-04,97100 Joshua Neck Apt. 335,Kimberlymouth,DE,70934,2024-02-03,2020-10-22,Expired,2015.64,1,2024-02-13
+872,Beth Cortez,fjohnson@example.com,(784)827-3971x431,1990-12-06,0099 Thompson Summit Apt. 684,Zimmermanside,NV,00547,2024-02-13,2023-06-29,Expired,641.57,39,2024-03-14
+873,Joseph Wolfe,livingstoncarol@example.com,365.905.1753x33650,1958-05-01,5077 Wells Corner Suite 926,Rebeccamouth,AK,15957,2024-02-27,2020-07-10,Expired,3196.33,59,2024-01-14
+874,David Jenkins,bennettkathleen@example.net,4316767519,1963-03-19,2217 Gray Expressway,North Renee,UT,70034,2024-02-15,2023-01-15,Lapsed,4626.41,73,2024-01-04
+875,Mike Bailey,lisathompson@example.net,+1-649-268-0338x07016,1934-06-17,244 Melody Heights Suite 917,Campbellstad,OR,74090,2024-03-13,2024-01-01,Lapsed,3145.16,92,2024-02-20
+876,William Williams,uramirez@example.net,+1-935-696-2840,1957-05-03,6445 Cynthia Shores,Jaredborough,FM,58966,2024-01-31,2019-10-29,Active,4386.79,82,2024-01-22
+877,Brooke Levine,brianbennett@example.net,(966)984-9723x5052,2005-06-13,954 Wagner Spring Suite 658,Lambertfort,MI,61891,2024-03-07,2024-01-06,Active,380.31,84,2024-02-01
+878,William Williams,calvin83@example.net,309-319-7589,1969-02-25,1902 Snyder Trail,Joannemouth,MS,62658,2024-02-03,2022-04-28,Active,1312.99,38,2024-02-19
+879,Anthony Clark,bbenson@example.org,+1-366-815-0424x90267,1989-02-08,579 Alexis Divide Suite 213,North Zachary,GU,59619,2024-01-23,2020-03-26,Expired,4210.03,75,2024-01-03
+880,Christine Barker,williamjoyce[at]example.org,883-407-9475x93164,1990-10-16,34881 Campbell Lakes,Jonathanfurt,IN,92ABC,2024-01-28,2021-07-31,Active,697.54,5,2024-02-12
+881,Brandon Farley,ccox@example.com,+1-687-771-8274,1936-01-18,0742 David Stravenue,West Amanda,RI,93508,2024-03-14,2022-06-27,Expired,2593.66,27,2024-01-29
+882,Tara Holloway,davidsingleton@example.net,686.390.3139,1970-12-11,617 Nolan Mill Apt. 376,Shermanville,DC,55714,2024-01-26,2023-04-15,Expired,3800.81,65,2024-03-03
+883,Danielle Hernandez,katherine73@example.com,467-956-2455x500,1989-06-30,311 John Villages,Samanthafurt,PR,15411,2024-01-15,2023-10-05,Lapsed,2130.07,59,2024-01-02
+884,Emily Fry,ericajohnston@example.net,531.683.8098,1967-03-18,7924 John Plain Suite 737,Andreaport,PA,86172,2024-01-05,2021-05-09,Lapsed,2181.31,58,2024-02-18
+885,Alexis Clark,ryan08@example.org,555-559-0518,1991-07-18,8532 Pittman Corner,East Thomasstad,AS,12257,2024-01-31,2021-05-23,Lapsed,1500.21,95,2024-01-28
+886,Karen Carter,rebekah79@example.org,800.240.1966x477,1953-12-18,4545 Wood Way Apt. 653,Adamland,PR,99732,2024-02-10,2021-05-03,Active,3063.17,27,2024-02-25
+887,Michael Martinez,hhernandez@example.com,001-774-355-7606,1945-11-21,80896 Randolph Ports,New Christophershire,TN,17802,2024-01-10,2019-09-18,Expired,930.3,67,2024-03-01
+888,Melissa James,allisonhurley@example.com,6263125106,2005-11-27,17892 Williams Overpass Suite 672,Ruizberg,PR,84668,2024-02-01,2019-04-26,Expired,4769.53,6,2024-02-10
+889,Adam Zuniga,hansensteven@example.com,001-665-881-5110x272,1960-08-04,877 Ross Garden,Lake Julie,MO,96317,2024-01-12,2023-12-23,Expired,4961.28,63,2024-01-15
+890,Cody Gallegos,oneillbrent[at]example.net,883.996.2061x59322,1969-09-20,47782 Corey Parkways Suite 993,Susanton,CT,90015,2024-02-08,2020-04-13,Lapsed,401.17,69,2024-02-14
+891,Morgan Baker,uwatson@example.org,(431)682-5271x44776,1986-06-08,29526 Megan Forges Suite 772,Lake Ann,NC,74650,2024-01-06,2023-10-30,Expired,248.15,82,2024-01-06
+892,William Fox,dominicwhitney@example.net,4263527246,1966-03-19,84092 Li Passage Apt. 574,North Jonathanshire,PW,56917,2024-01-22,2019-05-02,Expired,3170.49,72,2024-01-23
+893,Katrina Baker,fthompson@example.org,(355)904-9190x67569,1938-04-03,038 Angela Drive,Rodneymouth,FM,81637,2024-03-12,2023-07-20,Active,779.54,28,2024-01-20
+894,Mary Johnson,kathleenallen@example.org,+1-913-844-3519x826,1985-06-10,14844 Kevin Orchard,Jenniferland,AZ,47425,2024-01-29,2023-03-14,Active,4659.19,25,2024-01-31
+895,James Maldonado,douglaspalmer@example.org,+1-378-777-8093x99293,1935-06-22,533 Megan Rapid,Lake Kristen,AR,87964,2024-01-08,2022-11-26,Lapsed,3625.03,31,2024-01-16
+896,Samuel Smith,austingarcia@example.net,833.858.9863x9113,1957-12-02,1876 Tamara Ramp Suite 268,Perezton,FM,66645,2024-01-30,2023-03-22,Expired,1803.19,23,2024-02-08
+897,Pamela French,riveramelissa@example.net,202-539-0414,2002-08-28,96084 Garcia Spurs,Meredithport,GU,54918,2024-03-13,2023-04-06,Lapsed,418.66,38,2024-03-09
+898,Hannah Brown,pattersonadam@example.com,387-396-9584x8953,1941-02-05,0337 Kevin Lodge Suite 409,Whiteberg,IN,96151,2024-02-18,2021-12-16,Lapsed,1072.08,36,2024-03-13
+899,Jennifer Brady,davidcordova@example.net,602-583-5461x77512,1972-02-08,321 Russell Drive,South Kenneth,PW,90869,2024-01-01,2020-06-16,Active,290.07,92,2024-01-16
+900,Dr. Patricia Contreras PhD,katherinegreene[at]example.com,555-278-8597,1965-08-14,40826 Gregory Ford Suite 143,Port Lisaburgh,MO,77ABC,2024-02-27,2020-07-20,Expired,2924.52,42,2024-02-02
+901,Joseph Gregory,xli@example.net,(403)982-9294x301,1977-12-09,0181 Edwin Plains Suite 855,Mendozaside,UT,43555,2024-01-01,2021-01-18,Lapsed,1076.32,96,2024-02-15
+902,Randy Ford,shelleyoconnor@example.net,684.876.2414,1975-11-18,6246 Chad Tunnel,Lisaport,VA,78008,2024-01-28,2023-10-13,Lapsed,2236.14,61,2024-01-01
+903,Keith Moyer,grimesanthony@example.net,001-807-954-7269x6820,1942-12-26,3265 Brown Summit Suite 739,West Steventon,VA,51015,2024-03-01,2023-11-03,Lapsed,200.54,73,2024-03-01
+904,Jackie Mitchell,cynthia05@example.com,(871)881-3508x292,1982-09-01,8010 Gregory Trafficway Suite 448,Port Kendrabury,NC,68164,2024-02-12,2022-11-09,Lapsed,4376.23,50,2024-01-22
+905,Ashley Chung,jharvey@example.com,(378)732-7254x15027,1988-06-20,63573 Spears Mountain Apt. 755,New Mariamouth,MI,59450,2024-03-13,2022-10-13,Lapsed,3803.95,15,2024-01-18
+906,Megan Hart,robertssarah@example.org,001-819-786-8707,1952-02-21,3775 Charles Port Apt. 383,Garciastad,NY,61914,2024-02-11,2021-07-06,Lapsed,2662.46,20,2024-02-10
+907,Edward Ramirez,zdouglas@example.com,445-804-8189x934,1987-11-24,901 Adams Views Apt. 226,Waltermouth,MI,59290,2024-01-22,2023-09-15,Expired,4693.55,41,2024-02-15
+908,John Acosta,cassandra24@example.org,(802)468-9844x049,1971-05-15,65432 Wesley Parkways Apt. 782,Jamesview,TX,93125,2024-03-10,2022-03-29,Active,1549.83,72,2024-02-23
+909,Bryan Flynn,pamela40@example.com,(614)340-1484x1573,1981-08-25,237 Ponce Coves,Lake Anthony,SC,07524,2024-02-14,2020-09-22,Active,863.56,12,2024-01-03
+910,Devin Phillips,vazquezjennifer[at]example.com,001-765-704-6128x5643,1946-11-17,496 Simmons Parkways Apt. 130,Port Diana,DE,65859,2024-02-27,2023-10-23,Expired,1621.89,80,2024-01-16
+911,Joanna Hansen,phillipsdebra@example.net,3412760821,1950-03-08,3467 Antonio Lock,Mckinneyfurt,PW,51103,2024-02-09,2020-10-15,Active,3588.7,99,2024-02-19
+912,Megan Reed,gboyd@example.com,381.901.7506x8200,1955-06-04,81251 Allen Square Suite 564,South Cynthia,MD,28109,2024-02-05,2023-07-05,Expired,2284.05,17,2024-02-03
+913,Gabriel Johnson,rhondaspence@example.org,945.726.2441x7785,1972-06-26,5801 Jose Street Apt. 309,East James,WI,64905,2024-03-05,2022-10-18,Active,4864.73,92,2024-01-18
+914,Jennifer Lewis,stephanieallen@example.com,001-559-919-5435x960,1987-12-16,755 Hamilton Viaduct Apt. 872,Michaelport,AZ,81698,2024-02-01,2020-07-25,Lapsed,2990.44,7,2024-02-20
+915,Kevin Marshall,jeffrey92@example.com,555-253-0396,1936-07-22,0334 Samantha Lights,Port Kyle,CA,21457,2024-02-29,2019-09-25,Expired,4455.8,13,2024-02-17
+916,Vincent Rodriguez PhD,kathleenrosales@example.com,824-730-0925x702,1995-07-08,48852 Harris Trail Suite 440,Andersonland,HI,20603,2024-03-02,2023-10-13,Lapsed,3636.54,30,2024-01-16
+917,Jasmine Murphy,frodgers@example.net,(669)893-8335,1962-12-29,781 Alison Knolls,Meyerside,AR,43150,2024-03-01,2019-04-27,Lapsed,1727.68,61,2024-03-14
+918,Julie Holmes,trevinoamy@example.net,+1-464-937-6436x5012,1998-03-05,669 Tate Bridge Apt. 597,West Matthewberg,PR,26121,2024-01-15,2023-05-07,Expired,517.55,19,2024-01-17
+919,Ellen Johnson,hshannon@example.org,715.267.8139x8392,1960-09-13,418 Henry Junctions Suite 431,Jonathanview,OH,72701,2024-01-22,2020-09-05,Expired,4536.58,60,2024-02-23
+920,Paul Collins,dwayne57[at]example.net,385.832.6155x33954,2004-02-11,6173 Riley Squares Apt. 678,Lake Joy,NC,26ABC,2024-02-11,2022-11-07,Lapsed,3343.17,48,2024-02-10
+921,Melissa Wright,zstark@example.net,(333)630-0881x1421,1959-01-24,5501 Hayes Vista Apt. 380,New Loritown,GA,36683,2024-02-05,2019-10-26,Expired,3593.78,21,2024-02-29
+922,Samantha Booker,gonzalezgregory@example.net,001-347-679-5613x941,1996-09-13,73291 Young Path,Davidchester,CO,67450,2024-02-12,2021-01-09,Expired,3081.02,93,2024-01-24
+923,Ronald Garcia,marysilva@example.net,7059498728,1961-12-03,5705 King Gardens,South Aaron,GU,37074,2024-02-27,2019-09-01,Lapsed,3254.29,13,2024-01-23
+924,Matthew Mckinney,fieldsmichelle@example.com,001-952-360-7133x639,1973-07-11,395 Thomas Forges Suite 508,East Erica,WA,42919,2024-02-04,2020-01-13,Lapsed,3586.78,16,2024-02-26
+925,Eric Archer,danahayes@example.net,001-512-444-6477,2003-05-20,91581 Aaron Grove Apt. 937,Millerstad,GU,56254,2024-01-22,2020-05-03,Active,3573.41,32,2024-01-30
+926,Jackson Nichols,vhall@example.com,9166992006,1982-05-16,947 Brown Canyon Apt. 778,Tonymouth,NJ,37017,2024-02-09,2020-09-26,Expired,4066.37,52,2024-01-26
+927,Julian Hunt,bvillegas@example.net,001-806-285-5395x624,1951-12-14,167 Pamela Unions Apt. 193,Kaylafurt,DE,43151,2024-02-12,2020-05-24,Active,1473.24,32,2024-01-09
+928,Kelly Melton,martinlauren@example.net,+1-846-287-7921,1975-12-26,29084 Dennis Unions Suite 068,West Mary,MN,39712,2024-02-01,2020-12-28,Expired,335.08,29,2024-03-05
+929,Nathan Smith,juarezglen@example.com,445.281.4933,1963-01-02,89114 Neal Rapid Suite 201,North Aprilville,DC,97673,2024-03-04,2021-11-17,Lapsed,1607.6,39,2024-02-08
+930,Sarah Cook,michelle11[at]example.net,555-839-1771,1983-11-01,144 Marie Gateway Apt. 691,Lake Elizabeth,PW,59682,2024-02-25,2023-03-22,Lapsed,557.02,94,2024-02-15
+931,Patricia Tucker,cunninghamteresa@example.com,4387835035,2002-11-26,3658 Peterson Cove,North Eric,OH,82904,2024-03-09,2021-09-04,Active,418.5,90,2024-02-26
+932,Desiree Mckenzie,trevortaylor@example.net,+1-333-737-0729x988,1979-03-31,658 Humphrey Meadow,Port Gilbertburgh,SC,84031,2024-03-12,2021-03-04,Active,2318.54,98,2024-02-25
+933,Molly Williams,natalie39@example.org,214-784-5609x467,1952-08-12,84163 Tonya Harbors,North Anita,SD,88289,2024-01-22,2020-12-10,Expired,2685.13,5,2024-01-29
+934,Brian Fernandez MD,michael41@example.com,380.362.5862,1970-07-05,67267 Barbara Hill Suite 999,Lake Andrewshire,IN,79118,2024-02-03,2023-03-22,Lapsed,2644.13,30,2024-02-27
+935,David Washington,sharonpatterson@example.net,(271)480-4312x6513,1985-10-16,110 Seth Motorway,Ochoashire,TX,66031,2024-01-25,2020-09-01,Lapsed,1995.9,46,2024-02-19
+936,Nicholas Banks,nicolenichols@example.net,(558)372-1182,1975-12-05,8839 Nelson Underpass,Griffinside,CO,80595,2024-02-12,2022-01-31,Active,245.84,79,2024-02-18
+937,Rachel Perez,susantate@example.net,(323)683-6335x2348,1992-04-21,3152 Stephens Overpass Suite 779,Natalieland,WA,27861,2024-03-05,2023-01-22,Active,918.23,29,2024-02-01
+938,Patrick Hoffman,jeremy92@example.org,963.805.9028,1934-06-27,5727 Cruz Keys Apt. 279,Audreyshire,NE,90640,2024-02-14,2021-07-10,Expired,4728.52,65,2024-02-04
+939,David Johnson,uweber@example.com,+1-747-305-5225x2181,1968-01-05,48173 Andrea Causeway,Aliciaton,NY,70384,2024-01-18,2024-01-21,Expired,1215.2,60,2024-01-30
+940,Mr. Theodore Lynn DDS,ipayne[at]example.net,+1-475-459-2736x1418,1973-12-15,75634 Bobby Fork,Ramseyview,IN,47ABC,2024-03-13,2022-12-14,Active,2820.73,18,2024-03-03
+941,Molly Wallace,david04@example.org,604.444.2245x377,1967-10-20,4464 Dustin Mount Apt. 929,Joshuahaven,OH,68230,2024-02-26,2019-10-15,Expired,3539.59,15,2024-02-09
+942,Marcus Lewis,rmolina@example.net,808-676-9869x0811,1941-10-24,2321 Samuel Plaza,Jacquelineview,OK,69963,2024-02-26,2021-11-26,Lapsed,1129.85,26,2024-03-02
+943,Jennifer Martinez,brooksbilly@example.net,001-662-917-5228x0643,1959-12-27,387 Robert Keys,Port Jorge,NY,35332,2024-01-27,2019-04-10,Expired,4111.91,26,2024-02-28
+944,Mrs. Elizabeth Price,patrick46@example.com,604-269-9866,1956-09-15,040 David Locks Suite 085,Edwardberg,VI,75796,2024-03-11,2019-04-01,Active,2483.19,45,2024-02-26
+945,Paul Christensen,josesmith@example.com,555-210-3129,1969-07-03,49533 Megan Branch,Nicolebury,MI,42212,2024-01-11,2019-08-24,Expired,3771.43,58,2024-01-30
+946,Angela Chen,rwilson@example.com,435-805-7964x83798,1979-06-16,3031 Castaneda Summit,South Christopher,MS,27674,2024-02-24,2019-09-01,Lapsed,410.53,61,2024-01-10
+947,Crystal Pierce,haleydiaz@example.com,422.289.4547x06835,1945-12-24,284 Ashley Cliff Suite 957,East Rodneyfurt,KY,69480,2024-01-30,2019-04-03,Active,3161.42,53,2024-02-04
+948,Sylvia Parks,xsandoval@example.com,786.559.8273,1944-02-23,99631 Bass Drives,West Lorettaland,RI,82071,2024-02-10,2022-10-06,Active,2128.38,21,2024-02-05
+949,Mark Drake,shannon41@example.net,001-270-348-5923x5458,1992-02-12,3596 Riddle Greens Suite 804,South Kellystad,PR,79489,2024-01-01,2021-08-25,Lapsed,2749.88,9,2024-01-29
+950,Meagan Johnson,fisheremily[at]example.net,2334464630,1949-02-18,196 Leonard Place,West Terri,WI,01904,2024-03-06,2020-12-19,Active,2485.3,14,2024-01-02
+951,Jennifer Park,jonathanperez@example.org,001-318-931-7728,1965-07-31,692 Mark Stravenue Apt. 403,Port Kaitlynbury,KY,99926,2024-01-08,2020-10-18,Lapsed,182.39,69,2024-03-08
+952,Patrick Robinson,nsanford@example.org,001-963-668-3995x37779,1933-10-04,851 Brian Pine Suite 904,Lake David,AS,92038,2024-02-08,2019-04-14,Expired,3089.42,30,2024-02-08
+953,Samantha Johnson,wpotter@example.com,001-440-463-9754x85329,1959-01-21,3934 Gallegos Islands Suite 342,Evansmouth,MS,82919,2024-01-30,2020-08-31,Lapsed,1444.35,5,2024-02-23
+954,Donald Waller,obrienolivia@example.com,001-410-249-8629x6903,1974-11-25,119 Carl Place Suite 114,Paulfurt,MI,68506,2024-01-27,2020-03-04,Active,4192.24,54,2024-01-18
+955,Peggy Macias,vbradshaw@example.net,(746)590-3383x528,1940-07-07,99116 Green Shoals Apt. 587,Port Patricia,KS,65516,2024-01-07,2019-09-10,Lapsed,3262.19,65,2024-01-14
+956,Garrett Mcmillan,whenderson@example.org,923.825.8524x406,1933-04-23,3381 Amber Keys,Lake Michaelmouth,WV,91603,2024-01-06,2022-03-02,Active,4072.47,37,2024-01-31
+957,Amy Wallace,joseellis@example.net,205-250-5552x330,1999-06-30,342 Campbell Mills,New Stephen,VT,13778,2024-03-09,2020-10-03,Expired,4327.37,78,2024-02-15
+958,Donald Jordan,oskinner@example.net,537.639.4894,1935-02-14,88616 Sandra Key,Port Amandaville,KS,63742,2024-03-05,2021-07-01,Active,4766.37,96,2024-01-18
+959,Mrs. Sandra Webb DDS,michelleferrell@example.com,001-818-712-1337,1978-05-25,8986 Michelle Glens,Port Melanieshire,AL,24177,2024-01-02,2020-12-31,Lapsed,786.52,24,2024-03-05
+960,Andrea Thompson,paige66[at]example.org,555-006-5748,1953-11-13,2007 Keith Harbors Suite 123,Miguelburgh,PR,51ABC,2024-01-16,2020-10-07,Lapsed,2976.67,18,2024-01-09
+961,Brad Velasquez,xdeleon@example.net,+1-639-439-8784,1991-06-03,419 Burton Coves,Millerburgh,MH,28851,2024-03-12,2023-08-18,Active,3472.82,38,2024-01-24
+962,Sabrina Mathews DDS,zacharyfrazier@example.org,705.660.5225x0661,1945-11-29,084 Cline Trace Suite 551,New Josephland,OK,24807,2024-02-24,2023-08-26,Expired,3870.99,2,2024-01-21
+963,Victor Miller,brendanbrock@example.com,+1-517-957-5266,1979-11-03,6919 William Trafficway,Charlesberg,MN,38560,2024-01-05,2021-09-07,Active,782.49,30,2024-01-03
+964,Melanie Mueller,brianna30@example.com,985.720.2493x73165,2003-03-03,36822 Samantha Shore Suite 505,South Tiffany,RI,57835,2024-01-31,2020-03-29,Lapsed,3582.17,60,2024-02-18
+965,David Henderson,millsmelissa@example.net,961.889.5154x76782,1935-05-13,13022 Savannah Cape Apt. 138,Brockton,TX,46505,2024-03-10,2020-07-02,Expired,4899.39,89,2024-01-16
+966,Anne Martinez MD,davisdawn@example.org,(634)611-6844,1994-11-13,528 John Streets,Port Robertmouth,AZ,27078,2024-02-28,2020-12-03,Lapsed,3900.56,16,2024-03-03
+967,Cody Ramirez,rtaylor@example.org,689.299.9787,1951-11-29,7976 Martha Lakes Suite 017,Andersenville,MD,29172,2024-03-12,2020-05-18,Expired,4864.74,37,2024-01-08
+968,Terrance Henry,jordansmith@example.org,001-577-387-9938x0782,1991-06-09,629 Marquez Bridge,Salazarborough,MT,46659,2024-03-07,2020-03-12,Active,1066.9,93,2024-02-27
+969,Jack Riley,foliver@example.net,226-318-1455,1950-09-01,31204 Kevin Squares Apt. 109,South Michelleville,WI,83312,2024-01-16,2019-04-03,Lapsed,4104.86,35,2024-01-21
+970,William Yang,fmonroe[at]example.com,(357)557-0878,1948-03-20,4031 Thomas Keys Suite 030,Floreshaven,HI,71991,2024-02-17,2021-03-26,Lapsed,3205.47,40,2024-02-05
+971,Andrew Johns,fwatson@example.org,732.516.5868,1988-10-21,47611 Patricia Spur Suite 522,Kevinland,DC,03649,2024-01-31,2020-12-23,Expired,3275.0,81,2024-01-30
+972,Joshua Odonnell,jaimejohnson@example.com,001-963-470-1932x67217,1938-12-11,010 Murray Station Suite 052,Crystalland,DC,64927,2024-02-05,2021-02-14,Active,1280.24,78,2024-02-29
+973,Elizabeth Conrad,tracylee@example.org,001-369-595-3707x375,1976-04-03,3985 Golden Harbor,Meghanshire,RI,73038,2024-02-28,2023-12-17,Expired,628.33,42,2024-01-13
+974,Megan Clark,sean92@example.net,745.989.3324x65469,1975-10-15,041 Kramer Knolls,West Biancaland,MH,70778,2024-01-01,2021-01-24,Expired,1569.74,80,2024-01-17
+975,Barbara Carrillo,leahstone@example.com,555-394-3850,1996-06-27,7661 Conway Light,South Michaelshire,RI,64332,2024-03-13,2020-07-09,Active,1448.92,62,2024-01-13
+976,Sandra Perkins,smithchristopher@example.net,001-926-681-6146x336,1992-01-29,79900 Hardy Islands Apt. 885,West Ashleyport,CA,65733,2024-01-30,2019-05-07,Expired,4872.65,100,2024-02-18
+977,Anthony Perez,wendy47@example.org,5786953383,1998-02-28,222 Moon Pine Apt. 146,Daltonchester,NM,55161,2024-03-11,2022-03-24,Expired,3582.79,52,2024-01-17
+978,Shawn Hardin,christinaclark@example.net,+1-851-509-4615x5090,1969-09-07,5576 Meyer Glens Suite 228,New Gary,UT,38591,2024-02-28,2023-12-25,Expired,1157.12,97,2024-01-29
+979,Juan Bryan,vyork@example.net,840.699.0720x42409,1943-03-08,04975 Michael Flats,New Anthonychester,AK,30795,2024-02-22,2019-05-26,Lapsed,3237.05,86,2024-01-17
+980,Megan Dixon,michelle83[at]example.com,(761)937-6496x1520,1965-11-30,16799 Stark Gateway,West Michele,MS,85ABC,2024-02-13,2020-03-09,Active,2177.0,60,2024-01-18
+981,Timothy Greene,sarashelton@example.org,3042169177,1949-08-16,114 William Manors,New Heather,CA,88327,2024-01-03,2023-10-10,Lapsed,3130.25,95,2024-01-17
+982,Casey Maddox,hobbsdevon@example.org,3256332137,1980-08-02,270 Sonya Drive Apt. 506,Lake Chelseafort,ID,45466,2024-02-24,2022-09-19,Active,265.49,63,2024-01-25
+983,Lacey Thomas,davidsnyder@example.org,496-372-6238,1949-07-09,329 Bishop Expressway Apt. 666,South Amy,NC,93344,2024-02-13,2020-11-17,Lapsed,4115.03,18,2024-03-08
+984,Ryan Williams,hbenson@example.net,001-371-208-6780x225,1978-02-04,22574 Braun Mill,West Jennifer,DE,45262,2024-02-07,2022-01-16,Lapsed,465.21,18,2024-02-11
+985,Derek Myers,jvance@example.org,(721)399-3499x1787,1982-02-02,147 Juan Wells Suite 317,Perkinston,CT,08941,2024-02-26,2020-06-20,Expired,1652.59,59,2024-01-20
+986,Justin Leonard,ccampbell@example.com,(575)805-6036x1003,1952-03-22,50661 Eric Falls,Pamelaton,NM,42171,2024-01-10,2019-05-03,Lapsed,727.82,16,2024-02-27
+987,Roberto Nielsen,williamnelson@example.com,(262)829-6905x8771,1944-02-02,50140 James Springs,North Brandonton,MA,43357,2024-03-03,2023-12-18,Lapsed,4802.86,54,2024-02-08
+988,Manuel Jackson,stephaniemoore@example.net,001-209-980-5801x47902,1976-08-23,302 Brian Hills Apt. 965,North Brandon,FL,71249,2024-03-03,2022-06-28,Lapsed,3613.4,12,2024-01-31
+989,David King,darleneevans@example.org,683.291.4517x6004,1948-04-13,645 Heather Cliff,New Elizabeth,MA,36620,2024-01-27,2019-07-09,Lapsed,3667.92,4,2024-02-01
+990,Travis Nelson,amanda30[at]example.net,555-345-8341,1944-05-06,579 Samuel Turnpike,Nicoleside,RI,29962,2024-01-17,2019-10-17,Lapsed,4120.1,48,2024-02-02
+991,Melissa Taylor,john26@example.com,434-863-1047x3476,1986-09-01,873 Anderson Isle Suite 945,Calderonstad,FL,85319,2024-01-16,2020-09-09,Active,1947.32,29,2024-02-26
+992,Jack Mayer,rrowland@example.net,(372)633-0866,2003-02-05,03070 Gonzalez Drives,South Rebeccaside,OH,88040,2024-01-24,2020-06-01,Expired,2762.54,13,2024-02-29
+993,Brian Hudson,george94@example.com,+1-291-602-2480x13990,1962-11-02,3507 Robinson Inlet,Grantshire,IL,07050,2024-01-09,2022-04-07,Lapsed,2402.55,37,2024-03-01
+994,Linda Wilson,donna84@example.org,386.985.6058x8479,1987-05-27,27498 Charles Viaduct Suite 584,New Caroline,UT,11405,2024-02-01,2019-07-18,Expired,262.94,65,2024-03-15
+995,Joshua Stephenson,terrythomas@example.net,670.782.5611x37568,1937-02-26,063 Miller Center Apt. 085,Lake Robertton,NC,58786,2024-01-09,2019-11-26,Active,3746.27,86,2024-02-23
+996,Emily Munoz,austin39@example.com,(875)577-5984,1933-11-15,8012 Steven Trace,North Jonathan,NY,17073,2024-01-31,2020-04-14,Active,761.25,22,2024-01-05
+997,Jeanette Gross,laurenrogers@example.org,4288178852,1945-02-05,654 Randy Locks Apt. 392,Hayesfort,TN,91802,2024-01-19,2021-12-11,Active,1583.68,43,2024-02-13
+998,Michael Cummings,sscott@example.net,288-487-3646x194,2003-02-13,783 Brian Circles,North Jessica,WV,20896,2024-03-05,2024-02-28,Active,4268.59,54,2024-01-09
+999,Ashley Wright,ashleyorozco@example.org,001-881-553-9839x754,1956-07-01,025 Norris Brook Suite 448,Bakerborough,MD,51020,2024-01-12,2022-02-24,Expired,4186.5,88,2024-03-05
+1000,Tommy Knapp,kristenrice[at]example.com,001-743-871-1923x87691,1938-06-26,78677 Deleon Crossroad Suite 102,South Pennyport,OH,90ABC,2024-02-20,2022-01-20,Expired,3221.73,40,2024-01-17
