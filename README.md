@@ -4,6 +4,6 @@ Recent work showcases a broad spectrum of skills in data science and analysis ac
 
 Here You can find my other projects: https://github.com/Rafat-Bin/Projects 
 
-Tableau Public Profil: https://public.tableau.com/app/profile/rafat.bin.islam/vizzes
+Tableau Public Profile: https://public.tableau.com/app/profile/rafat.bin.islam/vizzes
 
 Linkedin: https://www.linkedin.com/in/rafatbinislam/
