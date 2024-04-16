@@ -1,0 +1,40 @@
+-----Geospatial Mapping and Statistical Analysis of Canadian Wildfire Trends-----
+
+Dataset Overview
+Source: Canadian National Fire Database (CNFDB).
+Type: Historical records of wildfire incidents, structured for GIS analysis, including spatial data such as coordinates and ecological zones.
+Quantified Outcomes from Analysis
+
+Top Provinces with Most Fires:
+British Columbia: 16,831 fires (representing approximately 30% of all recorded incidents).
+Alberta: 16,322 fires (approximately 29% of incidents).
+Ontario: 10,549 fires (approximately 19% of incidents).
+Quebec: 6,251 fires (approximately 11% of incidents).
+Temporal Trends:
+
+Peak Fire Seasons: 
+Over 60% of the fires occur in the summer months (June, July, August).
+Yearly Variability: Shows fluctuations with some years recording up to a 50% increase in fire incidents compared to average years.
+
+Spatial Analysis:
+Geographical Concentration: Identified regions with high fire concentrations, particularly in central and northern Alberta and British Columbia.
+Regional Fire Sizes: Variability in average fire sizes; some regions average over 50 hectares per fire, significantly larger than the national average of around 10 hectares.
+Causal Analysis:
+
+Common Causes: 
+Human activities and natural causes like lightning strikes are the leading causes, with human-related fires peaking in spring and natural fires in summer.
+Seasonal Variability in Causes: Natural causes (e.g., lightning) are predominantly during dry months, contributing to over 35% of summer fires.
+Impact Analysis:
+
+Distribution of Fire Sizes: 
+Small fires (less than 1 hectare) constitute over 75% of incidents, but large fires (greater than 100 hectares) account for over 85% of the total area burned.
+Ecological Zones Affected: Diverse impacts across ecological zones, with Boreal and Taiga zones experiencing the highest frequency and severity of fires.
+Detailed Seasonal and Temporal Impact:
+
+Month-by-Month Fire Activity: 
+Highest fire activity noted in July, with peak incidents sometimes exceeding 3,000 fires per month.
+Decadal Trends: The 2010s saw an approximate 20% increase in fire incidents compared to the 2000s, likely reflecting climatic influences and changes in land use.
+Statistical Correlations:
+
+Weak Predictive Correlations: 
+Low correlation coefficients (less than 0.05) between fire size and latitude/longitude, indicating minimal predictive power of geographic location alone on fire size.
