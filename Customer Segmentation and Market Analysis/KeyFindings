@@ -1,0 +1,47 @@
+Key Findings from the Project:
+1. Customer Demographics Analysis:
+
+Age Distribution: The majority of customers are between 30 and 60 years old, indicating a middle-aged customer base.
+Income Distribution: Most customers fall within a moderate income range, though a few outliers in higher income brackets exist.
+Education and Marital Status: A significant portion of customers has higher education levels and are either married or living together, which may indicate stable, dual-income households.
+
+2. Household Structure:
+
+Total Children: Many households have either no children or 1-2 children, suggesting that the marketing campaigns are likely targeting smaller family units.
+
+3. Recency of Purchases:
+
+Customers are segmented into Active, Recent, Inactive, and Dormant based on their recency of purchases:
+A notable number of customers are Active (purchased within the last 30 days), meaning they are engaged.
+A smaller portion of the customer base is Dormant, suggesting an opportunity to re-engage lapsed customers.
+
+4. Spending Behavior:
+
+The highest spending is on wines, followed by meat products, indicating these product categories are key revenue drivers for the company.
+Sweet products and fish receive less spending, which could represent an area for promotion or cross-selling opportunities.
+
+5. Campaign Effectiveness:
+
+Campaign 3 and Campaign 5 showed the highest response rates, suggesting these campaigns resonated the most with customers.
+Customer Engagement: Customers who accepted a campaign are more likely to make purchases, especially through the web and catalog channels, indicating the success of campaign-driven sales.
+
+6. Revenue and Cost Efficiency:
+
+Customers who accepted campaigns generated higher revenue on average compared to those who did not.
+The cost of customer contact for campaign-accepting customers was justified by the higher revenue they generated, making the campaigns cost-effective overall.
+
+7. Purchase Channel Preferences:
+
+Store purchases dominate the purchasing behavior, followed by web purchases. Catalog purchases are less frequent, which might indicate an opportunity to further digitize marketing strategies or offer incentives for catalog use.
+
+8. Complaints Analysis:
+
+Customers with higher income and higher spending are slightly more likely to complain, indicating that high-value customers may have higher service expectations. Addressing their concerns could increase loyalty.
+
+9. Clustering Based on Spending Behavior:
+
+Three customer segments were identified through K-Means clustering:
+Cluster 1: High spenders, primarily on premium products like wines and meats.
+Cluster 2: Moderate spenders, with more balanced spending across various categories.
+Cluster 3: Low spenders, with minimal engagement across product categories.
+Silhouette Score of 0.459 indicates a moderately good clustering, meaning there is meaningful differentiation between customer segments.
