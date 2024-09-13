@@ -1,0 +1,42 @@
+Key Findings
+
+Data Quality and Structure:
+Missing values in CompetitionDistance and promotional information were handled by filling or appropriate imputation.
+Data was successfully cleaned and structured for analysis.
+
+Sales Distribution and Trends:
+Sales Distribution: Sales data is skewed with a significant number of transactions clustered around lower sales values.
+
+Monthly Trends: Sales exhibit clear seasonal patterns, with peaks during certain months (e.g., holidays and special promotions).
+Impact of Promotions and Holidays:
+
+Promotions: Sales during promotional periods were significantly higher compared to non-promotional periods.
+
+Holidays: StateHoliday and SchoolHoliday had a notable impact on sales, with increased sales during holidays.
+
+Competition Impact:
+Competition Distance: Sales were negatively impacted by the proximity of competitors. Shorter competition distances correlated with lower sales.
+
+Store Attributes:
+Store Type and Assortment: Different store types and assortments had varying impacts on sales. Stores with more extensive assortments generally achieved higher sales.
+
+Time Series Decomposition:
+
+Trend Component: Sales exhibited a long-term increasing trend over the years.
+
+Seasonal Component: Seasonal effects were prominent, with specific times of the year showing predictable patterns of higher or lower sales.
+
+Residual Component: The residuals indicated periods of sales performance that deviated from the trend and seasonal expectations, often influenced by external factors like promotions and holidays.
+
+Model Performance:
+Linear Regression: Provided a baseline with moderate performance metrics (MAE, RMSE, R-squared).
+Random Forest: Improved performance over linear regression, capturing non-linear relationships and interactions more effectively.
+
+Inventory Optimization:
+Economic Order Quantity (EOQ): Suggested optimal order quantities to minimize inventory costs while meeting demand.
+
+Safety Stock: Calculated safety stock levels to ensure adequate inventory during demand fluctuations.
+Reorder Point (ROP): Determined reorder points to trigger inventory restocking, minimizing stockouts and excess inventory.
+
+Sales Forecasting:
+Actual vs Predicted Sales: Random Forest model predictions closely matched actual sales, indicating effective forecasting capability.
