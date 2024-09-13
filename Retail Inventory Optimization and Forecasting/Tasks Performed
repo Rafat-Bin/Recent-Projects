@@ -1,0 +1,68 @@
+1. Data Loading and Cleaning
+Task 1.1: Loaded train.csv (sales data) and store.csv (store attributes).
+Task 1.2: Merged datasets on the Store identifier.
+Task 1.3: Converted Date to datetime and sorted data by date.
+Task 1.4: Handled missing values (e.g., filling missing CompetitionDistance and promotion information).
+Task 1.5: Converted categorical columns like StateHoliday, StoreType, and Assortment to appropriate types.
+
+2. Exploratory Data Analysis (EDA)
+2.1 Univariate Analysis
+Task 2.1.1: Visualized the distribution of Sales and Customers using histograms.
+
+2.2 Bivariate Analysis
+Task 2.2.1: Plotted Sales vs Customers using a scatter plot.
+Task 2.2.2: Analyzed the effect of promotions on sales using a Sales vs Promo box plot.
+Task 2.2.3: Visualized the impact of StateHoliday on sales using a box plot.
+
+2.3 Time Series Analysis
+Task 2.3.1: Resampled the data monthly and visualized monthly sales trends.
+
+3. Time Series Decomposition
+Task 3.1: Decomposed the sales time series into trend, seasonal, and residual components.
+Task 3.2: Visualized the time series decomposition to understand cyclical patterns.
+
+4. Advanced Exploratory Data Analysis
+4.1 Correlation Analysis
+Task 4.1.1: Generated a correlation matrix for numerical variables (e.g., Sales, Customers, Promo, CompetitionDistance).
+
+4.2 Promo Effect Over Time
+Task 4.2.1: Compared Promo vs Non-Promo Sales over time using a time series plot.
+
+4.3 Store Type and Assortment Analysis
+Task 4.3.1: Compared average sales across StoreType and Assortment categories.
+
+4.4 Competition Impact
+Task 4.4.1: Analyzed the effect of CompetitionDistance on sales by grouping distances into bins.
+
+4.5 Sales Distribution by Day of Week
+Task 4.5.1: Visualized average sales across different days of the week.
+
+4.6 Seasonal Trends Across Years
+Task 4.6.1: Visualized seasonal sales trends over multiple years using a heatmap.
+
+5. Feature Engineering
+Task 5.1: Added time-based features like Month and Year.
+Task 5.2: Created an interaction term for Promo and SchoolHoliday (Promo_SchoolHoliday).
+
+6. Machine Learning: Sales Forecasting
+6.1 Baseline Linear Regression
+Task 6.1.1: Split the dataset into training and test sets.
+Task 6.1.2: Trained a baseline Linear Regression model.
+Task 6.1.3: Evaluated the model using MAE, RMSE, and R-squared metrics.
+
+6.2 Random Forest Model
+Task 6.2.1: Trained a more advanced Random Forest model.
+Task 6.2.2: Evaluated the Random Forest model using MAE, RMSE, and R-squared.
+
+7. Inventory Optimization Calculations
+
+7.1 Economic Order Quantity (EOQ)
+Task 7.1.1: Calculated the EOQ using the average sales demand and cost parameters.
+
+7.2 Safety Stock and Reorder Point (ROP)
+Task 7.2.1: Calculated Safety Stock to ensure product availability during variable demand.
+Task 7.2.2: Calculated the Reorder Point (ROP) based on demand and lead time.
+
+8. Reporting and Visualization
+8.1 Visualizing Sales Forecast vs Actual Sales
+Task 8.1.1: Visualized Actual vs Predicted Sales using a plot comparing Random Forest model predictions against actual sales data.
