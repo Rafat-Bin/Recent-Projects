@@ -1,0 +1,9 @@
+List of Key Findings:
+
+1. Data Quality: Enhanced dataset reliability by effectively handling missing values and outliers.
+2. Fraud Incidence Rate: Identified a 5% overall fraud rate, with variances up to 6% in specific categories and regions.
+3. Temporal Patterns: Observed a 15% increase in transaction volume during certain periods, indicating potential fraud risk.
+4. Customer and Merchant Behavior: Identified patterns in customer demographics and merchant activities linked to higher fraud rates.
+5. Feature Engineering Impact: Improved fraud detection by incorporating features related to customer behavior, merchant risk, and temporal trends.
+6. Model Performance: Achieved high accuracy with the Random Forest Classifier, demonstrating the importance of addressing class imbalance.
+7. Need for Advanced Techniques: Recognized the necessity for more sophisticated machine learning models to handle complex and evolving fraud patterns.
