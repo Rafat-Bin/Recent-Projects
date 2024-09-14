@@ -1,0 +1,24 @@
+List of Tasks Performed:
+
+1. Data Cleaning and Preparation
+Handled missing values and outliers.
+Merged date and time fields into a single datetime column.
+
+2. Exploratory Data Analysis (EDA)
+Analyzed transaction patterns over time and by category.
+Investigated customer demographics and behaviors for fraud indicators.
+Explored geographical and merchant data to identify high-risk regions.
+
+3. Feature Engineering
+Created new features related to customer behavior and merchant risk.
+Developed temporal features to enhance the dataset's predictive power.
+
+4. Machine Learning for Fraud Detection
+Built and evaluated a Random Forest Classifier for fraud detection.
+Addressed class imbalance with class weight adjustments.
+Tuned decision thresholds to improve model sensitivity to fraud.
+
+5. Model Optimization and Recommendations
+Optimized the Random Forest model for higher accuracy.
+Suggested advanced techniques for handling imbalanced data.
+Recommended further feature engineering to improve fraud detection.
