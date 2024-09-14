@@ -1,0 +1,47 @@
+1. Data Preparation and Cleaning
+Loaded the dataset and checked for inconsistencies.
+Cleaned and preprocessed the data, handling missing values and formatting dates.
+Feature engineering to add and refine attributes like Fire_Occurrence.
+
+2. Exploratory Data Analysis (EDA)
+Descriptive Statistics: Calculated summary stats for fire size and duration.
+Correlation Analysis: Analyzed relationships between variables.
+
+Visual Explorations:
+Scatter Plots: Examined fire size trends by day, month, year, and location.
+
+Box Plots: Visualized fire sizes by primary and secondary causes.
+
+Bar Plots: Assessed the number and size of fires by cause, month, and region.
+
+Heatmaps: Created density maps to identify fire hotspots.
+
+Clustering and Spatial Analysis:
+Applied K-Means clustering on geospatial data.
+Mapped fire incidents and visualized clusters.
+
+Temporal Analysis:
+Plotted the number of fires and fire sizes over time.
+Decomposed time series into trend and seasonality.
+
+Fire Size Distribution:
+Categorized fires into size groups.
+Analyzed fire duration distribution.
+
+Causal Analysis: Investigated primary and secondary fire causes and their seasonal variations.
+
+3. Advanced Analysis
+Fire Duration Analysis: Examined typical fire lifespans and anomalies.
+Clustering and Density Analysis: Used clustering and density mapping for spatial pattern insights.
+
+4. Modeling with Random Forest
+Model Setup: Selected and prepared features for modeling.
+Model Training: Trained a Random Forest classifier.
+Hyperparameter Tuning: Used GridSearchCV to optimize model parameters.
+Model Evaluation: Evaluated using accuracy, precision, recall, and adjusted thresholds.
+Feature Importance: Identified key features influencing fire occurrences.
+Precision-Recall Trade-off: Analyzed optimal threshold settings for balanced performance.
+
+5. Visualization of Model Results
+Plotted precision-recall curves.
+Visualized feature importances.
