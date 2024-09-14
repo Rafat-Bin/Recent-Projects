@@ -1,0 +1,50 @@
+1. Data Preparation and Cleaning
+Data Quality: The dataset required cleaning for missing values and correct date formatting.
+Feature Engineering: Derived new features like Fire_Occurrence to enhance analysis.
+
+2. Exploratory Data Analysis (EDA)
+Descriptive Statistics:
+Most fires are small in size.
+The mean fire duration is short, with some outliers indicating long-lasting fires.
+Correlation Analysis:
+Moderate correlation between fire size and certain variables like location and date.
+Visual Explorations:
+Seasonal Trends: Higher fire occurrences and sizes in summer months (June, July, August).
+Geographical Distribution: Concentration of fires in specific regions, particularly the Midwest and West.
+Box Plots:
+Fires caused by natural factors (e.g., lightning) tend to be larger.
+Bar Plots:
+Human activities are the most common cause of fires.
+Significant regional variation in both fire occurrences and average fire size.
+Heatmaps:
+Identified fire hotspots in specific geographical areas.
+Clustering and Spatial Analysis:
+Clusters revealed distinct spatial patterns, with certain clusters more prone to large fires.
+Temporal Analysis:
+Increasing trend in the number of fires over the decades, peaking in the 1980s and 1990s.
+Consistent seasonality with a peak in summer months.
+Fire Size Distribution:
+Most fires are categorized as small; very few are large or very large.
+Causal Analysis:
+Human causes dominate in number, while natural causes (e.g., lightning) result in larger fires on average.
+
+3. Advanced Analysis
+Fire Duration Analysis:
+Majority of fires have short durations, but a few last much longer, indicating potential data quality issues or extreme conditions.
+Clustering and Density Analysis:
+Spatial clusters correlate with regions of high fire density, revealing geographic patterns in fire occurrences.
+
+4. Modeling with Random Forest
+Model Performance:
+Random Forest achieved high accuracy (~95%).
+Precision-recall trade-off showed that adjusting the threshold improved model balance.
+Feature Importance:
+Top Features: Year, Longitude, Latitude, and Day were the most influential features in predicting fire occurrences.
+Threshold Adjustment:
+Adjusting the decision threshold to 0.4 improved recall for smaller fire occurrences while maintaining overall accuracy.
+
+5. Visualization of Model Results
+Precision-Recall Trade-off:
+Showed the impact of varying thresholds on model performance, helping to balance between false positives and negatives.
+Feature Importances:
+Highlighted the importance of temporal and spatial features, confirming the influence of seasonality and location on fire occurrences.
