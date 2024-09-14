@@ -1,0 +1,64 @@
+Here is list of task performed:
+
+1. Python:
+
+Data Cleaning:
+Removed unnecessary columns.
+Standardized text data (e.g., city and state names to uppercase).
+Handled missing values.
+Converted date formats and performed currency conversion (INR to USD).
+
+Data Preparation:
+Created new columns (Year, Month, Week_day).
+Calculated revenue for each transaction.
+
+Exploratory Data Analysis (EDA):
+Analyzed total revenue, average order value, top products, and peak sales periods.
+Identified order cancellation trends, geographic sales distribution, and fulfillment efficiencies.
+
+2. SQL:
+
+Data Cleaning:
+Dropped unnecessary columns directly from the database.
+Renamed columns for standardization.
+Standardized ship_city and ship_state values.
+Handled missing values and updated null entries.
+Converted date data type and currency (INR to USD).
+
+Data Transformation:
+Created new columns (Year, Month_name, Week_day).
+Added a Revenue column.
+
+Exploratory Data Analysis (EDA):
+Queried total revenue, top products, average order value, and peak sales periods.
+Analyzed order cancellations by various factors.
+Compared Amazon vs. merchant performance.
+Evaluated promotion effectiveness and shipping method preferences.
+
+3. Power BI:
+
+Dashboard Creation:
+Designed an interactive dashboard to visualize key metrics (e.g., total revenue, total orders).
+Visualized sales trends by product, region, and time period.
+Displayed insights on Amazon vs. merchant performance.
+
+Data Visualization:
+Used tree maps, bar charts, line graphs, and pie charts to present insights.
+Showcased order cancellation trends and fulfillment analysis.
+
+Interactivity:
+Enabled users to explore data through interactive visuals, including filters and dynamic charts.
+
+3. Tableau:
+
+Dashboard Creation:
+Created a dynamic dashboard with filters for deeper data exploration.
+Visualized revenue trends, top products, and geographical sales distribution.
+
+Data Visualization:
+Used tree maps, bar charts, line graphs, and maps for comprehensive data presentation.
+Visualized promotion effectiveness and cancellation trends.
+
+Interactivity and Analysis:
+Provided a visual comparison of Amazon vs. merchant performance.
+Enabled intuitive exploration of key metrics through interactive filters and visuals.
